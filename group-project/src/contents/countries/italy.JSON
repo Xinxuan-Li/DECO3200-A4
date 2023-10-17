@@ -1,0 +1,232 @@
+{
+    "countryName": "Italy",
+    "countryFlagImage": "\\img\\italy\\flag.jpg",
+    "countryPatternImage": "\\img\\italy\\pattern.jpg",
+    "countryIntroduction": "Italy, a beautiful country in Southern Europe, is renowned for its rich history, stunning art and architecture, and delectable cuisine. From the ancient ruins of Rome to the romantic canals of Venice, Italy offers a diverse range of experiences. Italian cuisine, including pasta, pizza, and gelato, is celebrated worldwide for its flavors and simplicity. Italian culture is deeply rooted in art, music, and a love for life's pleasures.",
+    "traditionalDishes": [
+        {
+            "dishName": "Pizza",
+            "dishNameInOwnLanguage": "Pizza",
+            "dishImages": [
+                "\\img\\italy\\pizza1.jpg",
+                "\\img\\italy\\pizza2.jpg",
+                "\\img\\italy\\pizza3.jpg"
+            ],
+            "dishIngredients": "Dough, Tomato Sauce, Mozzarella Cheese, Toppings (e.g., Pepperoni, Mushrooms, Olives)",
+            "dishDescription": "Pizza is an iconic Italian dish consisting of a thin or thick crust topped with tomato sauce, cheese, and various toppings. It's baked to perfection and enjoyed worldwide.",
+            "dishStory": "Pizza's history in Italy dates back to ancient Rome, where flatbreads with various toppings were a common snack. Modern pizza, as we know it, originated in Naples. It gained popularity and soon became a global sensation, with countless variations and toppings to suit every palate."
+        },
+        {
+            "dishName": "Pasta Carbonara",
+            "dishNameInOwnLanguage": "Pasta alla Carbonara",
+            "dishImages": [
+                "\\img\\italy\\carbonara1.jpg",
+                "\\img\\italy\\carbonara2.jpg",
+                "\\img\\italy\\carbonara3.jpg"
+            ],
+            "dishIngredients": "Pasta (typically spaghetti), Eggs, Pecorino Romano Cheese, Guanciale (cured pork cheek), Black Pepper",
+            "dishDescription": "Pasta Carbonara is a classic Roman dish known for its creamy sauce made from eggs, cheese, and pancetta. It's a simple yet indulgent delight.",
+            "dishStory": "Pasta Carbonara's origins are debated, but it's widely loved throughout Italy. Its name, 'carbonara,' is believed to be a reference to charcoal workers ('carbonai') who might have enjoyed this hearty meal. Today, it's a beloved comfort food around the world."
+        },
+        {
+            "dishName": "Gelato",
+            "dishNameInOwnLanguage": "Gelato",
+            "dishImages": [
+                "\\img\\italy\\gelato1.jpg",
+                "\\img\\italy\\gelato2.jpg",
+                "\\img\\italy\\gelato3.jpg"
+            ],
+            "dishIngredients": "Milk, Sugar, Flavorings (e.g., Fruit, Nuts, Chocolate)",
+            "dishDescription": "Gelato is Italy's version of ice cream, known for its smooth, dense, and intensely flavored scoops. It comes in a wide range of flavors and is a beloved dessert.",
+            "dishStory": "Gelato has a history dating back to ancient Rome when they enjoyed a similar frozen treat. However, modern gelato, with its creamy texture and vibrant flavors, emerged during the Italian Renaissance. Gelato shops ('gelaterias') are a common sight on Italian streets, offering a delightful way to beat the heat."
+        },
+        {
+            "dishName": "Lasagna",
+            "dishNameInOwnLanguage": "Lasagna",
+            "dishImages": [
+                "\\img\\italy\\lasagna1.jpg",
+                "\\img\\italy\\lasagna2.jpg",
+                "\\img\\italy\\lasagna3.jpg"
+            ],
+            "dishIngredients": "Wide Pasta Sheets, Bolognese Sauce, Bechamel Sauce, Parmesan Cheese",
+            "dishDescription": "Lasagna is a layered pasta dish made with wide sheets of pasta, rich Bolognese sauce, creamy bechamel sauce, and plenty of cheese.",
+            "dishStory": "Lasagna has its roots in ancient Greece, but it's a quintessential Italian dish today. It's a hearty and comforting meal enjoyed on special occasions and family gatherings. The layers of pasta, sauce, and cheese create a symphony of flavors."
+        },
+        {
+            "dishName": "Tiramisu",
+            "dishNameInOwnLanguage": "Tiramisù",
+            "dishImages": [
+                "\\img\\italy\\tiramisu1.jpg",
+                "\\img\\italy\\tiramisu2.jpg",
+                "\\img\\italy\\tiramisu3.jpg"
+            ],
+            "dishIngredients": "Ladyfingers, Mascarpone Cheese, Coffee, Cocoa Powder, Eggs, Sugar",
+            "dishDescription": "Tiramisu is a luscious Italian dessert made with layers of coffee-soaked ladyfingers, creamy mascarpone cheese, and a dusting of cocoa powder.",
+            "dishStory": "Tiramisu's name means 'pick me up,' and it's a dessert that does just that with its delightful blend of flavors and a caffeine kick from the coffee. It was invented in the 1960s in the Veneto region and quickly became a global sensation."
+        },
+        {
+            "dishName": "Risotto",
+            "dishNameInOwnLanguage": "Risotto",
+            "dishImages": [
+                "\\img\\italy\\risotto1.jpg",
+                "\\img\\italy\\risotto2.jpg",
+                "\\img\\italy\\risotto3.jpg"
+            ],
+            "dishIngredients": "Arborio Rice, Broth (e.g., Chicken or Vegetable), White Wine, Onions, Parmesan Cheese",
+            "dishDescription": "Risotto is a creamy Italian rice dish made by slowly cooking Arborio rice with flavorful broth and other ingredients like wine, onions, and cheese.",
+            "dishStory": "Risotto is a culinary masterpiece that requires patience and attention. It's a staple of Italian cuisine and comes in various flavors, with mushroom and saffron risotto being some popular variations."
+        },
+        {
+            "dishName": "Panettone",
+            "dishNameInOwnLanguage": "Panettone",
+            "dishImages": [
+                "\\img\\italy\\panettone1.jpg",
+                "\\img\\italy\\panettone2.jpg",
+                "\\img\\italy\\panettone3.jpg"
+            ],
+            "dishIngredients": "Flour, Eggs, Candied Fruits, Raisins, Butter, Sugar",
+            "dishDescription": "Panettone is a sweet, dome-shaped bread filled with candied fruits and raisins. It's a traditional Italian Christmas treat.",
+            "dishStory": "Panettone has been a Christmas favorite in Italy for centuries. Its light and airy texture, combined with the sweetness of candied fruits, make it a delightful holiday indulgence."
+        },
+        {
+            "dishName": "Osso Buco",
+            "dishNameInOwnLanguage": "Osso Buco",
+            "dishImages": [
+                "\\img\\italy\\osso_buco1.jpg",
+                "\\img\\italy\\osso_buco2.jpg",
+                "\\img\\italy\\osso_buco3.jpg"
+            ],
+            "dishIngredients": "Veal Shank, White Wine, Tomatoes, Onions, Gremolata (Lemon Zest, Garlic, Parsley)",
+            "dishDescription": "Osso Buco is a Milanese specialty featuring braised veal shank cooked with white wine, tomatoes, and a flavorful gremolata.",
+            "dishStory": "Osso Buco is a testament to Italian culinary excellence, known for its tender meat and rich, aromatic sauce. It's often served with risotto alla milanese, a saffron-infused rice dish."
+        },
+        {
+            "dishName": "Caprese Salad",
+            "dishNameInOwnLanguage": "Insalata Caprese",
+            "dishImages": [
+                "\\img\\italy\\caprese_salad1.jpg",
+                "\\img\\italy\\caprese_salad2.jpg",
+                "\\img\\italy\\caprese_salad3.jpg"
+            ],
+            "dishIngredients": "Tomatoes, Fresh Mozzarella Cheese, Basil Leaves, Olive Oil, Balsamic Vinegar",
+            "dishDescription": "Caprese Salad is a simple and refreshing Italian salad made with ripe tomatoes, fresh mozzarella, fragrant basil, and a drizzle of olive oil and balsamic vinegar.",
+            "dishStory": "Caprese Salad is a celebration of Italy's fresh and vibrant flavors. It's named after the island of Capri, where it originated. This salad is a delightful appetizer or side dish."
+        },
+        {
+            "dishName": "Amatriciana Pasta",
+            "dishNameInOwnLanguage": "Pasta all'Amatriciana",
+            "dishImages": [
+                "\\img\\italy\\amatriciana_pasta1.jpg",
+                "\\img\\italy\\amatriciana_pasta2.jpg",
+                "\\img\\italy\\amatriciana_pasta3.jpg"
+            ],
+            "dishIngredients": "Pasta (typically bucatini or spaghetti), Tomato Sauce, Guanciale (cured pork cheek), Pecorino Romano Cheese, Red Pepper Flakes",
+            "dishDescription": "Amatriciana Pasta is a classic Roman dish known for its bold and spicy tomato sauce, guanciale (cured pork), and generous sprinkle of Pecorino Romano cheese.",
+            "dishStory": "Amatriciana Pasta hails from the town of Amatrice in Italy. It's a flavorful pasta dish that combines the richness of pork, the tanginess of tomatoes, and the heat of red pepper flakes."
+        }
+    ],
+    "eatingHabits": [
+        {
+            "eatingHabitName": "Italian Aperitivo",
+            "eatingHabitDescription": "Pre-Dinner Drinks and Appetizers",
+            "eatingHabitReason": "The Italian aperitivo is a social ritual that involves enjoying drinks and small bites before dinner. It stimulates the appetite and encourages socializing."
+        },
+        {
+            "eatingHabitName": "Espresso Culture",
+            "eatingHabitDescription": "Quick and Strong Coffee",
+            "eatingHabitReason": "Italians take their coffee seriously, often preferring a shot of espresso over a large cup. Espresso is a quick caffeine boost to kickstart the day."
+        },
+        {
+            "eatingHabitName": "Farm-to-Table Philosophy",
+            "eatingHabitDescription": "Fresh and Local Ingredients",
+            "eatingHabitReason": "Italian cuisine places a strong emphasis on using fresh, locally sourced ingredients. It enhances the flavor and quality of dishes."
+        },
+        {
+            "eatingHabitName": "Family Sunday Lunch",
+            "eatingHabitDescription": "Weekly Gathering and Feast",
+            "eatingHabitReason": "Sundays in Italy are reserved for family and food. It's a time for generations to come together, share stories, and enjoy a hearty meal."
+        },
+        {
+            "eatingHabitName": "Gelato Strolls",
+            "eatingHabitDescription": "Casual Ice Cream Outings",
+            "eatingHabitReason": "Italians love gelato, and a leisurely stroll while enjoying a scoop of gelato is a cherished pastime during warm evenings."
+        },
+        {
+            "eatingHabitName": "Wine Pairing Expertise",
+            "eatingHabitDescription": "Matching Wines with Meals",
+            "eatingHabitReason": "Italy is renowned for its wine culture, and Italians take pride in selecting the perfect wine to complement their meals."
+        }
+    ],
+    "festivals": [
+        {
+            "festivalName": "Carnival of Venice",
+            "festivalMonth": 2,
+            "festivalDate": 11,
+            "festivalImage": "\\img\\italy\\carnival_of_venice.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Frittelle",
+                    "festivalDishImage": "\\img\\italy\\frittelle.jpg",
+                    "festivalDishDescription": "Frittelle are sweet Venetian fritters often enjoyed during the Carnival of Venice."
+                }
+            ],
+            "festivalDescription": "The Carnival of Venice is a grand celebration known for its elaborate masks and costumes. It features music, dance, and delicious sweets like frittelle."
+        },
+        {
+            "festivalName": "Easter",
+            "festivalMonth": 4,
+            "festivalDate": 17,
+            "festivalImage": "\\img\\italy\\easter.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Colomba di Pasqua",
+                    "festivalDishImage": "\\img\\italy\\colomba_di_pasqua.jpg",
+                    "festivalDishDescription": "Colomba di Pasqua, or 'Easter Dove,' is a traditional Easter cake shaped like a dove."
+                }
+            ],
+            "festivalDescription": "Easter in Italy is marked by religious processions and feasting. Families gather to enjoy a special Easter meal, and Colomba di Pasqua is a sweet highlight."
+        },
+        {
+            "festivalName": "Sagra dell'Uva",
+            "festivalMonth": 9,
+            "festivalDate": 1,
+            "festivalImage": "\\img\\italy\\sagra_dell_uva.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Polenta e Uva",
+                    "festivalDishImage": "\\img\\italy\\polenta_e_uva.jpg",
+                    "festivalDishDescription": "Polenta e Uva, a combination of cornmeal porridge and grapes, is a traditional treat during the Sagra dell'Uva."
+                }
+            ],
+            "festivalDescription": "The Sagra dell'Uva, or Grape Festival, celebrates the grape harvest. It includes grape-themed decorations, music, and the delightful Polenta e Uva dessert."
+        },
+        {
+            "festivalName": "Festa della Repubblica",
+            "festivalMonth": 6,
+            "festivalDate": 2,
+            "festivalImage": "\\img\\italy\\festa_della_repubblica.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Panzanella",
+                    "festivalDishImage": "\\img\\italy\\panzanella.jpg",
+                    "festivalDishDescription": "Panzanella is a refreshing Tuscan salad featuring stale bread, tomatoes, and fresh herbs."
+                }
+            ],
+            "festivalDescription": "Festa della Repubblica is Italy's National Day, celebrating the establishment of the Italian Republic. It's a patriotic holiday with events and Panzanella."
+        },
+        {
+            "festivalName": "L'Immacolata Concezione",
+            "festivalMonth": 12,
+            "festivalDate": 8,
+            "festivalImage": "\\img\\italy\\immacolata_concezione.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Zeppole",
+                    "festivalDishImage": "\\img\\italy\\zeppole.jpg",
+                    "festivalDishDescription": "Zeppole are deep-fried pastries enjoyed on L'Immacolata Concezione."
+                }
+            ],
+            "festivalDescription": "L'Immacolata Concezione, or the Immaculate Conception, is a religious holiday in Italy. It's observed with church services and indulgent Zeppole pastries."
+        }
+    ]
+}

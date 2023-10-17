@@ -1,0 +1,232 @@
+{
+    "countryName": "India",
+    "countryFlagImage": "\\img\\india\\flag.jpg",
+    "countryPatternImage": "\\img\\india\\pattern.jpg",
+    "countryIntroduction": "India, located in South Asia, is a land of diverse cultures, rich history, and culinary traditions that span centuries. From the vibrant colors of Diwali to the serene practices of yoga, India offers a unique and captivating experience. Indian cuisine, including dishes like biryani, curry, and samosa, is celebrated worldwide for its flavors and spices. The culture is deeply rooted in traditions like dance, music, and festivals that reflect the country's unity in diversity.",
+    "traditionalDishes": [
+        {
+            "dishName": "Biryani",
+            "dishNameInOwnLanguage": "बिरयानी",
+            "dishImages": [
+                "\\img\\india\\biryani1.jpg",
+                "\\img\\india\\biryani2.jpg",
+                "\\img\\india\\biryani3.jpg"
+            ],
+            "dishIngredients": "Basmati rice, Meat (chicken, mutton, or beef), Spices, Yogurt, Saffron, Fried onions",
+            "dishDescription": "Biryani is a fragrant and flavorful Indian rice dish made with aromatic spices, tender meat, and long-grain Basmati rice. It is often garnished with saffron and fried onions.",
+            "dishStory": "Biryani has a royal history dating back to the Mughal era when it was considered a luxurious dish fit for kings. It's known for its distinctive layers of rice and meat, cooked to perfection with a blend of spices. Biryani is more than a meal; it's a celebration of India's culinary heritage."
+        },
+        {
+            "dishName": "Curry",
+            "dishNameInOwnLanguage": "करी",
+            "dishImages": [
+                "\\img\\india\\curry1.jpg",
+                "\\img\\india\\curry2.jpg",
+                "\\img\\india\\curry3.jpg"
+            ],
+            "dishIngredients": "Meat or vegetables, Curry spices (turmeric, cumin, coriander, etc.), Tomato, Onion, Garlic, Ginger",
+            "dishDescription": "Curry is a diverse range of dishes in Indian cuisine known for their rich, flavorful sauces. It can be made with meat, vegetables, or legumes and is typically served with rice or bread.",
+            "dishStory": "Curry is a culinary treasure of India, with regional variations that showcase the country's cultural diversity. The word 'curry' itself has roots in the Tamil word 'kari,' meaning sauce or gravy. Each curry is a symphony of spices and ingredients that vary from one part of India to another."
+        },
+        {
+            "dishName": "Samosa",
+            "dishNameInOwnLanguage": "समोसा",
+            "dishImages": [
+                "\\img\\india\\samosa1.jpg",
+                "\\img\\india\\samosa2.jpg",
+                "\\img\\india\\samosa3.jpg"
+            ],
+            "dishIngredients": "Triangular pastry, Potato, Peas, Spices (cumin, coriander, garam masala), Deep-fried",
+            "dishDescription": "Samosa is a popular Indian snack consisting of a crispy, triangular pastry filled with a savory mixture of spiced potatoes, peas, and sometimes meat.",
+            "dishStory": "Samosa is believed to have originated in medieval India and has since become an iconic street food. Its crispy exterior and flavorful filling, often served with chutney, make it a beloved snack enjoyed across the country."
+        },
+        {
+            "dishName": "Masala Dosa",
+            "dishNameInOwnLanguage": "मसाला दोसा",
+            "dishImages": [
+                "\\img\\india\\masala_dosa1.jpg",
+                "\\img\\india\\masala_dosa2.jpg",
+                "\\img\\india\\masala_dosa3.jpg"
+            ],
+            "dishIngredients": "Fermented rice and lentil crepe, Potato filling, Masala spices (mustard seeds, turmeric, curry leaves)",
+            "dishDescription": "Masala Dosa is a South Indian specialty consisting of a thin, crispy crepe made from fermented rice and lentil batter, filled with a spiced potato mixture.",
+            "dishStory": "Masala Dosa is an integral part of South Indian cuisine and is cherished for its delicious contrast of textures and flavors. It's often served with coconut chutney and sambar, a flavorful lentil soup."
+        },
+        {
+            "dishName": "Chaat",
+            "dishNameInOwnLanguage": "चाट",
+            "dishImages": [
+                "\\img\\india\\chaat1.jpg",
+                "\\img\\india\\chaat2.jpg",
+                "\\img\\india\\chaat3.jpg"
+            ],
+            "dishIngredients": "Assorted snacks (potato, chickpeas, yogurt, spices), Tamarind chutney, Mint chutney",
+            "dishDescription": "Chaat is a popular Indian street food that combines a variety of crispy snacks, boiled potatoes, and chickpeas, all drizzled with tangy tamarind and mint chutney.",
+            "dishStory": "Chaat is a delightful medley of textures and flavors, from crunchy to tangy to spicy. It's a beloved street food found throughout India, and regional variations add to its diversity."
+        },
+        {
+            "dishName": "Paneer Tikka",
+            "dishNameInOwnLanguage": "पनीर टिक्का",
+            "dishImages": [
+                "\\img\\india\\paneer_tikka1.jpg",
+                "\\img\\india\\paneer_tikka2.jpg",
+                "\\img\\india\\paneer_tikka3.jpg"
+            ],
+            "dishIngredients": "Marinated and grilled paneer (Indian cottage cheese), Bell peppers, Onions, Yogurt, Spices",
+            "dishDescription": "Paneer Tikka is a popular vegetarian appetizer in Indian cuisine. It features marinated and grilled pieces of paneer cheese, bell peppers, and onions.",
+            "dishStory": "Paneer Tikka is a flavorful and protein-rich dish often enjoyed at parties and celebrations. The marination process infuses the paneer with a burst of spices and yogurt, creating a delightful appetizer."
+        },
+        {
+            "dishName": "Dosa",
+            "dishNameInOwnLanguage": "दोसा",
+            "dishImages": [
+                "\\img\\india\\dosa1.jpg",
+                "\\img\\india\\dosa2.jpg",
+                "\\img\\india\\dosa3.jpg"
+            ],
+            "dishIngredients": "Thin, fermented rice and lentil crepe",
+            "dishDescription": "Dosa is a thin, crispy crepe made from fermented rice and lentil batter. It is often served with coconut chutney and various fillings.",
+            "dishStory": "Dosa is a versatile South Indian dish that can be enjoyed as a simple snack or as a substantial meal with various accompaniments. Its golden, crispy texture and mild, slightly tangy flavor make it a favorite among many."
+        },
+        {
+            "dishName": "Rogan Josh",
+            "dishNameInOwnLanguage": "रोगन जोश",
+            "dishImages": [
+                "\\img\\india\\rogan_josh1.jpg",
+                "\\img\\india\\rogan_josh2.jpg",
+                "\\img\\india\\rogan_josh3.jpg"
+            ],
+            "dishIngredients": "Slow-cooked curry with tender meat (usually lamb or goat), Kashmiri spices, Yogurt, Tomatoes",
+            "dishDescription": "Rogan Josh is a flavorful Indian curry known for its tender, slow-cooked meat and aromatic blend of Kashmiri spices.",
+            "dishStory": "Rogan Josh has its roots in Kashmiri cuisine and is a cherished dish that embodies the essence of Indian spices. The rich and aromatic curry is a culinary masterpiece that showcases the art of slow cooking."
+        },
+        {
+            "dishName": "Jalebi",
+            "dishNameInOwnLanguage": "जलेबी",
+            "dishImages": [
+                "\\img\\india\\jalebi1.jpg",
+                "\\img\\india\\jalebi2.jpg",
+                "\\img\\india\\jalebi3.jpg"
+            ],
+            "dishIngredients": "Deep-fried sweet pretzel-shaped dessert, Sugar syrup, Saffron strands",
+            "dishDescription": "Jalebi is a popular Indian dessert made by deep-frying pretzel-shaped batter and soaking it in sugar syrup, imparting a sweet and syrupy flavor.",
+            "dishStory": "Jalebi is a beloved Indian sweet that is often served at festivals and special occasions. Its bright orange color and unique shape make it instantly recognizable and irresistible."
+        },
+        {
+            "dishName": "Chole Bhature",
+            "dishNameInOwnLanguage": "छोले भटूरे",
+            "dishImages": [
+                "\\img\\india\\chole_bhature1.jpg",
+                "\\img\\india\\chole_bhature2.jpg",
+                "\\img\\india\\chole_bhature3.jpg"
+            ],
+            "dishIngredients": "Spicy chickpea curry (chole), Deep-fried bread (bhature)",
+            "dishDescription": "Chole Bhature is a popular North Indian dish that combines spicy chickpea curry with deep-fried bread, creating a delightful and filling meal.",
+            "dishStory": "Chole Bhature is a comforting and hearty dish enjoyed by people of all ages. The crispy bhature complement the flavorful and spicy chole curry, making it a beloved street food and restaurant favorite."
+        }
+    ],
+    "eatingHabits": [
+        {
+            "eatingHabitName": "Spices and Flavors",
+            "eatingHabitDescription": "Emphasis on Aromatic Spices",
+            "eatingHabitReason": "Indian cuisine is renowned for its extensive use of spices, which enhance flavors and offer health benefits. Spices like turmeric, cumin, and cardamom are staples."
+        },
+        {
+            "eatingHabitName": "Vegetarianism",
+            "eatingHabitDescription": "Significant Vegetarian Population",
+            "eatingHabitReason": "India has a large vegetarian population influenced by cultural, religious, and ethical beliefs. Vegetarian dishes are diverse, flavorful, and nutritious."
+        },
+        {
+            "eatingHabitName": "Ayurvedic Principles",
+            "eatingHabitDescription": "Balancing Body and Mind",
+            "eatingHabitReason": "Ayurveda, an ancient Indian system of medicine, emphasizes food's role in balance and health. Meals are often designed to suit individual body types (doshas)."
+        },
+        {
+            "eatingHabitName": "Family and Community Dining",
+            "eatingHabitDescription": "Shared Meals and Bonding",
+            "eatingHabitReason": "Indian culture places great importance on communal dining, bringing families and communities together. Sharing meals strengthens relationships and fosters a sense of unity."
+        },
+        {
+            "eatingHabitName": "Street Food Culture",
+            "eatingHabitDescription": "Vibrant Street Food Scene",
+            "eatingHabitReason": "India's bustling streets are adorned with food stalls offering a wide array of snacks and dishes. Street food is an integral part of Indian culinary culture."
+        },
+        {
+            "eatingHabitName": "Fasting Practices",
+            "eatingHabitDescription": "Religious Fasting",
+            "eatingHabitReason": "Many Indians observe religious fasts on specific days, which often involve abstaining from certain foods. Fasting is a spiritual practice that varies across regions and communities."
+        }
+    ],
+    "festivals": [
+        {
+            "festivalName": "Pongal",
+            "festivalMonth": 1,
+            "festivalDate": 14,
+            "festivalImage": "\\img\\india\\pongal.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Pongal",
+                    "festivalDishImage": "\\img\\india\\pongal_dish.jpg",
+                    "festivalDishDescription": "Pongal is a dish made from newly harvested rice and lentils, cooked with spices and ghee. It is the namesake of the festival."
+                }
+            ],
+            "festivalDescription": "Pongal is a Tamil harvest festival that expresses gratitude to the sun god for a bountiful harvest. The dish 'Pongal' is central to the celebration and is cooked in a traditional clay pot."
+        },
+        {
+            "festivalName": "Holi",
+            "festivalMonth": 3,
+            "festivalDate": 10,
+            "festivalImage": "\\img\\india\\holi.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Gujiya",
+                    "festivalDishImage": "\\img\\india\\gujiya.jpg",
+                    "festivalDishDescription": "Gujiya is a sweet dumpling filled with a mixture of khoya (milk solids) and dry fruits. It is a popular Holi treat."
+                }
+            ],
+            "festivalDescription": "Holi, the Festival of Colors, is a joyous celebration where people play with colored powders and water. It marks the arrival of spring and the triumph of good over evil. Gujiya and other sweets are enjoyed during this vibrant festival."
+        },
+        {
+            "festivalName": "Eid al-Fitr",
+            "festivalMonth": 9,
+            "festivalDate": 1,
+            "festivalImage": "\\img\\india\\eid_al_fitr.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Biryani",
+                    "festivalDishImage": "\\img\\india\\biryani_eid.jpg",
+                    "festivalDishDescription": "Biryani, a fragrant rice dish with meat or vegetables, is a popular choice for the Eid al-Fitr feast."
+                }
+            ],
+            "festivalDescription": "Eid al-Fitr is a significant Muslim festival that marks the end of Ramadan, a month of fasting and reflection. Families come together to break their fast and enjoy a lavish feast that includes delicious dishes like biryani."
+        },
+        {
+            "festivalName": "Navratri",
+            "festivalMonth": 10,
+            "festivalDate": 1,
+            "festivalImage": "\\img\\india\\navratri.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Kaju Katli",
+                    "festivalDishImage": "\\img\\india\\kaju_katli.jpg",
+                    "festivalDishDescription": "Kaju Katli is a popular Indian sweet made from cashew nuts and sugar. It's often prepared and shared during Navratri."
+                }
+            ],
+            "festivalDescription": "Navratri is a Hindu festival that spans nine nights and celebrates the goddess Durga. It involves dance, music, and fasting. Kaju Katli and other sweets are enjoyed as part of the festivities."
+        },
+        {
+            "festivalName": "Diwali",
+            "festivalMonth": 11,
+            "festivalDate": 15,
+            "festivalImage": "\\img\\india\\diwali.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Mithai",
+                    "festivalDishImage": "\\img\\india\\mithai.jpg",
+                    "festivalDishDescription": "Mithai refers to a variety of Indian sweets, often made with ingredients like milk, ghee, and sugar. They are exchanged and savored during Diwali."
+                }
+            ],
+            "festivalDescription": "Diwali, the Festival of Lights, is one of India's most celebrated festivals. It symbolizes the victory of light over darkness and good over evil. People decorate their homes with lamps and candles, exchange gifts, and enjoy traditional sweets."
+        }
+    ]
+}

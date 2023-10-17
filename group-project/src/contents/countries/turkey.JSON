@@ -1,0 +1,208 @@
+{
+    "countryName": "Turkey",
+    "countryFlagImage": "\\img\\turkey\\flag.jpg",
+    "countryPatternImage": "\\img\\turkey\\pattern.jpg",
+    "countryIntroduction": "Turkey, a transcontinental country located mainly on the Anatolian Peninsula in Western Asia, with a smaller portion on the Balkan Peninsula in Southeast Europe, is known for its rich history, diverse culture, and delicious cuisine. From the ancient city of Istanbul, where East meets West, to the stunning landscapes of Cappadocia, Turkey offers a unique blend of tradition and modernity. Turkish cuisine, with its flavorful kebabs, baklava, and Turkish delight, has gained international acclaim. Turkish culture is deeply rooted in traditions like coffee, hammams, and the vibrant celebration of festivals.",
+    "traditionalDishes": [
+        {
+            "dishName": "Kebab",
+            "dishNameInOwnLanguage": "Kebap",
+            "dishImages": [
+                "\\img\\turkey\\kebab1.jpg",
+                "\\img\\turkey\\kebab2.jpg",
+                "\\img\\turkey\\kebab3.jpg"
+            ],
+            "dishIngredients": "Grilled meat (lamb, beef, or chicken), Vegetables, Spices, Yogurt, Pita bread",
+            "dishDescription": "Kebab is a beloved Turkish dish that features grilled meat, often seasoned with a blend of spices, served with vegetables, yogurt, and pita bread. There are various types of kebabs, including Adana, Shish, and Döner kebabs.",
+            "dishStory": "Kebab has a long history in Turkey and the Middle East, with roots tracing back to the Ottoman Empire. It's a versatile dish, cooked in different styles across the country. The art of marinating and grilling meat to perfection is a cherished culinary tradition in Turkey."
+        },
+        {
+            "dishName": "Baklava",
+            "dishNameInOwnLanguage": "Baklava",
+            "dishImages": [
+                "\\img\\turkey\\baklava1.jpg",
+                "\\img\\turkey\\baklava2.jpg",
+                "\\img\\turkey\\baklava3.jpg"
+            ],
+            "dishIngredients": "Layers of filo pastry, Nuts (usually pistachios or walnuts), Sugar syrup",
+            "dishDescription": "Baklava is a delightful Turkish dessert made of layers of thin filo pastry, filled with nuts and sweetened with sugar syrup. It is known for its flaky texture and sweet, nutty flavor.",
+            "dishStory": "Baklava has a history dating back centuries and is a symbol of Turkish hospitality. Making baklava is an art, with each layer of filo pastry carefully buttered and layered to create the perfect balance of sweetness and crunch."
+        },
+        {
+            "dishName": "Turkish Delight",
+            "dishNameInOwnLanguage": "Lokum",
+            "dishImages": [
+                "\\img\\turkey\\lokum1.jpg",
+                "\\img\\turkey\\lokum2.jpg",
+                "\\img\\turkey\\lokum3.jpg"
+            ],
+            "dishIngredients": "Starch and sugar-based gel, Flavored with various ingredients (rosewater, nuts, fruits)",
+            "dishDescription": "Turkish Delight, also known as Lokum, is a chewy and sweet confection made from starch and sugar-based gel, often flavored with ingredients like rosewater, nuts, or fruits. It is typically dusted with powdered sugar or coconut.",
+            "dishStory": "Turkish Delight has a long history in Turkey and is often enjoyed with a cup of Turkish coffee. Its sweet and aromatic flavors make it a popular treat, and it comes in a variety of flavors and colors."
+        },
+        {
+            "dishName": "Manti",
+            "dishNameInOwnLanguage": "Manti",
+            "dishImages": [
+                "\\img\\turkey\\manti1.jpg",
+                "\\img\\turkey\\manti2.jpg",
+                "\\img\\turkey\\manti3.jpg"
+            ],
+            "dishIngredients": "Tiny dumplings filled with spiced ground meat, Yogurt, Tomato sauce, Chili oil",
+            "dishDescription": "Manti, often referred to as Turkish dumplings, are tiny dumplings filled with spiced ground meat. They are typically served with yogurt, tomato sauce, and chili oil, creating a harmonious blend of flavors.",
+            "dishStory": "Manti is a traditional Turkish dish with a history dating back to Central Asia. Making the tiny dumplings is a labor of love, often prepared for special occasions and family gatherings."
+        },
+        {
+            "dishName": "Börek",
+            "dishNameInOwnLanguage": "Börek",
+            "dishImages": [
+                "\\img\\turkey\\borek1.jpg",
+                "\\img\\turkey\\borek2.jpg",
+                "\\img\\turkey\\borek3.jpg"
+            ],
+            "dishIngredients": "Thin layers of dough, Filled with cheese, meat, spinach, or potatoes",
+            "dishDescription": "Börek is a savory Turkish pastry made of thin layers of dough, filled with various ingredients such as cheese, meat, spinach, or potatoes. It is often baked to golden perfection.",
+            "dishStory": "Börek has been a staple in Turkish cuisine for centuries and is enjoyed as a snack, appetizer, or main course. Its flaky layers and flavorful fillings make it a favorite among locals and visitors alike."
+        },
+        {
+            "dishName": "Iskender Kebab",
+            "dishNameInOwnLanguage": "İskender Kebap",
+            "dishImages": [
+                "\\img\\turkey\\iskender_kebab1.jpg",
+                "\\img\\turkey\\iskender_kebab2.jpg",
+                "\\img\\turkey\\iskender_kebab3.jpg"
+            ],
+            "dishIngredients": "Slices of Döner kebab meat, Tomato sauce, Yogurt, Pita bread, Butter",
+            "dishDescription": "Iskender Kebab is a delectable Turkish dish that features slices of Döner kebab meat, drizzled with tomato sauce, yogurt, and melted butter, served over pieces of pita bread.",
+            "dishStory": "Iskender Kebab was invented by Iskender Efendi in the late 19th century in Bursa, Turkey. It has since become a beloved classic, known for its rich flavors and satisfying combination of ingredients."
+        },
+        {
+            "dishName": "Kumpir",
+            "dishNameInOwnLanguage": "Kumpir",
+            "dishImages": [
+                "\\img\\turkey\\kumpir1.jpg",
+                "\\img\\turkey\\kumpir2.jpg",
+                "\\img\\turkey\\kumpir3.jpg"
+            ],
+            "dishIngredients": "Baked potato, Various toppings (cheese, vegetables, meat, sauces)",
+            "dishDescription": "Kumpir is a popular Turkish street food made from baked potatoes. They are hollowed out and filled with a variety of toppings, including cheese, vegetables, meat, and sauces.",
+            "dishStory": "Kumpir is a creative and customizable dish that can be found at street food stalls and cafes across Turkey. It offers a delicious and hearty meal that can be tailored to individual tastes."
+        },
+        {
+            "dishName": "Lahmacun",
+            "dishNameInOwnLanguage": "Lahmacun",
+            "dishImages": [
+                "\\img\\turkey\\lahmacun1.jpg",
+                "\\img\\turkey\\lahmacun2.jpg",
+                "\\img\\turkey\\lahmacun3.jpg"
+            ],
+            "dishIngredients": "Thin flatbread, Minced meat (usually lamb or beef), Tomatoes, Peppers, Spices",
+            "dishDescription": "Lahmacun is a thin and crispy Turkish flatbread topped with a mixture of minced meat, tomatoes, peppers, and spices. It is often served with fresh vegetables and a squeeze of lemon.",
+            "dishStory": "Lahmacun is a popular street food in Turkey and is enjoyed as a quick and flavorful snack. Its combination of savory meat and tangy vegetables makes it a tasty and satisfying dish."
+        }
+    ],
+    "eatingHabits": [
+        {
+            "eatingHabitName": "Turkish Tea Culture",
+            "eatingHabitDescription": "Enjoying strong black tea served in small glasses",
+            "eatingHabitReason": "Turkish tea culture is a social tradition that brings people together to chat, relax, and savor the moment. Tea is often served with sugar and is a symbol of hospitality."
+        },
+        {
+            "eatingHabitName": "Meze",
+            "eatingHabitDescription": "Appetizers and small dishes served before the main meal",
+            "eatingHabitReason": "Meze is a part of Turkish dining culture, offering a variety of flavors and textures to whet the appetite. It encourages sharing and sampling a wide range of dishes."
+        },
+        {
+            "eatingHabitName": "Kahvalti (Turkish Breakfast)",
+            "eatingHabitDescription": "A leisurely and diverse breakfast with bread, cheese, olives, eggs, and more",
+            "eatingHabitReason": "Kahvalti is considered the most important meal of the day in Turkey. It's a time for family and friends to gather and enjoy a hearty breakfast together."
+        },
+        {
+            "eatingHabitName": "Meyhane Culture",
+            "eatingHabitDescription": "Traditional taverns offering meze, raki (anise-flavored spirit), and live music",
+            "eatingHabitReason": "Meyhanes are places for socializing, music, and relaxation. They provide a unique dining experience with a focus on enjoyment and camaraderie."
+        },
+        {
+            "eatingHabitName": "Gozleme",
+            "eatingHabitDescription": "Thin, savory Turkish flatbreads filled with various ingredients",
+            "eatingHabitReason": "Gozleme is a popular street food and snack in Turkey. Its portable and customizable nature makes it a convenient and delicious choice for meals on the go."
+        },
+        {
+            "eatingHabitName": "Turkish Coffee Tradition",
+            "eatingHabitDescription": "Rich and strong coffee served in small cups with a side of lokum (Turkish delight)",
+            "eatingHabitReason": "Turkish coffee is more than a beverage; it's a symbol of friendship and conversation. The coffee grounds are used for fortune-telling, adding to the cultural significance."
+        }
+    ],
+    "festivals": [
+        {
+            "festivalName": "Istanbul Tulip Festival",
+            "festivalMonth": 4,
+            "festivalDate": 1,
+            "festivalImage": "\\img\\turkey\\tulip_festival.jpg",
+            "festivalDishes": [
+                {
+                    "feitivalDishName": "Simit",
+                    "feitivalDishImage": "\\img\\turkey\\simit.jpg",
+                    "feitivalDishDescription": "Simit is a popular Turkish bread ring, often covered in sesame seeds and enjoyed as a snack."
+                }
+            ],
+            "festivalDescription": "The Istanbul Tulip Festival is a celebration of spring's arrival, with millions of tulips in full bloom across the city's parks and gardens. Visitors can enjoy traditional treats like Simit while marveling at the colorful displays."
+        },
+        {
+            "festivalName": "Antalya International Sand Sculpture Festival",
+            "festivalMonth": 5,
+            "festivalDate": 1,
+            "festivalImage": "\\img\\turkey\\sand_sculpture_festival.jpg",
+            "festivalDishes": [
+                {
+                    "feitivalDishName": "Köfte",
+                    "feitivalDishImage": "\\img\\turkey\\kofte.jpg",
+                    "feitivalDishDescription": "Köfte are seasoned meatballs, often grilled to perfection and served with accompaniments."
+                }
+            ],
+            "festivalDescription": "The Antalya International Sand Sculpture Festival is a unique event that showcases incredible sand sculptures created by artists from around the world. Köfte, a beloved Turkish dish, is a favorite choice among festival-goers."
+        },
+        {
+            "festivalName": "Çesme International Festival",
+            "festivalMonth": 7,
+            "festivalDate": 15,
+            "festivalImage": "\\img\\turkey\\cesme_festival.jpg",
+            "festivalDishes": [
+                {
+                    "feitivalDishName": "Midye Dolma",
+                    "feitivalDishImage": "\\img\\turkey\\midye_dolma.jpg",
+                    "feitivalDishDescription": "Midye Dolma are stuffed mussels, a popular seafood dish in Çesme."
+                }
+            ],
+            "festivalDescription": "The Çesme International Festival in Izmir showcases the region's culture and heritage. Visitors can enjoy delicious seafood dishes like Midye Dolma while taking part in vibrant festivities."
+        },
+        {
+            "festivalName": "Ramadan",
+            "festivalMonth": 9,
+            "festivalDate": 1,
+            "festivalImage": "\\img\\turkey\\ramadan.jpg",
+            "festivalDishes": [
+                {
+                    "feitivalDishName": "Iftar Feast",
+                    "feitivalDishImage": "\\img\\turkey\\iftar_feast.jpg",
+                    "feitivalDishDescription": "The Iftar feast marks the end of the daily fast during Ramadan, featuring a variety of dishes and sweets."
+                }
+            ],
+            "festivalDescription": "Ramadan is a month of fasting, reflection, and community in Turkey. The breaking of the fast, known as Iftar, is a time for families and friends to gather and share a bountiful feast."
+        },
+        {
+            "festivalName": "Kurban Bayrami (Eid al-Adha)",
+            "festivalMonth": 12,
+            "festivalDate": 10,
+            "festivalImage": "\\img\\turkey\\kurban_bayrami.jpg",
+            "festivalDishes": [
+                {
+                    "feitivalDishName": "Baklava",
+                    "feitivalDishImage": "\\img\\turkey\\baklava.jpg",
+                    "feitivalDishDescription": "Baklava is a sweet and indulgent dessert enjoyed during Kurban Bayrami celebrations."
+                }
+            ],
+            "festivalDescription": "Kurban Bayrami, also known as Eid al-Adha, is a significant religious holiday in Turkey. Families come together to sacrifice an animal and share the meat with those in need. Baklava is a must-have treat during this festive time."
+        }
+    ]
+}

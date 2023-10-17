@@ -1,0 +1,186 @@
+{
+    "countryName": "Vietnam",
+    "countryFlagImage": "\\img\\vietnam\\flag.jpg",
+    "countryPatternImage": "\\img\\vietnam\\pattern.jpg",
+    "countryIntroduction": "Vietnam, located in Southeast Asia, is a country known for its rich history, stunning natural beauty, and diverse cuisine. From the bustling streets of Hanoi to the tranquil waters of Ha Long Bay, Vietnam offers a unique and captivating experience. Its cuisine, including pho, banh mi, and fresh spring rolls, is celebrated worldwide. Vietnamese culture is deeply rooted in traditions like water puppetry, Tet festivals, and the art of ao dai.",
+    "traditionalDishes": [
+        {
+            "dishName": "Pho",
+            "dishNameInOwnLanguage": "Phở",
+            "dishImages": [
+                "\\img\\vietnam\\pho1.jpg",
+                "\\img\\vietnam\\pho2.jpg",
+                "\\img\\vietnam\\pho3.jpg"
+            ],
+            "dishIngredients": "Rice noodles, Beef or chicken, Broth, Fresh herbs, Bean sprouts, Lime, Hoisin sauce, Sriracha",
+            "dishDescription": "Pho is a beloved Vietnamese noodle soup made with aromatic broth, rice noodles, and various toppings, often including beef or chicken. It is typically served with fresh herbs, bean sprouts, lime, and condiments.",
+            "dishStory": "Pho has its roots in Northern Vietnam and has become a national dish. It reflects the Vietnamese emphasis on balance and harmony in flavors. The dish is a cultural icon and is enjoyed throughout the day, from breakfast to dinner."
+        },
+        {
+            "dishName": "Banh Mi",
+            "dishNameInOwnLanguage": "Bánh Mì",
+            "dishImages": [
+                "\\img\\vietnam\\banh_mi1.jpg",
+                "\\img\\vietnam\\banh_mi2.jpg",
+                "\\img\\vietnam\\banh_mi3.jpg"
+            ],
+            "dishIngredients": "French baguette, Various fillings (pork, chicken, tofu), Pickled vegetables, Cilantro, Chili peppers, Mayonnaise",
+            "dishDescription": "Banh Mi is a Vietnamese sandwich known for its fusion of French and Vietnamese flavors. It consists of a crispy baguette filled with a variety of ingredients such as grilled meat or tofu, pickled vegetables, and fresh herbs.",
+            "dishStory": "Banh Mi's history is tied to French colonial influence in Vietnam. It's a delicious example of the blending of culinary traditions. The sandwich is a popular street food and a testament to Vietnam's culinary creativity."
+        },
+        {
+            "dishName": "Goi Cuon",
+            "dishNameInOwnLanguage": "Gỏi Cuốn",
+            "dishImages": [
+                "\\img\\vietnam\\goi_cuon1.jpg",
+                "\\img\\vietnam\\goi_cuon2.jpg",
+                "\\img\\vietnam\\goi_cuon3.jpg"
+            ],
+            "dishIngredients": "Rice paper wrappers, Shrimp, Pork, Fresh herbs, Rice vermicelli, Peanut dipping sauce",
+            "dishDescription": "Goi Cuon, also known as fresh spring rolls or salad rolls, are a popular Vietnamese appetizer or snack. They consist of translucent rice paper wrappers filled with shrimp, pork, fresh herbs, and rice vermicelli, served with a peanut dipping sauce.",
+            "dishStory": "Goi Cuon is a light and healthy dish that's enjoyed throughout Vietnam. It's a delightful way to savor the freshness of Vietnamese herbs and ingredients. These rolls are often served during special occasions and family gatherings."
+        },
+        {
+            "dishName": "Com tam",
+            "dishNameInOwnLanguage": "Cơm Tấm",
+            "dishImages": [
+                "\\img\\vietnam\\com_tam1.jpg",
+                "\\img\\vietnam\\com_tam2.jpg",
+                "\\img\\vietnam\\com_tam3.jpg"
+            ],
+            "dishIngredients": "Broken rice, Grilled pork, Shredded pork skin, Fried egg, Fish sauce",
+            "dishDescription": "Com tam, or broken rice, is a popular Vietnamese dish that features fractured grains of rice served with grilled pork, shredded pork skin, a fried egg, and a flavorful fish sauce dressing.",
+            "dishStory": "Com tam has its origins in Southern Vietnam, where broken rice was once considered a humble staple. Today, it's celebrated for its unique texture and combination of flavors. It's a dish that reflects the Vietnamese love for contrasting textures and bold tastes."
+        },
+        {
+            "dishName": "Ca Phe Sua Da",
+            "dishNameInOwnLanguage": "Cà Phê Sữa Đá",
+            "dishImages": [
+                "\\img\\vietnam\\ca_phe_sua_da1.jpg",
+                "\\img\\vietnam\\ca_phe_sua_da2.jpg",
+                "\\img\\vietnam\\ca_phe_sua_da3.jpg"
+            ],
+            "dishIngredients": "Strong brewed coffee, Sweetened condensed milk, Ice",
+            "dishDescription": "Ca Phe Sua Da is a popular Vietnamese iced coffee made with strong brewed coffee, sweetened condensed milk, and ice. It's a sweet and strong coffee drink enjoyed throughout the country.",
+            "dishStory": "Vietnamese coffee culture is deeply ingrained in daily life. Ca Phe Sua Da is a refreshing and indulgent way to beat the heat. The slow drip brewing method and rich flavor make it a favorite among coffee enthusiasts."
+        }
+    ],
+    "eatingHabits": [
+        {
+            "eatingHabitName": "Family-style Dining",
+            "eatingHabitDescription": "Shared Meals with Family Members",
+            "eatingHabitReason": "Family-style dining is a way to strengthen family bonds and share stories while enjoying a variety of dishes together."
+        },
+        {
+            "eatingHabitName": "Street Food Culture",
+            "eatingHabitDescription": "Eating at Food Stalls and Carts",
+            "eatingHabitReason": "Vietnam's vibrant street food culture offers an array of affordable and delicious options. It's a social experience enjoyed by locals and tourists alike."
+        },
+        {
+            "eatingHabitName": "Chopstick Usage",
+            "eatingHabitDescription": "Skillful Use of Chopsticks",
+            "eatingHabitReason": "Chopsticks are the primary eating utensils in Vietnam, and proper usage is a sign of respect for the cuisine and dining companions."
+        },
+        {
+            "eatingHabitName": "Herb Inclusion",
+            "eatingHabitDescription": "Fresh Herbs in Most Dishes",
+            "eatingHabitReason": "Vietnamese cuisine often includes a variety of fresh herbs, enhancing flavors and providing a balance of textures."
+        },
+        {
+            "eatingHabitName": "Pho for Breakfast",
+            "eatingHabitDescription": "Starting the Day with Pho",
+            "eatingHabitReason": "Pho is a popular breakfast choice in Vietnam, providing nourishment and energy to start the day."
+        },
+        {
+            "eatingHabitName": "Respectful Noodles",
+            "eatingHabitDescription": "Noodle Cutting Taboos",
+            "eatingHabitReason": "In Vietnam, cutting noodles with scissors is considered bad luck, as long noodles symbolize longevity."
+        }
+    ],
+    "festivals": [
+        {
+            "festivalName": "Tet Nguyen Dan (Lunar New Year)",
+            "festivalMonth": 1,
+            "festivalDate": 1,
+            "festivalImage": "\\img\\vietnam\\tet_nguyen_dan.jpg",
+            "festivalDishes": [
+                {
+                    "feitivalDishName": "Banh Chung",
+                    "feitivalDishImage": "\\img\\vietnam\\banh_chung.jpg",
+                    "feitivalDishDescription": "Banh Chung is a traditional Tet dish made of glutinous rice, mung beans, and pork, wrapped in banana leaves."
+                }
+            ],
+            "festivalDescription": "Tet Nguyen Dan, or Tet, is the most important festival in Vietnam, celebrating the Lunar New Year. Families reunite, offer incense to ancestors, and exchange gifts. Special dishes like Banh Chung are prepared to mark the occasion."
+        },
+        {
+            "festivalName": "Yen Tu Festival",
+            "festivalMonth": 1,
+            "festivalDate": null,
+            "festivalImage": "\\img\\vietnam\\yen_tu_festival.jpg",
+            "festivalDishes": [
+                {
+                    "feitivalDishName": "Vegetarian Dishes",
+                    "feitivalDishImage": "\\img\\vietnam\\vegetarian_dishes.jpg",
+                    "feitivalDishDescription": "During the Yen Tu Festival, many pilgrims and visitors enjoy vegetarian meals."
+                }
+            ],
+            "festivalDescription": "The Yen Tu Festival is one of Vietnam's most significant Buddhist festivals. Pilgrims climb Yen Tu Mountain to pay respects to King-Monk Tran Nhan Tong. Vegetarian dishes are commonly enjoyed during this spiritual journey."
+        },
+        {
+            "festivalName": "Hung Kings' Temple Festival",
+            "festivalMonth": 3,
+            "festivalDate": 10,
+            "festivalImage": "\\img\\vietnam\\hung_kings_temple_festival.jpg",
+            "festivalDishes": [
+                {
+                    "feitivalDishName": "Banh Giay",
+                    "feitivalDishImage": "\\img\\vietnam\\banh_giay.jpg",
+                    "feitivalDishDescription": "Banh Giay is a traditional offering made of glutinous rice, wrapped in banana leaves."
+                }
+            ],
+            "festivalDescription": "The Hung Kings' Temple Festival is a time for the Vietnamese to pay homage to their legendary ancestors. Festive rituals, processions, and offerings like Banh Giay are made at the Hung Kings' Temple."
+        },
+        {
+            "festivalName": "Mid-Autumn Festival",
+            "festivalMonth": 8,
+            "festivalDate": 15,
+            "festivalImage": "\\img\\vietnam\\mid_autumn_festival.jpg",
+            "festivalDishes": [
+                {
+                    "feitivalDishName": "Mooncakes",
+                    "feitivalDishImage": "\\img\\vietnam\\mooncakes.jpg",
+                    "feitivalDishDescription": "Mooncakes are traditional treats filled with lotus seed paste or other sweet fillings."
+                }
+            ],
+            "festivalDescription": "The Mid-Autumn Festival, also known as the Lantern Festival, is a time for families to gather and celebrate the harvest. Mooncakes, colorful lanterns, and dragon dances are an integral part of the festivities."
+        },
+        {
+            "festivalName": "Tet Trung Thu (Mid-Autumn Festival for Children)",
+            "festivalMonth": 8,
+            "festivalDate": 15,
+            "festivalImage": "\\img\\vietnam\\tet_trung_thu.jpg",
+            "festivalDishes": [
+                {
+                    "feitivalDishName": "Star-shaped Lantern Cakes",
+                    "feitivalDishImage": "\\img\\vietnam\\star_lantern_cakes.jpg",
+                    "feitivalDishDescription": "Star-shaped Lantern Cakes are a delightful treat for children during Tet Trung Thu."
+                }
+            ],
+            "festivalDescription": "Tet Trung Thu, also known as the Mid-Autumn Festival for Children, is a time for families to celebrate with their kids. Mooncakes and colorful star-shaped lanterns are prominent features of this joyous occasion."
+        },
+        {
+            "festivalName": "Hoi An Lantern Festival",
+            "festivalMonth": null,
+            "festivalDate": 14,
+            "festivalImage": "\\img\\vietnam\\hoi_an_lantern_festival.jpg",
+            "festivalDishes": [
+                {
+                    "feitivalDishName": "Cao Lau",
+                    "feitivalDishImage": "\\img\\vietnam\\cao_lau.jpg",
+                    "feitivalDishDescription": "Cao Lau is a specialty dish of Hoi An, featuring noodles, pork, and fresh herbs."
+                }
+            ],
+            "festivalDescription": "The Hoi An Lantern Festival is a monthly event in the ancient town of Hoi An. The town is beautifully lit up with colorful lanterns, and streets are closed to traffic. Visitors can enjoy Cao Lau and immerse themselves in the festive atmosphere."
+        }
+    ]
+}

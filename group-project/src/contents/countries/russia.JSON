@@ -1,0 +1,241 @@
+{
+    "countryName": "Russia",
+    "countryFlagImage": "\\img\\russia\\flag.jpg",
+    "countryPatternImage": "\\img\\russia\\pattern.jpg",
+    "countryIntroduction": "Russia, the largest country in the world, spans across Eastern Europe and Northern Asia. It boasts a rich culinary heritage influenced by its diverse regions and historical influences. Russian cuisine features hearty and flavorful dishes, often accompanied by traditions of toasting and warm hospitality.",
+    "traditionalDishes": [
+        {
+            "dishName": "Borscht",
+            "dishNameInOwnLanguage": "Борщ",
+            "dishImages": [
+                "\\img\\russia\\borscht1.jpg",
+                "\\img\\russia\\borscht2.jpg",
+                "\\img\\russia\\borscht3.jpg"
+            ],
+            "dishIngredients": "Beets, Cabbage, Potatoes, Beef or Pork, Sour Cream",
+            "dishDescription": "Borscht is a vibrant beet soup, often made with cabbage, potatoes, and meat, and served with a dollop of sour cream.",
+            "dishStory": "Borscht is a beloved Russian classic, with variations found throughout Eastern Europe. Its deep crimson color and hearty flavors make it a comforting and nutritious dish enjoyed in both homes and restaurants."
+        },
+        {
+            "dishName": "Pelmeni",
+            "dishNameInOwnLanguage": "Пельмени",
+            "dishImages": [
+                "\\img\\russia\\pelmeni1.jpg",
+                "\\img\\russia\\pelmeni2.jpg",
+                "\\img\\russia\\pelmeni3.jpg"
+            ],
+            "dishIngredients": "Dough, Ground Meat (usually beef, pork, or a mix), Onions, Spices",
+            "dishDescription": "Pelmeni are dumplings filled with seasoned ground meat, typically served with sour cream or butter.",
+            "dishStory": "Pelmeni are a popular comfort food in Russia, known for their simplicity and deliciousness. They are often prepared in large batches and shared with family and friends."
+        },
+        {
+            "dishName": "Beef Stroganoff",
+            "dishNameInOwnLanguage": "Бефстроганов",
+            "dishImages": [
+                "\\img\\russia\\beef_stroganoff1.jpg",
+                "\\img\\russia\\beef_stroganoff2.jpg",
+                "\\img\\russia\\beef_stroganoff3.jpg"
+            ],
+            "dishIngredients": "Beef, Onions, Mushrooms, Sour Cream, Mustard, Paprika",
+            "dishDescription": "Beef Stroganoff is a creamy dish featuring sautéed beef, onions, and mushrooms, finished with sour cream and seasonings.",
+            "dishStory": "Beef Stroganoff is named after the Stroganov family and has a long history in Russian cuisine. It's celebrated for its rich, creamy sauce and tender pieces of beef."
+        },
+        {
+            "dishName": "Pirozhki",
+            "dishNameInOwnLanguage": "Пирожки",
+            "dishImages": [
+                "\\img\\russia\\pirozhki1.jpg",
+                "\\img\\russia\\pirozhki2.jpg",
+                "\\img\\russia\\pirozhki3.jpg"
+            ],
+            "dishIngredients": "Yeast Dough, Various Fillings (meat, potatoes, cabbage, mushrooms, fruit)",
+            "dishDescription": "Pirozhki are small, stuffed buns made from yeast dough and filled with a variety of ingredients, including meat, potatoes, cabbage, mushrooms, or fruit.",
+            "dishStory": "Pirozhki are a popular snack in Russia and can be found in bakeries and households across the country. They come in sweet and savory varieties and are often served as a quick and satisfying meal or snack."
+        },
+        {
+            "dishName": "Shashlik",
+            "dishNameInOwnLanguage": "Шашлык",
+            "dishImages": [
+                "\\img\\russia\\shashlik1.jpg",
+                "\\img\\russia\\shashlik2.jpg",
+                "\\img\\russia\\shashlik3.jpg"
+            ],
+            "dishIngredients": "Marinated and skewered meat (usually pork, beef, or lamb), Onions, Spices",
+            "dishDescription": "Shashlik is a popular Russian barbecue dish featuring marinated and skewered meat, often served with grilled onions and spices.",
+            "dishStory": "Shashlik has its roots in the Caucasus region and has become a beloved outdoor meal in Russia. It is often prepared during gatherings and celebrations, with families and friends enjoying the smoky aroma and flavorful meat."
+        },
+        {
+            "dishName": "Plov",
+            "dishNameInOwnLanguage": "Плов",
+            "dishImages": [
+                "\\img\\russia\\plov1.jpg",
+                "\\img\\russia\\plov2.jpg",
+                "\\img\\russia\\plov3.jpg"
+            ],
+            "dishIngredients": "Rice, Meat (usually lamb or beef), Carrots, Onions, Vegetable oil, Spices",
+            "dishDescription": "Plov is a fragrant rice dish cooked with meat, carrots, onions, and spices, creating a flavorful one-pot meal.",
+            "dishStory": "Plov has Middle Eastern origins but is cherished in Russia. It is a hearty and aromatic dish often prepared for special occasions and family gatherings."
+        },
+        {
+            "dishName": "Olivier Salad",
+            "dishNameInOwnLanguage": "Салат Оливье",
+            "dishImages": [
+                "\\img\\russia\\olivier_salad1.jpg",
+                "\\img\\russia\\olivier_salad2.jpg",
+                "\\img\\russia\\olivier_salad3.jpg"
+            ],
+            "dishIngredients": "Potatoes, Carrots, Peas, Pickles, Bologna or Sausage, Mayonnaise",
+            "dishDescription": "Olivier Salad is a classic Russian salad made with diced potatoes, carrots, peas, pickles, and bologna or sausage, all coated in creamy mayonnaise.",
+            "dishStory": "Olivier Salad, also known as 'Russian Salad,' is a staple at New Year's Eve celebrations and other festive occasions. It's known for its delightful blend of flavors and textures."
+        },
+        {
+            "dishName": "Blini",
+            "dishNameInOwnLanguage": "Блины",
+            "dishImages": [
+                "\\img\\russia\\blini1.jpg",
+                "\\img\\russia\\blini2.jpg",
+                "\\img\\russia\\blini3.jpg"
+            ],
+            "dishIngredients": "Thin Pancakes made from Buckwheat or Wheat Flour, Various Toppings (caviar, sour cream, jam)",
+            "dishDescription": "Blini are thin Russian pancakes made from buckwheat or wheat flour, served with an array of toppings, including caviar, sour cream, and jam.",
+            "dishStory": "Blini are a versatile and cherished dish in Russia, enjoyed both as a savory and sweet treat. They are a symbol of sun and the coming of spring, often served during Maslenitsa, a Russian holiday celebrating the end of winter."
+        }
+    ],
+    "eatingHabits": [
+        {
+            "eatingHabitName": "Toasting Tradition",
+            "eatingHabitDescription": "Russians have a rich tradition of toasting during meals, where heartfelt and humorous toasts are made before taking a sip of alcohol.",
+            "eatingHabitReason": "Toasting is a way to express good wishes, appreciation, and camaraderie among friends and family. It adds warmth and conviviality to gatherings."
+        },
+        {
+            "eatingHabitName": "Tea Culture",
+            "eatingHabitDescription": "Tea is an integral part of Russian culture, and 'chai' (tea) is served throughout the day. It's often accompanied by jam and sweets.",
+            "eatingHabitReason": "Tea is cherished for its comforting properties and the sense of hospitality it imparts. It provides a reason to gather and share stories."
+        },
+        {
+            "eatingHabitName": "Zakuski (Appetizers)",
+            "eatingHabitDescription": "A variety of appetizers, known as 'zakuski,' are served before the main meal. These can include pickles, herring, cheeses, and more.",
+            "eatingHabitReason": "Zakuski are meant to stimulate the appetite and complement the flavors of alcoholic beverages often consumed during celebrations and gatherings."
+        },
+        {
+            "eatingHabitName": "Mushroom Foraging",
+            "eatingHabitDescription": "Mushroom hunting is a popular pastime in Russia, and many families gather mushrooms in the forests, which are later used in cooking.",
+            "eatingHabitReason": "Mushrooms are a versatile and earthy ingredient in Russian cuisine. Foraging promotes a connection to nature and provides a source of fresh, natural ingredients."
+        },
+        {
+            "eatingHabitName": "Vodka Etiquette",
+            "eatingHabitDescription": "Drinking vodka is common in Russia, and there are customs associated with it, such as drinking it straight and offering toasts.",
+            "eatingHabitReason": "Vodka is a symbol of hospitality and camaraderie. Observing vodka etiquette helps build rapport and bonds among friends and acquaintances."
+        },
+        {
+            "eatingHabitName": "Dumpling Delight",
+            "eatingHabitDescription": "Dumplings, like Pelmeni and Vareniki, are cherished in Russian cuisine and are often handmade in a communal cooking process.",
+            "eatingHabitReason": "Making dumplings together fosters a sense of unity and tradition. It's a social activity that strengthens family and community bonds."
+        }
+    ],
+    "festivals": [
+        {
+            "festivalName": "Christmas (Rozhdestvo)",
+            "festivalMonth": 1,
+            "festivalDate": 7,
+            "festivalImage": "\\img\\russia\\christmas.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Kutya",
+                    "festivalDishImage": "\\img\\russia\\kutya.jpg",
+                    "festivalDishDescription": "Kutya, a sweet porridge made from wheat berries, honey, and poppy seeds, is a traditional Christmas dish."
+                }
+            ],
+            "festivalDescription": "Christmas is a sacred holiday in Russia, celebrated with religious services and a festive meal that includes Kutya, a symbolic dish representing hope and unity."
+        },
+        {
+            "festivalName": "Maslenitsa",
+            "festivalMonth": 2,
+            "festivalDate": 20,
+            "festivalImage": "\\img\\russia\\maslenitsa.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Blini",
+                    "festivalDishImage": "\\img\\russia\\blini.jpg",
+                    "festivalDishDescription": "Blini, thin pancakes, are a central feature of Maslenitsa celebrations, symbolizing the coming of spring."
+                }
+            ],
+            "festivalDescription": "Maslenitsa, also known as Pancake Week, is a joyous pre-Lenten celebration in Russia. Blini are prepared in abundance during this festival, signifying the end of winter."
+        },
+        {
+            "festivalName": "Easter (Paskha)",
+            "festivalMonth": 4,
+            "festivalDate": 28,
+            "festivalImage": "\\img\\russia\\easter.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Paskha",
+                    "festivalDishImage": "\\img\\russia\\paskha.jpg",
+                    "festivalDishDescription": "Paskha, a sweet molded cottage cheese dessert, is a traditional Easter treat."
+                }
+            ],
+            "festivalDescription": "Easter is a significant religious holiday in Russia, marked by church services and the sharing of Paskha, symbolizing the resurrection of Christ."
+        },
+        {
+            "festivalName": "Victory Day (Den Pobedy)",
+            "festivalMonth": 5,
+            "festivalDate": 9,
+            "festivalImage": "\\img\\russia\\victory_day.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Shashlik",
+                    "festivalDishImage": "\\img\\russia\\shashlik.jpg",
+                    "festivalDishDescription": "Shashlik, marinated and grilled meat skewers, are a popular choice for Victory Day celebrations."
+                }
+            ],
+            "festivalDescription": "Victory Day commemorates the end of World War II in Russia. Families and friends gather to honor veterans and enjoy dishes like Shashlik in outdoor gatherings."
+        },
+        {
+            "festivalName": "Ivan Kupala Day",
+            "festivalMonth": 7,
+            "festivalDate": 7,
+            "festivalImage": "\\img\\russia\\ivan_kupala.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Kvass",
+                    "festivalDishImage": "\\img\\russia\\kvass.jpg",
+                    "festivalDishDescription": "Kvass, a fermented beverage, is traditionally enjoyed during Ivan Kupala Day festivities."
+                }
+            ],
+            "festivalDescription": "Ivan Kupala Day is a summer solstice celebration with roots in Slavic paganism. It involves various rituals and the consumption of traditional foods like Kvass."
+        },
+        {
+            "festivalName": "Unity Day (Den' Narodnogo Edinstva)",
+            "festivalMonth": 11,
+            "festivalDate": 4,
+            "festivalImage": "\\img\\russia\\unity_day.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Medovukha",
+                    "festivalDishImage": "\\img\\russia\\medovukha.jpg",
+                    "festivalDishDescription": "Medovukha, a honey-based alcoholic beverage, is enjoyed during Unity Day celebrations."
+                }
+            ],
+            "festivalDescription": "Unity Day celebrates the popular uprising that led to the expulsion of Polish interventionists from Moscow in 1612. It's marked by patriotic events and the sharing of Medovukha."
+        },
+        {
+            "festivalName": "New Year's Eve (Novy God)",
+            "festivalMonth": 12,
+            "festivalDate": 31,
+            "festivalImage": "\\img\\russia\\new_years_eve_2.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Olivier Salad",
+                    "festivalDishImage": "\\img\\russia\\olivier_salad.jpg",
+                    "festivalDishDescription": "Olivier Salad, a classic Russian salad, is a must-have on New Year's Eve."
+                },
+                {
+                    "festivalDishName": "Champagne",
+                    "festivalDishImage": "\\img\\russia\\champagne.jpg",
+                    "festivalDishDescription": "Champagne is a popular drink to celebrate the arrival of the New Year in Russia."
+                }
+            ],
+            "festivalDescription": "New Year's Eve is a festive occasion in Russia, marked by the joyous ringing in of the New Year. Olivier Salad and Champagne are essential parts of the celebration."
+        }
+    ]
+}
