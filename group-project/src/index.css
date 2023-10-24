@@ -1,11 +1,120 @@
 body {
-  margin: 0;
-  /* font-family: ; */
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+    /* font-family: ; */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #fffdf1;
 }
 
-/* code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-} */
+html {
+    font-size: 16px;
+}
+
+button {
+    cursor: pointer;
+}
+
+.map-cards {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+div.map-card-container {
+    display: flex;
+    width: 20rem;
+    height: 18rem;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+img.map-card-img {
+    width: 20rem;
+    object-fit: contain;
+    position: absolute;
+}
+
+div.button-description-container {
+    width: 20rem;
+    height: 12rem;
+    position: absolute;
+    background-color: #697d73;
+    opacity: 0;
+}
+
+p.button-description {
+    margin: 2rem;
+    color: white;
+}
+
+div.map-card-button {
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+    align-items: center;
+    width: 20rem;
+    height: 6rem;
+    background-color: white;
+    position: absolute;
+    top: 12rem;
+}
+
+img.map-card-icon {
+    width: 4.5rem;
+}
+
+p.button-text {
+    color: var(--grey-500, #413e3e);
+
+    /* Button Text */
+    font-family: Segoe UI;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 100%; /* 20px */
+    width: 10rem;
+}
+
+img.map-card-arrow {
+    width: 1.4rem;
+    height: 2.6rem;
+    fill: #697d73;
+}
+
+.map-card-container:hover {
+    box-shadow: 15px 15px 50px 0px rgba(84, 50, 31, 0.25);
+    transition: 0.4s ease-in-out;
+}
+
+.map-card-container:hover div.button-description-container {
+    opacity: 1;
+    transition: 0.4s ease-in-out;
+    transform: translateY(6rem);
+}
+
+.map-card-container:hover div.map-card-button {
+    opacity: 1;
+    transition: 0.3s ease-in-out;
+    transform: translateY(-12rem);
+}
+
+.map-card-container:hover img.map-card-img {
+    opacity: 0;
+    transition: 0.4s ease-in-out;
+    transform: translateY(6rem);
+}
+
+.world-map-svg  path {
+    fill: #697D73;
+    stroke: rgb(255, 255, 255);
+    stroke-width: 0.5;
+    pointer-events: visiblePainted;
+}
+
+.world-map-svg  path:hover {
+    fill: #A2AEA8;
+    cursor: pointer;
+}
+

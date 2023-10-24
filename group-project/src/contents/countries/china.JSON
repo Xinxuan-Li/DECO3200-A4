@@ -1,16 +1,16 @@
 {
     "countryName": "China",
-    "countryFlagImage": "\\img\\china\\flag.jpg",
-    "countryPatternImage": "\\img\\china\\pattern.jpg",
+    "countryFlagImage": "./img/china/flag.jpg",
+    "countryPatternImage": "./img/china/pattern.jpg",
     "countryIntroduction": "China, situated in East Asia, is the world's most populous country and one of the largest in terms of land area. It shares borders with 14 other nations, including India, Russia, and Vietnam, and boasts a diverse geographical landscape, ranging from the towering Himalayan peaks in the southwest to the vast plains of the northeast. Chinese culture, with its rich history spanning thousands of years, is characterized by a deep reverence for tradition and a harmonious blend of Confucianism, Taoism, and Buddhism. It is renowned for its distinct cuisine, stunning calligraphy and art, intricate traditions like the Chinese New Year celebrations, and the enduring allure of the Great Wall of China, which stands as a testament to the nation's cultural heritage.",
     "traditionalDishes": [
         {
             "dishName": "Peking Roasted Duck",
             "dishNameInOwnLanguage": "北京烤鸭",
             "dishImages": [
-                "\\img\\china\\peking_duck1.jpg",
-                "\\img\\china\\peking_duck2.jpg",
-                "\\img\\china\\peking_duck3.jpg"
+                "./img/china/peking_duck1.jpg",
+                "./img/china/peking_duck2.jpg",
+                "./img/china/peking_duck3.jpg"
             ],
             "dishIngredients": "One whole duck, Honey or maltose syrup, White vinegar, Shaoxing rice wine, Salt, Sugar, Ginger, Spring onion, Fermented soybean paste (for the sauce), Sesame oil (for the sauce and pancakes), Flour (for the pancakes)",
             "dishDescription": "Peking Duck is a famous dish from Beijing that has been prepared since the imperial era. The dish is prized for its thin, crispy skin, with authentic versions of the dish serving mostly the skin and little meat, sliced in front of the diners by the cook.",
@@ -20,9 +20,9 @@
             "dishName": "Youtiao (Fried Dough Sticks)",
             "dishNameInOwnLanguage": "油条",
             "dishImages": [
-                "\\img\\china\\youtiao1.jpg",
-                "\\img\\china\\youtiao2.jpg",
-                "\\img\\china\\youtiao3.jpg"
+                "./img/china/youtiao1.jpg",
+                "./img/china/youtiao2.jpg",
+                "./img/china/youtiao3.jpg"
             ],
             "dishIngredients": "All-purpose flour, Yeast, Baking powder, Salt, Water",
             "dishDescription": "Youtiao, also known as fried dough sticks, are a popular Chinese breakfast item. They are made from a simple mixture of all-purpose flour, yeast, baking powder, salt, and water. The dough is deep-fried until it becomes golden brown and crispy on the outside while remaining soft on the inside.",
@@ -32,9 +32,9 @@
             "dishName": "Dumplings",
             "dishNameInOwnLanguage": "饺子",
             "dishImages": [
-                "\\img\\china\\dumplings1.jpg",
-                "\\img\\china\\dumplings2.jpg",
-                "\\img\\china\\dumplings3.jpg"
+                "./img/china/dumplings1.jpg",
+                "./img/china/dumplings2.jpg",
+                "./img/china/dumplings3.jpg"
             ],
             "dishIngredients": "Wheat flour, Ground pork, Cabbage, Garlic, Ginger, Soy sauce, Sesame oil",
             "dishDescription": "Dumplings, or 'jiaozi,' are a traditional Chinese dish enjoyed worldwide. They consist of a thin wrapper made from wheat flour, filled with a mixture of ground pork, cabbage, garlic, ginger, soy sauce, and sesame oil. Dumplings can be boiled, steamed, or pan-fried.",
@@ -44,9 +44,9 @@
             "dishName": "Zongzi (Sticky Rice Dumplings)",
             "dishNameInOwnLanguage": "粽子",
             "dishImages": [
-                "\\img\\china\\zongzi1.jpg",
-                "\\img\\china\\zongzi2.jpg",
-                "\\img\\china\\zongzi3.jpg"
+                "./img/china/zongzi1.jpg",
+                "./img/china/zongzi2.jpg",
+                "./img/china/zongzi3.jpg"
             ],
             "dishIngredients": "Glutinous rice, Fillings (meat, beans, or other ingredients), Bamboo leaves, Twine",
             "dishDescription": "Zongzi, or sticky rice dumplings, are a traditional Chinese food typically enjoyed during the Dragon Boat Festival. They are made by wrapping glutinous rice and various fillings (such as meat, beans, or other ingredients) in bamboo leaves, then steaming or boiling them.",
@@ -56,9 +56,9 @@
             "dishName": "Tofu Pudding (Doufunao)",
             "dishNameInOwnLanguage": "豆腐脑",
             "dishImages": [
-                "\\img\\china\\tofu_pudding1.jpg",
-                "\\img\\china\\tofu_pudding2.jpg",
-                "\\img\\china\\tofu_pudding3.jpg"
+                "./img/china/tofu_pudding1.jpg",
+                "./img/china/tofu_pudding2.jpg",
+                "./img/china/tofu_pudding3.jpg"
             ],
             "dishIngredients": "Soybeans, Nigari (coagulant), Water",
             "dishDescription": "Tofu Pudding, or 'Doufunao,' is a delicate and silky dessert made from soybeans. It is created by curdling freshly prepared soy milk with nigari (a natural coagulant) to form a soft, custard-like texture. It can be served hot or cold, with various toppings such as syrup, fruit, or peanuts.",
@@ -68,9 +68,9 @@
             "dishName": "Hot and Sour Soup (Hulatang)",
             "dishNameInOwnLanguage": "胡辣汤",
             "dishImages": [
-                "\\img\\china\\hot_sour_soup1.jpg",
-                "\\img\\china\\hot_sour_soup2.jpg",
-                "\\img\\china\\hot_sour_soup3.jpg"
+                "./img/china/hot_sour_soup1.jpg",
+                "./img/china/hot_sour_soup2.jpg",
+                "./img/china/hot_sour_soup3.jpg"
             ],
             "dishIngredients": "Chicken or pork broth, Tofu, Wood ear mushrooms, Bamboo shoots, Vinegar, Chili oil, White pepper, Cornstarch",
             "dishDescription": "Hot and Sour Soup, or 'Hulatang,' is a popular Chinese soup known for its spicy and tangy flavors. It is made from a chicken or pork broth and includes ingredients like tofu, wood ear mushrooms, bamboo shoots, vinegar, chili oil, and white pepper.",
@@ -80,9 +80,9 @@
             "dishName": "Lanzhou Beef Noodles",
             "dishNameInOwnLanguage": "兰州拉面",
             "dishImages": [
-                "\\img\\china\\beef_noodles1.jpg",
-                "\\img\\china\\beef_noodles2.jpg",
-                "\\img\\china\\beef_noodles3.jpg"
+                "./img/china/beef_noodles1.jpg",
+                "./img/china/beef_noodles2.jpg",
+                "./img/china/beef_noodles3.jpg"
             ],
             "dishIngredients": "Hand-pulled noodles, Beef slices, Green onions, Radish, Chili oil, Beef broth",
             "dishDescription": "Lanzhou Beef Noodles, known as 'Lanzhou Lamian,' are a specialty of Lanzhou, China. They consist of hand-pulled noodles served in a clear and aromatic beef broth, topped with thinly sliced beef, green onions, radish, and a drizzle of chili oil.",
@@ -92,9 +92,9 @@
             "dishName": "Lion's Head Meatballs (Shizi Tou)",
             "dishNameInOwnLanguage": "狮子头",
             "dishImages": [
-                "\\img\\china\\lion_head_meatballs1.jpg",
-                "\\img\\china\\lion_head_meatballs2.jpg",
-                "\\img\\china\\lion_head_meatballs3.jpg"
+                "./img/china/lion_head_meatballs1.jpg",
+                "./img/china/lion_head_meatballs2.jpg",
+                "./img/china/lion_head_meatballs3.jpg"
             ],
             "dishIngredients": "Ground pork, Cabbage, Garlic, Ginger, Soy sauce, Shaoxing rice wine, Cornstarch",
             "dishDescription": "Lion's Head Meatballs, or 'Shizi Tou,' are a classic Chinese dish known for their oversized meatballs and savory flavors. They are made from ground pork mixed with cabbage, garlic, ginger, soy sauce, Shaoxing rice wine, and cornstarch. The meatballs are typically braised until tender.",
@@ -104,9 +104,9 @@
             "dishName": "Mapo Tofu",
             "dishNameInOwnLanguage": "麻婆豆腐",
             "dishImages": [
-                "\\img\\china\\mapo_tofu1.jpg",
-                "\\img\\china\\mapo_tofu2.jpg",
-                "\\img\\china\\mapo_tofu3.jpg"
+                "./img/china/mapo_tofu1.jpg",
+                "./img/china/mapo_tofu2.jpg",
+                "./img/china/mapo_tofu3.jpg"
             ],
             "dishIngredients": "Tofu, Ground pork, Fermented black beans, Sichuan peppercorns, Chili bean paste, Soy sauce, Garlic, Ginger",
             "dishDescription": "Mapo Tofu is a famous Sichuan dish known for its spicy and numbing flavors. It features soft tofu cubes served in a fiery sauce made from ground pork, fermented black beans, Sichuan peppercorns, chili bean paste, soy sauce, garlic, and ginger.",
@@ -150,16 +150,16 @@
             "festivalName": "Spring Festival (Chinese New Year)",
             "festivalMonth": 1,
             "festivalDate": 1,
-            "festivalImage": "\\img\\spring_festival.jpg",
+            "festivalImage": "./img/spring_festival.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Jiaozi (Chinese Dumplings)",
-                    "feitivalDishImage": "\\img\\jiaozi.jpg",
+                    "feitivalDishImage": "./img/jiaozi.jpg",
                     "feitivalDishDescription": "Jiaozi, shaped like ancient Chinese currency, symbolize wealth and good fortune. They are a traditional dish for family gatherings."
                 },
                 {
                     "feitivalDishName": "Nian Gao (Rice Cakes)",
-                    "feitivalDishImage": "\\img\\nian_gao.jpg",
+                    "feitivalDishImage": "./img/nian_gao.jpg",
                     "feitivalDishDescription": "Nian Gao represents rising prosperity and higher achievement. It's a sticky rice cake enjoyed during the festival."
                 }
             ],
@@ -169,11 +169,11 @@
             "festivalName": "Lantern Festival",
             "festivalMonth": 1,
             "festivalDate": 15,
-            "festivalImage": "\\img\\lantern_festival.jpg",
+            "festivalImage": "./img/lantern_festival.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Tangyuan (Sweet Rice Balls)",
-                    "feitivalDishImage": "\\img\\tangyuan.jpg",
+                    "feitivalDishImage": "./img/tangyuan.jpg",
                     "feitivalDishDescription": "Tangyuan, round and sticky sweet rice balls, symbolize family unity and togetherness. They are a traditional treat during the Lantern Festival."
                 }
             ],
@@ -183,11 +183,11 @@
             "festivalName": "Qingming Festival (Tomb-Sweeping Day)",
             "festivalMonth": 4,
             "festivalDate": 4,
-            "festivalImage": "\\img\\qingming_festival.jpg",
+            "festivalImage": "./img/qingming_festival.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Qingtuan (Green Dumplings)",
-                    "feitivalDishImage": "\\img\\qingtuan.jpg",
+                    "feitivalDishImage": "./img/qingtuan.jpg",
                     "feitivalDishDescription": "Qingtuan are green glutinous rice dumplings filled with sweet or savory fillings. They are a Qingming Festival specialty symbolizing the arrival of spring and new life."
                 }
             ],
@@ -197,11 +197,11 @@
             "festivalName": "Dragon Boat Festival (Duanwu Festival)",
             "festivalMonth": 5,
             "festivalDate": 5,
-            "festivalImage": "\\img\\dragon_boat_festival.jpg",
+            "festivalImage": "./img/dragon_boat_festival.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Zongzi (Sticky Rice Dumplings)",
-                    "feitivalDishImage": "\\img\\zongzi.jpg",
+                    "feitivalDishImage": "./img/zongzi.jpg",
                     "feitivalDishDescription": "Zongzi, pyramid-shaped sticky rice dumplings wrapped in bamboo leaves, are the quintessential food of the Dragon Boat Festival. They are filled with various ingredients like meats, beans, and nuts."
                 }
             ],
@@ -211,11 +211,11 @@
             "festivalName": "Qixi Festival (Chinese Valentine's Day)",
             "festivalMonth": 7,
             "festivalDate": 7,
-            "festivalImage": "\\img\\qixi_festival.jpg",
+            "festivalImage": "./img/qixi_festival.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Fruit Plate",
-                    "feitivalDishImage": "\\img\\fruit_plate.jpg",
+                    "feitivalDishImage": "./img/fruit_plate.jpg",
                     "feitivalDishDescription": "On Qixi Festival, it is common to enjoy a plate of fresh and colorful fruits as a symbol of love and romance."
                 }
             ],
@@ -225,11 +225,11 @@
             "festivalName": "Mid-Autumn Festival",
             "festivalMonth": 8,
             "festivalDate": 15,
-            "festivalImage": "\\img\\mid_autumn_festival.jpg",
+            "festivalImage": "./img/mid_autumn_festival.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Mooncakes",
-                    "feitivalDishImage": "\\img\\mooncakes.jpg",
+                    "feitivalDishImage": "./img/mooncakes.jpg",
                     "feitivalDishDescription": "Mooncakes, with various fillings like lotus seed paste and salted egg yolks, are the hallmark of this festival. They symbolize family reunion and togetherness under the full moon."
                 }
             ],
