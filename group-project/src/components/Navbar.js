@@ -9,11 +9,9 @@ class Navbar extends Component {
 		return (
 			<nav className="navbar">
 				<div className="logo">FOODTOUR</div>
-				<ul>
-					<li>Countries</li>
-					<li>Events in Sydney</li>
-					<li>About Us</li>
-				</ul>
+				<button>Countries</button>
+				<button>Events in Sydney</button>
+				<button>About Us</button>
 			</nav>
 		);
 	}

@@ -1,16 +1,17 @@
-import React from 'react';
-import { Box, FlipCard } from '/Users/hong-gabin/Desktop/DECO3200_A4/DECO3200-A4/group-project/src/components/EatingHabitCard.js';
-
+import Navbar from "./components/Navbar";
 
 function App() {
-  return (
-    <div className="App">
-      {/* <Box/>
+	return (
+		<div className="App">
+			{/* <Box/>
       <FlipCard/> */}
-    </div>
-  );
+		</div>
+	);
 }
 
 export default App;
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> f05e10214363b4d5921403f37ce09da3891faeed

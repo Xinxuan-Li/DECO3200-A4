@@ -153,14 +153,14 @@
             "festivalImage": "\\img\\spring_festival.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Jiaozi (Chinese Dumplings)",
-                    "feitivalDishImage": "\\img\\jiaozi.jpg",
-                    "feitivalDishDescription": "Jiaozi, shaped like ancient Chinese currency, symbolize wealth and good fortune. They are a traditional dish for family gatherings."
+                    "festivalDishName": "Jiaozi (Chinese Dumplings)",
+                    "festivalDishImage": "\\img\\jiaozi.jpg",
+                    "festivalDishDescription": "Jiaozi, shaped like ancient Chinese currency, symbolize wealth and good fortune. They are a traditional dish for family gatherings."
                 },
                 {
-                    "feitivalDishName": "Nian Gao (Rice Cakes)",
-                    "feitivalDishImage": "\\img\\nian_gao.jpg",
-                    "feitivalDishDescription": "Nian Gao represents rising prosperity and higher achievement. It's a sticky rice cake enjoyed during the festival."
+                    "festivalDishName": "Nian Gao (Rice Cakes)",
+                    "festivalDishImage": "\\img\\nian_gao.jpg",
+                    "festivalDishDescription": "Nian Gao represents rising prosperity and higher achievement. It's a sticky rice cake enjoyed during the festival."
                 }
             ],
             "festivalDescription": "Spring Festival, also known as Chinese New Year, is the most important and widely celebrated festival in China. It marks the beginning of the lunar new year and is a time for family reunions and festivities. The festival is characterized by vibrant red decorations, dragon and lion dances, and the giving of red envelopes (hongbao) for good luck."
@@ -172,9 +172,9 @@
             "festivalImage": "\\img\\lantern_festival.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Tangyuan (Sweet Rice Balls)",
-                    "feitivalDishImage": "\\img\\tangyuan.jpg",
-                    "feitivalDishDescription": "Tangyuan, round and sticky sweet rice balls, symbolize family unity and togetherness. They are a traditional treat during the Lantern Festival."
+                    "festivalDishName": "Tangyuan (Sweet Rice Balls)",
+                    "festivalDishImage": "\\img\\tangyuan.jpg",
+                    "festivalDishDescription": "Tangyuan, round and sticky sweet rice balls, symbolize family unity and togetherness. They are a traditional treat during the Lantern Festival."
                 }
             ],
             "festivalDescription": "The Lantern Festival, also known as Yuanxiao Festival, marks the end of the Chinese New Year celebrations and falls on the 15th day of the first lunar month. It's a time of colorful lantern displays, solving lantern riddles, and enjoying tangyuan, sweet rice balls."
@@ -186,7 +186,7 @@
             "festivalImage": "\\img\\qingming_festival.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Qingtuan (Green Dumplings)",
+                    "festivalDishName": "Qingtuan (Green Dumplings)",
                     "feitivalDishImage": "\\img\\qingtuan.jpg",
                     "feitivalDishDescription": "Qingtuan are green glutinous rice dumplings filled with sweet or savory fillings. They are a Qingming Festival specialty symbolizing the arrival of spring and new life."
                 }
