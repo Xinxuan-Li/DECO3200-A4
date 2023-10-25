@@ -12,8 +12,8 @@ class FestivalBar extends Component {
 
 	render() {
 		return (
-			<section className="toggleBar">
-				<div className="visible-content-container">
+			<div className="festival-container">
+				<div className="festival-bar-visibel">
 					<div id="date-title">
 						{
 							(this.festival["festivalMonth"],
@@ -26,7 +26,9 @@ class FestivalBar extends Component {
 						id="festival-img"
 						alt="festival-image"
 					/>
-					<div className="expanded-content-container">
+				</div>
+				<div className="expanded-content-container">
+					<div className="f-dish-cards-container">
 						{/* pass in dish information and create JSX accoringly */}
 						{this.festival["festivalDishes"].map((dish) => (
 							<FestivalDishCard
@@ -34,15 +36,16 @@ class FestivalBar extends Component {
 								dish={dish}
 							/>
 						))}
-						<div className="festival-description-container">
-							<h2>Description: </h2>
-							<p id="festival-description">
-								{this.festival["festivalDescription"]}
-							</p>
-						</div>
+					</div>
+
+					<div className="festival-description-container">
+						<h2>Description: </h2>
+						<p id="festival-description">
+							{this.festival["festivalDescription"]}
+						</p>
 					</div>
 				</div>
-			</section>
+			</div>
 		);
 	}
 }

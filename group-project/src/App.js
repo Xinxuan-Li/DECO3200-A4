@@ -1,6 +1,6 @@
 import Navbar from "./components/Navbar";
 import LandingPage from "./components/LandingPage";
-import MapPage from './components/MapPage';
+import MapPage from "./components/MapPage";
 import china from "./contents/countries/china.json";
 import france from "./contents/countries/france.json";
 import india from "./contents/countries/india.json";
@@ -17,70 +17,62 @@ import vietnam from "./contents/countries/vietnam.json";
 import React from "react";
 
 function App() {
-    const countryList = [
-        china,
-        france,
-        india,
-        italy,
-        japan,
-        lebanon,
-        malaysia,
-        mexico,
-        russia,
-        south_korea,
-        thailand,
-        turkey,
-        vietnam,
-    ];
+	const countryList = [
+		china,
+		france,
+		india,
+		italy,
+		japan,
+		lebanon,
+		malaysia,
+		mexico,
+		russia,
+		south_korea,
+		thailand,
+		turkey,
+		vietnam,
+	];
 
+	function handleWorldMapClick() {
+		console.log(`You jumped to world map page`);
+		// switch page logic here
+	}
 
-    function handleWorldMapClick() {
-        console.log(`You jumped to world map page`);
-        // switch page logic here
-    }
+	function handleRandomCountryClick() {
+		const randomIndex = Math.floor(Math.random() * countryList.length);
+		const selectedCountry = countryList[randomIndex];
+		console.log(`You jumped to ${selectedCountry.countryName}`);
+		// switch page logic here
+	}
 
-    function handleRandomCountryClick() {
-        const randomIndex = Math.floor(Math.random() * countryList.length);
-        const selectedCountry = countryList[randomIndex];
-        console.log(`You jumped to ${selectedCountry.countryName}`);
-        // switch page logic here
-    }
+	const [randomDish, setRandomDish] = React.useState(null);
 
+	function handleRandomDishClick() {
+		// select a random country first
+		const selectedCountry =
+			countryList[Math.floor(Math.random() * countryList.length)];
+		// select a random dish from the country
+		const selectedDIsh =
+			selectedCountry.traditionalDishes[
+				Math.floor(
+					Math.random() * selectedCountry.traditionalDishes.length
+				)
+			];
+		setRandomDish([selectedCountry, selectedDIsh]);
+	}
 
-    const [randomDish, setRandomDish] = React.useState(null);
-
-    function handleRandomDishClick() {
-        // select a random country first
-        const selectedCountry =
-            countryList[Math.floor(Math.random() * countryList.length)];
-        // select a random dish from the country
-        const selectedDIsh =
-            selectedCountry.traditionalDishes[
-                Math.floor(
-                    Math.random() * selectedCountry.traditionalDishes.length
-                )
-            ];
-        setRandomDish([selectedCountry, selectedDIsh]);
-    }
-
-
-    return (
-        <div className="app">
-            <Navbar />
-            <LandingPage
-                onWorldMapClick={handleWorldMapClick}
-                onRandomCountryClick={handleRandomCountryClick}
-                onRandomDishClick={handleRandomDishClick}
-                randomDish={randomDish}
-            />
-            <MapPage />
-        </div>
-    );
+	return (
+		<div className="app">
+			<Navbar />
+			<LandingPage
+				onWorldMapClick={handleWorldMapClick}
+				onRandomCountryClick={handleRandomCountryClick}
+				onRandomDishClick={handleRandomDishClick}
+				randomDish={randomDish}
+			/>
+			<MapPage />
+		</div>
+	);
 }
 
 export default App;
-<<<<<<< HEAD
-
-
-=======
->>>>>>> f05e10214363b4d5921403f37ce09da3891faeed

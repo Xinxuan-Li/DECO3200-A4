@@ -9,10 +9,14 @@ class CountrySidebar extends Component {
 		return (
 			<section className="sideBar">
 				<div className="countryIntro">{this.props.countryintro}</div>
-				<div className="sideBarButtons">
-					<button id="tradtional-dish-btn">Traditional Dishes</button>
-					<button id="eating-habit-btn">Eating Habits</button>
-					<button id="festival-btn">Festivals</button>
+				<div className="side-bar-btn-wrapper">
+					<div id="tradtional-dish-btn">Traditional Dishes</div>
+				</div>
+				<div className="side-bar-btn-wrapper">
+					<div id="eating-habit-btn">Eating Habits</div>
+				</div>
+				<div className="side-bar-btn-wrapper">
+					<div id="festival-btn">Festivals</div>
 				</div>
 			</section>
 		);

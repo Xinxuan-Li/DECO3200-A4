@@ -7,16 +7,26 @@ class Footer extends Component {
 
 	render() {
 		return (
-			<footer className="footer">
-				<button
-					onClick={() => this.backToMap()}
-					className="back-to-map-btn"
-				></button>
-				<button
-					onClick={() => this.exploreNext()}
-					className="explore-next-country-btn"
-				></button>
-			</footer>
+			<section onClick={() => this.backToMap()} className="footer">
+				<div className="back-to-map-btn">
+					<div className="arrow-icon-left"></div>
+					<img
+						src="https://via.placeholder.com/72x72"
+						className="back-to-map-img"
+					/>
+					<div className="back-to-map-text">Back to World Map</div>
+				</div>
+				<div className="explore-next-country-btn">
+					<div className="arrow-icon-right"></div>
+					<img
+						src="https://via.placeholder.com/72x72"
+						className="explore-next-img"
+					/>
+					<div className="explore-next-text">
+						Explore Next Country
+					</div>
+				</div>
+			</section>
 		);
 	}
 }
