@@ -3,7 +3,7 @@ import LandingPage from "./components/LandingPage";
 import MapPage from "./components/MapPage";
 import CountryPage from "./components/CountryPage";
 import EventPage from "./components/EventPage";
-import china from "./contents/countries/china.JSON";
+import china from "./contents/countries/china.json";
 import france from "./contents/countries/france.json";
 import india from "./contents/countries/india.json";
 import italy from "./contents/countries/italy.json";
