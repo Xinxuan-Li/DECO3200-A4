@@ -1,16 +1,16 @@
 {
     "countryName": "Thailand",
-    "countryFlagImage": "\\img\\thailand\\flag.jpg",
-    "countryPatternImage": "\\img\\thailand\\pattern.jpg",
+    "countryFlagImage": "./img/thailand/flag.jpg",
+    "countryPatternImage": "./img/thailand/pattern.jpg",
     "countryIntroduction": "Thailand, located in Southeast Asia, is renowned for its vibrant culture, stunning landscapes, and delectable cuisine. From the bustling street markets of Bangkok to the tranquil beaches of Phuket, Thailand offers a diverse and captivating experience. Thai cuisine, including dishes like Pad Thai, Tom Yum, and Green Curry, has gained global popularity. Thai culture is deeply rooted in traditions like Thai dance, Buddhism, and colorful festivals celebrating the nation's rich heritage.",
     "traditionalDishes": [
         {
             "dishName": "Pad Thai",
             "dishNameInOwnLanguage": "ผัดไทย",
             "dishImages": [
-                "\\img\\thailand\\pad_thai1.jpg",
-                "\\img\\thailand\\pad_thai2.jpg",
-                "\\img\\thailand\\pad_thai3.jpg"
+                "./img/thailand/pad_thai1.jpg",
+                "./img/thailand/pad_thai2.jpg",
+                "./img/thailand/pad_thai3.jpg"
             ],
             "dishIngredients": "Rice noodles, Shrimp or tofu, Bean sprouts, Peanuts, Eggs, Tamarind sauce",
             "dishDescription": "Pad Thai is a beloved Thai stir-fried noodle dish known for its sweet and savory flavors. It typically includes rice noodles stir-fried with shrimp or tofu, bean sprouts, peanuts, eggs, and a tangy tamarind sauce.",
@@ -20,9 +20,9 @@
             "dishName": "Tom Yum",
             "dishNameInOwnLanguage": "ต้มยำ",
             "dishImages": [
-                "\\img\\thailand\\tom_yum1.jpg",
-                "\\img\\thailand\\tom_yum2.jpg",
-                "\\img\\thailand\\tom_yum3.jpg"
+                "./img/thailand/tom_yum1.jpg",
+                "./img/thailand/tom_yum2.jpg",
+                "./img/thailand/tom_yum3.jpg"
             ],
             "dishIngredients": "Hot and sour soup, Shrimp or chicken, Lemongrass, Lime leaves, Galangal, Chili peppers",
             "dishDescription": "Tom Yum is a famous Thai hot and sour soup known for its bold and spicy flavors. It features a combination of shrimp or chicken, lemongrass, lime leaves, galangal, and chili peppers.",
@@ -32,9 +32,9 @@
             "dishName": "Green Curry",
             "dishNameInOwnLanguage": "แกงเขียวหวาน",
             "dishImages": [
-                "\\img\\thailand\\green_curry1.jpg",
-                "\\img\\thailand\\green_curry2.jpg",
-                "\\img\\thailand\\green_curry3.jpg"
+                "./img/thailand/green_curry1.jpg",
+                "./img/thailand/green_curry2.jpg",
+                "./img/thailand/green_curry3.jpg"
             ],
             "dishIngredients": "Green curry paste, Coconut milk, Chicken or tofu, Thai eggplant, Basil leaves",
             "dishDescription": "Green Curry, or 'Gaeng Keow Wan,' is a popular Thai curry known for its vibrant green color and creamy coconut milk base. It typically contains chicken or tofu, Thai eggplant, and basil leaves.",
@@ -44,9 +44,9 @@
             "dishName": "Som Tum",
             "dishNameInOwnLanguage": "ส้มตำ",
             "dishImages": [
-                "\\img\\thailand\\som_tum1.jpg",
-                "\\img\\thailand\\som_tum2.jpg",
-                "\\img\\thailand\\som_tum3.jpg"
+                "./img/thailand/som_tum1.jpg",
+                "./img/thailand/som_tum2.jpg",
+                "./img/thailand/som_tum3.jpg"
             ],
             "dishIngredients": "Green papaya, Chili peppers, Fish sauce, Lime juice, Peanuts",
             "dishDescription": "Som Tum, or Thai Green Papaya Salad, is a zesty and spicy salad made with shredded green papaya, chili peppers, fish sauce, lime juice, and peanuts.",
@@ -56,9 +56,9 @@
             "dishName": "Massaman Curry",
             "dishNameInOwnLanguage": "มัสมั่น",
             "dishImages": [
-                "\\img\\thailand\\massaman_curry1.jpg",
-                "\\img\\thailand\\massaman_curry2.jpg",
-                "\\img\\thailand\\massaman_curry3.jpg"
+                "./img/thailand/massaman_curry1.jpg",
+                "./img/thailand/massaman_curry2.jpg",
+                "./img/thailand/massaman_curry3.jpg"
             ],
             "dishIngredients": "Massaman curry paste, Coconut milk, Beef or chicken, Potatoes, Peanuts",
             "dishDescription": "Massaman Curry is a rich and aromatic Thai curry known for its complex flavors. It typically includes beef or chicken, potatoes, and roasted peanuts in a creamy coconut milk sauce.",
@@ -68,9 +68,9 @@
             "dishName": "Mango Sticky Rice",
             "dishNameInOwnLanguage": "ข้าวเหนียวมะม่วง",
             "dishImages": [
-                "\\img\\thailand\\mango_sticky_rice1.jpg",
-                "\\img\\thailand\\mango_sticky_rice2.jpg",
-                "\\img\\thailand\\mango_sticky_rice3.jpg"
+                "./img/thailand/mango_sticky_rice1.jpg",
+                "./img/thailand/mango_sticky_rice2.jpg",
+                "./img/thailand/mango_sticky_rice3.jpg"
             ],
             "dishIngredients": "Glutinous rice, Fresh mango, Coconut milk, Palm sugar",
             "dishDescription": "Mango Sticky Rice, or 'Khao Niew Mamuang,' is a beloved Thai dessert featuring sweet glutinous rice topped with fresh mango slices and drizzled with coconut milk and palm sugar.",
@@ -114,11 +114,11 @@
             "festivalName": "Bo Sang Umbrella Festival",
             "festivalMonth": 1,
             "festivalDate": 19,
-            "festivalImage": "\\img\\thailand\\bo_sang_umbrella.jpg",
+            "festivalImage": "./img/thailand/bo_sang_umbrella.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Pad See Ew",
-                    "feitivalDishImage": "\\img\\thailand\\pad_see_ew.jpg",
+                    "feitivalDishImage": "./img/thailand/pad_see_ew.jpg",
                     "feitivalDishDescription": "Pad See Ew is a popular Thai stir-fried noodle dish featuring wide rice noodles, vegetables, and your choice of protein in a flavorful sauce."
                 }
             ],
@@ -128,11 +128,11 @@
             "festivalName": "Songkran",
             "festivalMonth": 4,
             "festivalDate": 13,
-            "festivalImage": "\\img\\thailand\\songkran.jpg",
+            "festivalImage": "./img/thailand/songkran.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Khao Chae",
-                    "feitivalDishImage": "\\img\\thailand\\khao_chae.jpg",
+                    "feitivalDishImage": "./img/thailand/khao_chae.jpg",
                     "feitivalDishDescription": "Khao Chae is a traditional Thai dish of rice soaked in jasmine-scented water, served with a variety of side dishes."
                 }
             ],
@@ -142,11 +142,11 @@
             "festivalName": "Phi Ta Khon (Ghost Festival)",
             "festivalMonth": 6,
             "festivalDate": 1,
-            "festivalImage": "\\img\\thailand\\phi_ta_khon.jpg",
+            "festivalImage": "./img/thailand/phi_ta_khon.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Kanom Jeen Nam Ngeow",
-                    "feitivalDishImage": "\\img\\thailand\\kanom_jeen_nam_ngeow.jpg",
+                    "feitivalDishImage": "./img/thailand/kanom_jeen_nam_ngeow.jpg",
                     "feitivalDishDescription": "Kanom Jeen Nam Ngeow is a Northern Thai dish of rice noodles served with a flavorful broth made from pork and tomatoes."
                 }
             ],
@@ -156,11 +156,11 @@
             "festivalName": "Loi Krathong",
             "festivalMonth": 11,
             "festivalDate": 15,
-            "festivalImage": "\\img\\thailand\\loi_krathong.jpg",
+            "festivalImage": "./img/thailand/loi_krathong.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Khanom Tom",
-                    "feitivalDishImage": "\\img\\thailand\\khanom_tom.jpg",
+                    "feitivalDishImage": "./img/thailand/khanom_tom.jpg",
                     "feitivalDishDescription": "Khanom Tom is a Thai dessert made from glutinous rice flour filled with sweet coconut and sugar, often wrapped in banana leaves."
                 }
             ],
@@ -170,11 +170,11 @@
             "festivalName": "Yi Peng Lantern Festival",
             "festivalMonth": 11,
             "festivalDate": 15,
-            "festivalImage": "\\img\\thailand\\yi_peng_lantern.jpg",
+            "festivalImage": "./img/thailand/yi_peng_lantern.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Khao Soi",
-                    "feitivalDishImage": "\\img\\thailand\\khao_soi.jpg",
+                    "feitivalDishImage": "./img/thailand/khao_soi.jpg",
                     "feitivalDishDescription": "Khao Soi is a Northern Thai dish featuring egg noodles in a rich and aromatic coconut curry broth, often garnished with crispy noodles."
                 }
             ],

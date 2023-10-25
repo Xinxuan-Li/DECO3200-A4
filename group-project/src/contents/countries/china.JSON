@@ -1,0 +1,239 @@
+{
+    "countryName": "China",
+    "countryFlagImage": "./img/china/flag.jpg",
+    "countryPatternImage": "./img/china/pattern.jpg",
+    "countryIntroduction": "China, situated in East Asia, is the world's most populous country and one of the largest in terms of land area. It shares borders with 14 other nations, including India, Russia, and Vietnam, and boasts a diverse geographical landscape, ranging from the towering Himalayan peaks in the southwest to the vast plains of the northeast. Chinese culture, with its rich history spanning thousands of years, is characterized by a deep reverence for tradition and a harmonious blend of Confucianism, Taoism, and Buddhism. It is renowned for its distinct cuisine, stunning calligraphy and art, intricate traditions like the Chinese New Year celebrations, and the enduring allure of the Great Wall of China, which stands as a testament to the nation's cultural heritage.",
+    "traditionalDishes": [
+        {
+            "dishName": "Peking Roasted Duck",
+            "dishNameInOwnLanguage": "北京烤鸭",
+            "dishImages": [
+                "./img/china/peking_duck1.jpg",
+                "./img/china/peking_duck2.jpg",
+                "./img/china/peking_duck3.jpg"
+            ],
+            "dishIngredients": "One whole duck, Honey or maltose syrup, White vinegar, Shaoxing rice wine, Salt, Sugar, Ginger, Spring onion, Fermented soybean paste (for the sauce), Sesame oil (for the sauce and pancakes), Flour (for the pancakes)",
+            "dishDescription": "Peking Duck is a famous dish from Beijing that has been prepared since the imperial era. The dish is prized for its thin, crispy skin, with authentic versions of the dish serving mostly the skin and little meat, sliced in front of the diners by the cook.",
+            "dishStory": "Peking Duck, also known as Beijing Duck, has its origins in Imperial China. The dish's early renditions were served at the imperial court during the Yuan Dynasty (1271-1368). By the time of the Ming Dynasty (1368-1644), it had become a favorite in Beijing among commoners. The Qing Dynasty (1644-1912) witnessed its popularity spread across the nation, with emperors like Qianlong frequently including it in grand feasts.\n Two distinguished Beijing restaurants, Quanjude and Bianyifang, were instrumental in popularizing distinct styles of Peking Duck. Quanjude, founded in 1864, used an open oven and fruit tree wood for roasting, giving the duck a unique smoky aroma. Meanwhile, Bianyifang, which dates back to 1416, employed a closed oven technique.\n This dish stands out for its meticulous preparation, embodying the Chinese culinary ethos of technique and presentation. It is roasted to achieve a balance of crispy skin and tender meat and is traditionally accompanied by pancakes, scallions, and sweet bean sauce."
+        },
+        {
+            "dishName": "Youtiao (Fried Dough Sticks)",
+            "dishNameInOwnLanguage": "油条",
+            "dishImages": [
+                "./img/china/youtiao1.jpg",
+                "./img/china/youtiao2.jpg",
+                "./img/china/youtiao3.jpg"
+            ],
+            "dishIngredients": "All-purpose flour, Yeast, Baking powder, Salt, Water",
+            "dishDescription": "Youtiao, also known as fried dough sticks, are a popular Chinese breakfast item. They are made from a simple mixture of all-purpose flour, yeast, baking powder, salt, and water. The dough is deep-fried until it becomes golden brown and crispy on the outside while remaining soft on the inside.",
+            "dishStory": "Youtiao has been a part of Chinese breakfast culture for centuries, with origins dating back to the Song Dynasty (960-1279). Over time, it has become a beloved street food enjoyed throughout China and other parts of Asia. Youtiao is often paired with rice congee or soy milk and is appreciated for its simple yet satisfying taste. The name 'Youtiao' is derived from a tale of two lovers who were sentenced to death during the Song Dynasty. Their love was so strong that the two pieces of dough they were frying rose from the oil and joined together, symbolizing their eternal love."
+        },
+        {
+            "dishName": "Dumplings",
+            "dishNameInOwnLanguage": "饺子",
+            "dishImages": [
+                "./img/china/dumplings1.jpg",
+                "./img/china/dumplings2.jpg",
+                "./img/china/dumplings3.jpg"
+            ],
+            "dishIngredients": "Wheat flour, Ground pork, Cabbage, Garlic, Ginger, Soy sauce, Sesame oil",
+            "dishDescription": "Dumplings, or 'jiaozi,' are a traditional Chinese dish enjoyed worldwide. They consist of a thin wrapper made from wheat flour, filled with a mixture of ground pork, cabbage, garlic, ginger, soy sauce, and sesame oil. Dumplings can be boiled, steamed, or pan-fried.",
+            "dishStory": "Dumplings have a rich history in Chinese culture and are often associated with celebrations and festivals. They are traditionally eaten during Chinese New Year to symbolize wealth and prosperity. The shape of dumplings resembles ancient Chinese money, and eating them is believed to bring good fortune. Legend has it that the tradition of making dumplings during Chinese New Year began in the Han Dynasty when a physician named Zhang Zhongjing created them to prevent frostbite and keep people warm during the winter."
+        },
+        {
+            "dishName": "Zongzi (Sticky Rice Dumplings)",
+            "dishNameInOwnLanguage": "粽子",
+            "dishImages": [
+                "./img/china/zongzi1.jpg",
+                "./img/china/zongzi2.jpg",
+                "./img/china/zongzi3.jpg"
+            ],
+            "dishIngredients": "Glutinous rice, Fillings (meat, beans, or other ingredients), Bamboo leaves, Twine",
+            "dishDescription": "Zongzi, or sticky rice dumplings, are a traditional Chinese food typically enjoyed during the Dragon Boat Festival. They are made by wrapping glutinous rice and various fillings (such as meat, beans, or other ingredients) in bamboo leaves, then steaming or boiling them.",
+            "dishStory": "Zongzi has its origins in ancient China and is associated with the legend of Qu Yuan, a poet and minister from the Warring States period. People made and threw zongzi into the river to prevent fish from eating Qu Yuan's body. Over time, it became a cherished food for the Dragon Boat Festival, celebrated on the fifth day of the fifth lunar month. The act of eating zongzi during this festival is a way to pay tribute to Qu Yuan's patriotism and honor his memory."
+        },
+        {
+            "dishName": "Tofu Pudding (Doufunao)",
+            "dishNameInOwnLanguage": "豆腐脑",
+            "dishImages": [
+                "./img/china/tofu_pudding1.jpg",
+                "./img/china/tofu_pudding2.jpg",
+                "./img/china/tofu_pudding3.jpg"
+            ],
+            "dishIngredients": "Soybeans, Nigari (coagulant), Water",
+            "dishDescription": "Tofu Pudding, or 'Doufunao,' is a delicate and silky dessert made from soybeans. It is created by curdling freshly prepared soy milk with nigari (a natural coagulant) to form a soft, custard-like texture. It can be served hot or cold, with various toppings such as syrup, fruit, or peanuts.",
+            "dishStory": "Tofu Pudding has ancient origins and is believed to have been consumed in China for over a thousand years. It was initially developed as a savory dish during the Tang Dynasty (618-907) but later evolved into a popular dessert. The skillful preparation required to achieve the perfect texture has made Doufunao a culinary art form. This comforting dessert has stood the test of time, offering a soothing and delightful experience."
+        },
+        {
+            "dishName": "Hot and Sour Soup (Hulatang)",
+            "dishNameInOwnLanguage": "胡辣汤",
+            "dishImages": [
+                "./img/china/hot_sour_soup1.jpg",
+                "./img/china/hot_sour_soup2.jpg",
+                "./img/china/hot_sour_soup3.jpg"
+            ],
+            "dishIngredients": "Chicken or pork broth, Tofu, Wood ear mushrooms, Bamboo shoots, Vinegar, Chili oil, White pepper, Cornstarch",
+            "dishDescription": "Hot and Sour Soup, or 'Hulatang,' is a popular Chinese soup known for its spicy and tangy flavors. It is made from a chicken or pork broth and includes ingredients like tofu, wood ear mushrooms, bamboo shoots, vinegar, chili oil, and white pepper.",
+            "dishStory": "Hot and Sour Soup has a long history in Chinese cuisine and is enjoyed for its warming and invigorating qualities. It is believed to have originated in Sichuan, China, and later spread to other regions. The contrasting flavors of spiciness and sourness make it a favorite choice for those seeking a flavorful and comforting soup. In Chinese folklore, it is said that hot and sour soup was created by a legendary physician named Zhang Zhongjing during the Eastern Han Dynasty (25-220 AD) as a remedy for colds and illnesses."
+        },
+        {
+            "dishName": "Lanzhou Beef Noodles",
+            "dishNameInOwnLanguage": "兰州拉面",
+            "dishImages": [
+                "./img/china/beef_noodles1.jpg",
+                "./img/china/beef_noodles2.jpg",
+                "./img/china/beef_noodles3.jpg"
+            ],
+            "dishIngredients": "Hand-pulled noodles, Beef slices, Green onions, Radish, Chili oil, Beef broth",
+            "dishDescription": "Lanzhou Beef Noodles, known as 'Lanzhou Lamian,' are a specialty of Lanzhou, China. They consist of hand-pulled noodles served in a clear and aromatic beef broth, topped with thinly sliced beef, green onions, radish, and a drizzle of chili oil.",
+            "dishStory": "Lanzhou Beef Noodles have a history dating back to the Qing Dynasty (1644-1912) and are celebrated for their craftsmanship. The noodle dough is skillfully stretched and pulled by hand, resulting in long, thin noodles with a unique texture. Lanzhou is renowned for its noodle shops, where diners can witness the art of noodle-making in action. This dish reflects the dedication to preserving tradition and ensuring a delightful culinary experience."
+        },
+        {
+            "dishName": "Lion's Head Meatballs (Shizi Tou)",
+            "dishNameInOwnLanguage": "狮子头",
+            "dishImages": [
+                "./img/china/lion_head_meatballs1.jpg",
+                "./img/china/lion_head_meatballs2.jpg",
+                "./img/china/lion_head_meatballs3.jpg"
+            ],
+            "dishIngredients": "Ground pork, Cabbage, Garlic, Ginger, Soy sauce, Shaoxing rice wine, Cornstarch",
+            "dishDescription": "Lion's Head Meatballs, or 'Shizi Tou,' are a classic Chinese dish known for their oversized meatballs and savory flavors. They are made from ground pork mixed with cabbage, garlic, ginger, soy sauce, Shaoxing rice wine, and cornstarch. The meatballs are typically braised until tender.",
+            "dishStory": "Lion's Head Meatballs have a history dating back to the Ming Dynasty (1368-1644) and are considered a traditional Shanghainese delicacy. The name 'Lion's Head' refers to the large size and round shape of the meatballs, resembling a lion's head. This dish is often served during special occasions and family gatherings. It is a symbol of unity and togetherness, as the large meatballs represent family members coming together."
+        },
+        {
+            "dishName": "Mapo Tofu",
+            "dishNameInOwnLanguage": "麻婆豆腐",
+            "dishImages": [
+                "./img/china/mapo_tofu1.jpg",
+                "./img/china/mapo_tofu2.jpg",
+                "./img/china/mapo_tofu3.jpg"
+            ],
+            "dishIngredients": "Tofu, Ground pork, Fermented black beans, Sichuan peppercorns, Chili bean paste, Soy sauce, Garlic, Ginger",
+            "dishDescription": "Mapo Tofu is a famous Sichuan dish known for its spicy and numbing flavors. It features soft tofu cubes served in a fiery sauce made from ground pork, fermented black beans, Sichuan peppercorns, chili bean paste, soy sauce, garlic, and ginger.",
+            "dishStory": "Mapo Tofu has a history dating back to the Qing Dynasty (1644-1912) and is named after the pockmarked (ma) old woman (po) who supposedly created the dish. It has become an iconic representation of Sichuan cuisine and is cherished for its bold and vibrant flavors. The dish's unique combination of spiciness and numbing sensation from Sichuan peppercorns has made it a favorite among those who appreciate the complexity of Chinese cuisine."
+        }
+    ],
+    "eatingHabits": [
+        {
+            "eatingHabitName": "Chopsticks Mastery",
+            "eatingHabitDescription": "Precision in Eating",
+            "eatingHabitReason": "The adept use of chopsticks in China goes beyond convenience, highlighting a culture that values precision and craftsmanship. This practice, dating back over two millennia, reflects the Chinese emphasis on fine motor skills and attention to detail."
+        },
+        {
+            "eatingHabitName": "Communal Dining",
+            "eatingHabitDescription": "Strengthening Bonds Through Shared Meals",
+            "eatingHabitReason": "Chinese meals, characterized by multiple shared dishes, emphasize togetherness and the importance of social connections. This communal approach underscores that dining is not just about sustenance but a moment for connecting and building relationships."
+        },
+        {
+            "eatingHabitName": "Balanced Yin and Yang Cuisine",
+            "eatingHabitDescription": "Harmonizing Health Through Food",
+            "eatingHabitReason": "Chinese cuisine's focus on balancing yin and yang elements aligns with traditional Chinese medicine, promoting well-being through nutrition. This holistic approach underscores the relationship between diet and overall health."
+        },
+        {
+            "eatingHabitName": "Tea Rituals",
+            "eatingHabitDescription": "Sipping Elegance with Every Meal",
+            "eatingHabitReason": "The incorporation of tea into Chinese dining enhances the appreciation for its flavors and holistic benefits. It reflects China's reverence for tea as an elegant accompaniment that aids digestion and elevates the sensory experience of dining."
+        },
+        {
+            "eatingHabitName": "Soup as an Opener",
+            "eatingHabitDescription": "A Soothing Prelude to Feasting",
+            "eatingHabitReason": "Starting meals with a warm, light soup aids digestion and builds anticipation for the flavors ahead. This tradition ensures a smooth transition from hunger to satisfaction, enhancing the dining experience."
+        },
+        {
+            "eatingHabitName": "Resourceful Culinary Traditions",
+            "eatingHabitDescription": "Waste Reduction and Culinary Ingenuity",
+            "eatingHabitReason": "Chinese cuisine's use of a wide range of ingredients minimizes waste and showcases resourcefulness. This practice demonstrates China's commitment to sustainability and an ingenious approach to utilizing every part of an ingredient."
+        }
+    ],
+    "festivals": [
+        {
+            "festivalName": "Spring Festival (Chinese New Year)",
+            "festivalMonth": 1,
+            "festivalDate": 1,
+            "festivalImage": "./img/spring_festival.jpg",
+            "festivalDishes": [
+                {
+                    "feitivalDishName": "Jiaozi (Chinese Dumplings)",
+                    "feitivalDishImage": "./img/jiaozi.jpg",
+                    "feitivalDishDescription": "Jiaozi, shaped like ancient Chinese currency, symbolize wealth and good fortune. They are a traditional dish for family gatherings."
+                },
+                {
+                    "feitivalDishName": "Nian Gao (Rice Cakes)",
+                    "feitivalDishImage": "./img/nian_gao.jpg",
+                    "feitivalDishDescription": "Nian Gao represents rising prosperity and higher achievement. It's a sticky rice cake enjoyed during the festival."
+                }
+            ],
+            "festivalDescription": "Spring Festival, also known as Chinese New Year, is the most important and widely celebrated festival in China. It marks the beginning of the lunar new year and is a time for family reunions and festivities. The festival is characterized by vibrant red decorations, dragon and lion dances, and the giving of red envelopes (hongbao) for good luck."
+        },
+        {
+            "festivalName": "Lantern Festival",
+            "festivalMonth": 1,
+            "festivalDate": 15,
+            "festivalImage": "./img/lantern_festival.jpg",
+            "festivalDishes": [
+                {
+                    "feitivalDishName": "Tangyuan (Sweet Rice Balls)",
+                    "feitivalDishImage": "./img/tangyuan.jpg",
+                    "feitivalDishDescription": "Tangyuan, round and sticky sweet rice balls, symbolize family unity and togetherness. They are a traditional treat during the Lantern Festival."
+                }
+            ],
+            "festivalDescription": "The Lantern Festival, also known as Yuanxiao Festival, marks the end of the Chinese New Year celebrations and falls on the 15th day of the first lunar month. It's a time of colorful lantern displays, solving lantern riddles, and enjoying tangyuan, sweet rice balls."
+        },
+        {
+            "festivalName": "Qingming Festival (Tomb-Sweeping Day)",
+            "festivalMonth": 4,
+            "festivalDate": 4,
+            "festivalImage": "./img/qingming_festival.jpg",
+            "festivalDishes": [
+                {
+                    "feitivalDishName": "Qingtuan (Green Dumplings)",
+                    "feitivalDishImage": "./img/qingtuan.jpg",
+                    "feitivalDishDescription": "Qingtuan are green glutinous rice dumplings filled with sweet or savory fillings. They are a Qingming Festival specialty symbolizing the arrival of spring and new life."
+                }
+            ],
+            "festivalDescription": "Qingming Festival, also known as Tomb-Sweeping Day, is a time for Chinese people to honor their ancestors by cleaning and maintaining their graves. It is also a time when people enjoy the outdoors and appreciate the blooming spring scenery."
+        },
+        {
+            "festivalName": "Dragon Boat Festival (Duanwu Festival)",
+            "festivalMonth": 5,
+            "festivalDate": 5,
+            "festivalImage": "./img/dragon_boat_festival.jpg",
+            "festivalDishes": [
+                {
+                    "feitivalDishName": "Zongzi (Sticky Rice Dumplings)",
+                    "feitivalDishImage": "./img/zongzi.jpg",
+                    "feitivalDishDescription": "Zongzi, pyramid-shaped sticky rice dumplings wrapped in bamboo leaves, are the quintessential food of the Dragon Boat Festival. They are filled with various ingredients like meats, beans, and nuts."
+                }
+            ],
+            "festivalDescription": "The Dragon Boat Festival, also known as Duanwu Festival, commemorates the ancient poet Qu Yuan and is celebrated on the fifth day of the fifth lunar month. The festival is famous for dragon boat races and the consumption of zongzi, sticky rice dumplings."
+        },
+        {
+            "festivalName": "Qixi Festival (Chinese Valentine's Day)",
+            "festivalMonth": 7,
+            "festivalDate": 7,
+            "festivalImage": "./img/qixi_festival.jpg",
+            "festivalDishes": [
+                {
+                    "feitivalDishName": "Fruit Plate",
+                    "feitivalDishImage": "./img/fruit_plate.jpg",
+                    "feitivalDishDescription": "On Qixi Festival, it is common to enjoy a plate of fresh and colorful fruits as a symbol of love and romance."
+                }
+            ],
+            "festivalDescription": "Qixi Festival, also known as Chinese Valentine's Day, celebrates the legendary love story of the cowherd and the weaver girl. It's a day for couples to express their love and affection for each other."
+        },
+        {
+            "festivalName": "Mid-Autumn Festival",
+            "festivalMonth": 8,
+            "festivalDate": 15,
+            "festivalImage": "./img/mid_autumn_festival.jpg",
+            "festivalDishes": [
+                {
+                    "feitivalDishName": "Mooncakes",
+                    "feitivalDishImage": "./img/mooncakes.jpg",
+                    "feitivalDishDescription": "Mooncakes, with various fillings like lotus seed paste and salted egg yolks, are the hallmark of this festival. They symbolize family reunion and togetherness under the full moon."
+                }
+            ],
+            "festivalDescription": "The Mid-Autumn Festival, also known as the Moon Festival, falls on the 15th day of the eighth lunar month. It's a time when families gather to appreciate the full moon, a symbol of unity and completeness. Mooncakes, with their round shape and rich fillings, are the most iconic treat of this festival."
+        }
+    ]
+}

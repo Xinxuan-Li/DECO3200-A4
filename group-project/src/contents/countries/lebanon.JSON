@@ -1,16 +1,16 @@
 {
     "countryName": "Lebanon",
-    "countryFlagImage": "\\img\\lebanon\\flag.jpg",
-    "countryPatternImage": "\\img\\lebanon\\pattern.jpg",
+    "countryFlagImage": "./img/lebanon/flag.jpg",
+    "countryPatternImage": "./img/lebanon/pattern.jpg",
     "countryIntroduction": "Lebanon, a Mediterranean country in the Middle East, is renowned for its rich history, diverse culture, and delicious cuisine. From the ancient ruins of Byblos to the vibrant streets of Beirut, Lebanon offers a captivating blend of old and new. Its cuisine, including dishes like falafel, shawarma, and tabbouleh, is celebrated worldwide. Lebanese culture embraces music, dance, and traditions that reflect the country's colorful heritage.",
     "traditionalDishes": [
         {
             "dishName": "Falafel",
             "dishNameInOwnLanguage": "فلافل",
             "dishImages": [
-                "\\img\\lebanon\\falafel1.jpg",
-                "\\img\\lebanon\\falafel2.jpg",
-                "\\img\\lebanon\\falafel3.jpg"
+                "./img/lebanon/falafel1.jpg",
+                "./img/lebanon/falafel2.jpg",
+                "./img/lebanon/falafel3.jpg"
             ],
             "dishIngredients": "Chickpeas, Herbs, Spices, Onion, Garlic",
             "dishDescription": "Falafel is a beloved Lebanese dish made from ground chickpeas or fava beans mixed with herbs and spices. The mixture is formed into balls or patties and deep-fried to perfection.",
@@ -20,9 +20,9 @@
             "dishName": "Shawarma",
             "dishNameInOwnLanguage": "شاورما",
             "dishImages": [
-                "\\img\\lebanon\\shawarma1.jpg",
-                "\\img\\lebanon\\shawarma2.jpg",
-                "\\img\\lebanon\\shawarma3.jpg"
+                "./img/lebanon/shawarma1.jpg",
+                "./img/lebanon/shawarma2.jpg",
+                "./img/lebanon/shawarma3.jpg"
             ],
             "dishIngredients": "Marinated Meat (Chicken, Beef, or Lamb), Pita Bread, Tahini Sauce, Vegetables",
             "dishDescription": "Shawarma is a popular Lebanese street food made by marinating slices of meat and then roasting them on a vertical spit. The thinly sliced meat is typically wrapped in pita bread with tahini sauce and vegetables.",
@@ -32,9 +32,9 @@
             "dishName": "Tabbouleh",
             "dishNameInOwnLanguage": "تبولة",
             "dishImages": [
-                "\\img\\lebanon\\tabbouleh1.jpg",
-                "\\img\\lebanon\\tabbouleh2.jpg",
-                "\\img\\lebanon\\tabbouleh3.jpg"
+                "./img/lebanon/tabbouleh1.jpg",
+                "./img/lebanon/tabbouleh2.jpg",
+                "./img/lebanon/tabbouleh3.jpg"
             ],
             "dishIngredients": "Fresh Parsley, Tomatoes, Bulgur Wheat, Mint, Onion, Lemon Juice, Olive Oil",
             "dishDescription": "Tabbouleh is a refreshing Lebanese salad made with finely chopped fresh parsley, tomatoes, and bulgur wheat. It is seasoned with mint, onion, lemon juice, and olive oil.",
@@ -44,9 +44,9 @@
             "dishName": "Kibbeh",
             "dishNameInOwnLanguage": "كبة",
             "dishImages": [
-                "\\img\\lebanon\\kibbeh1.jpg",
-                "\\img\\lebanon\\kibbeh2.jpg",
-                "\\img\\lebanon\\kibbeh3.jpg"
+                "./img/lebanon/kibbeh1.jpg",
+                "./img/lebanon/kibbeh2.jpg",
+                "./img/lebanon/kibbeh3.jpg"
             ],
             "dishIngredients": "Ground Meat (Beef or Lamb), Bulgur Wheat, Onion, Pine Nuts, Spices",
             "dishDescription": "Kibbeh is a traditional Lebanese dish made from finely ground meat and bulgur wheat. It is often shaped into patties or balls and can be either fried or baked.",
@@ -56,9 +56,9 @@
             "dishName": "Hummus",
             "dishNameInOwnLanguage": "حمص",
             "dishImages": [
-                "\\img\\lebanon\\hummus1.jpg",
-                "\\img\\lebanon\\hummus2.jpg",
-                "\\img\\lebanon\\hummus3.jpg"
+                "./img/lebanon/hummus1.jpg",
+                "./img/lebanon/hummus2.jpg",
+                "./img/lebanon/hummus3.jpg"
             ],
             "dishIngredients": "Chickpeas, Tahini, Lemon Juice, Garlic, Olive Oil",
             "dishDescription": "Hummus is a creamy Lebanese dip made from blended chickpeas, tahini, lemon juice, garlic, and olive oil. It is often garnished with herbs and paprika.",
@@ -68,9 +68,9 @@
             "dishName": "Moussaka",
             "dishNameInOwnLanguage": "مسقعة",
             "dishImages": [
-                "\\img\\lebanon\\moussaka1.jpg",
-                "\\img\\lebanon\\moussaka2.jpg",
-                "\\img\\lebanon\\moussaka3.jpg"
+                "./img/lebanon/moussaka1.jpg",
+                "./img/lebanon/moussaka2.jpg",
+                "./img/lebanon/moussaka3.jpg"
             ],
             "dishIngredients": "Eggplant, Ground Meat (Beef or Lamb), Tomatoes, Onions, Garlic, Spices",
             "dishDescription": "Moussaka is a Lebanese casserole dish made from layers of eggplant, seasoned ground meat, tomatoes, and onions. It is baked to perfection and often topped with a creamy béchamel sauce.",
@@ -114,11 +114,11 @@
             "festivalName": "Eid al-Fitr",
             "festivalMonth": 9,
             "festivalDate": 1,
-            "festivalImage": "\\img\\lebanon\\eid_al_fitr.jpg",
+            "festivalImage": "./img/lebanon/eid_al_fitr.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Ma'amoul",
-                    "festivalDishImage": "\\img\\lebanon\\maamoul.jpg",
+                    "festivalDishImage": "./img/lebanon/maamoul.jpg",
                     "festivalDishDescription": "Ma'amoul are delicate Lebanese pastries filled with dates, nuts, or figs and often shaped into intricate designs."
                 }
             ],
@@ -128,11 +128,11 @@
             "festivalName": "Independence Day",
             "festivalMonth": 11,
             "festivalDate": 22,
-            "festivalImage": "\\img\\lebanon\\independence_day.jpg",
+            "festivalImage": "./img/lebanon/independence_day.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Kibbeh Nayyeh",
-                    "festivalDishImage": "\\img\\lebanon\\kibbeh_nayyeh.jpg",
+                    "festivalDishImage": "./img/lebanon/kibbeh_nayyeh.jpg",
                     "festivalDishDescription": "Kibbeh Nayyeh is a traditional Lebanese dish made from raw minced meat, often enjoyed on special occasions."
                 }
             ],
@@ -142,11 +142,11 @@
             "festivalName": "Cedar Festival",
             "festivalMonth": 6,
             "festivalDate": 1,
-            "festivalImage": "\\img\\lebanon\\cedar_festival.jpg",
+            "festivalImage": "./img/lebanon/cedar_festival.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Sfeeha",
-                    "festivalDishImage": "\\img\\lebanon\\sfeeha.jpg",
+                    "festivalDishImage": "./img/lebanon/sfeeha.jpg",
                     "festivalDishDescription": "Sfeeha are Lebanese meat pies with a flavorful filling of ground meat, onions, and spices."
                 }
             ],
@@ -156,11 +156,11 @@
             "festivalName": "Beirut International Film Festival",
             "festivalMonth": 10,
             "festivalDate": 5,
-            "festivalImage": "\\img\\lebanon\\beirut_film_festival.jpg",
+            "festivalImage": "./img/lebanon/beirut_film_festival.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Manousheh",
-                    "festivalDishImage": "\\img\\lebanon\\manousheh.jpg",
+                    "festivalDishImage": "./img/lebanon/manousheh.jpg",
                     "festivalDishDescription": "Manousheh is a Lebanese flatbread often topped with za'atar (a blend of herbs and spices) and olive oil."
                 }
             ],
@@ -170,11 +170,11 @@
             "festivalName": "Cedars International Festival",
             "festivalMonth": 7,
             "festivalDate": 20,
-            "festivalImage": "\\img\\lebanon\\cedars_international_festival.jpg",
+            "festivalImage": "./img/lebanon/cedars_international_festival.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Grilled Halloumi",
-                    "festivalDishImage": "\\img\\lebanon\\halloumi.jpg",
+                    "festivalDishImage": "./img/lebanon/halloumi.jpg",
                     "festivalDishDescription": "Grilled Halloumi cheese is a delicious Lebanese dish known for its unique texture and flavor."
                 }
             ],
@@ -184,11 +184,11 @@
             "festivalName": "Lebanese Independence Day",
             "festivalMonth": 11,
             "festivalDate": 22,
-            "festivalImage": "\\img\\lebanon\\lebanese_independence_day.jpg",
+            "festivalImage": "./img/lebanon/lebanese_independence_day.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Moussaka",
-                    "festivalDishImage": "\\img\\lebanon\\moussaka.jpg",
+                    "festivalDishImage": "./img/lebanon/moussaka.jpg",
                     "festivalDishDescription": "Moussaka is a traditional Lebanese casserole made from layers of eggplant, spiced meat, and tomatoes."
                 }
             ],

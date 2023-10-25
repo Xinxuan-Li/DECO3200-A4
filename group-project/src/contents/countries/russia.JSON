@@ -1,16 +1,16 @@
 {
     "countryName": "Russia",
-    "countryFlagImage": "\\img\\russia\\flag.jpg",
-    "countryPatternImage": "\\img\\russia\\pattern.jpg",
+    "countryFlagImage": "./img/russia/flag.jpg",
+    "countryPatternImage": "./img/russia/pattern.jpg",
     "countryIntroduction": "Russia, the largest country in the world, spans across Eastern Europe and Northern Asia. It boasts a rich culinary heritage influenced by its diverse regions and historical influences. Russian cuisine features hearty and flavorful dishes, often accompanied by traditions of toasting and warm hospitality.",
     "traditionalDishes": [
         {
             "dishName": "Borscht",
             "dishNameInOwnLanguage": "Борщ",
             "dishImages": [
-                "\\img\\russia\\borscht1.jpg",
-                "\\img\\russia\\borscht2.jpg",
-                "\\img\\russia\\borscht3.jpg"
+                "./img/russia/borscht1.jpg",
+                "./img/russia/borscht2.jpg",
+                "./img/russia/borscht3.jpg"
             ],
             "dishIngredients": "Beets, Cabbage, Potatoes, Beef or Pork, Sour Cream",
             "dishDescription": "Borscht is a vibrant beet soup, often made with cabbage, potatoes, and meat, and served with a dollop of sour cream.",
@@ -20,9 +20,9 @@
             "dishName": "Pelmeni",
             "dishNameInOwnLanguage": "Пельмени",
             "dishImages": [
-                "\\img\\russia\\pelmeni1.jpg",
-                "\\img\\russia\\pelmeni2.jpg",
-                "\\img\\russia\\pelmeni3.jpg"
+                "./img/russia/pelmeni1.jpg",
+                "./img/russia/pelmeni2.jpg",
+                "./img/russia/pelmeni3.jpg"
             ],
             "dishIngredients": "Dough, Ground Meat (usually beef, pork, or a mix), Onions, Spices",
             "dishDescription": "Pelmeni are dumplings filled with seasoned ground meat, typically served with sour cream or butter.",
@@ -32,9 +32,9 @@
             "dishName": "Beef Stroganoff",
             "dishNameInOwnLanguage": "Бефстроганов",
             "dishImages": [
-                "\\img\\russia\\beef_stroganoff1.jpg",
-                "\\img\\russia\\beef_stroganoff2.jpg",
-                "\\img\\russia\\beef_stroganoff3.jpg"
+                "./img/russia/beef_stroganoff1.jpg",
+                "./img/russia/beef_stroganoff2.jpg",
+                "./img/russia/beef_stroganoff3.jpg"
             ],
             "dishIngredients": "Beef, Onions, Mushrooms, Sour Cream, Mustard, Paprika",
             "dishDescription": "Beef Stroganoff is a creamy dish featuring sautéed beef, onions, and mushrooms, finished with sour cream and seasonings.",
@@ -44,9 +44,9 @@
             "dishName": "Pirozhki",
             "dishNameInOwnLanguage": "Пирожки",
             "dishImages": [
-                "\\img\\russia\\pirozhki1.jpg",
-                "\\img\\russia\\pirozhki2.jpg",
-                "\\img\\russia\\pirozhki3.jpg"
+                "./img/russia/pirozhki1.jpg",
+                "./img/russia/pirozhki2.jpg",
+                "./img/russia/pirozhki3.jpg"
             ],
             "dishIngredients": "Yeast Dough, Various Fillings (meat, potatoes, cabbage, mushrooms, fruit)",
             "dishDescription": "Pirozhki are small, stuffed buns made from yeast dough and filled with a variety of ingredients, including meat, potatoes, cabbage, mushrooms, or fruit.",
@@ -56,9 +56,9 @@
             "dishName": "Shashlik",
             "dishNameInOwnLanguage": "Шашлык",
             "dishImages": [
-                "\\img\\russia\\shashlik1.jpg",
-                "\\img\\russia\\shashlik2.jpg",
-                "\\img\\russia\\shashlik3.jpg"
+                "./img/russia/shashlik1.jpg",
+                "./img/russia/shashlik2.jpg",
+                "./img/russia/shashlik3.jpg"
             ],
             "dishIngredients": "Marinated and skewered meat (usually pork, beef, or lamb), Onions, Spices",
             "dishDescription": "Shashlik is a popular Russian barbecue dish featuring marinated and skewered meat, often served with grilled onions and spices.",
@@ -68,9 +68,9 @@
             "dishName": "Plov",
             "dishNameInOwnLanguage": "Плов",
             "dishImages": [
-                "\\img\\russia\\plov1.jpg",
-                "\\img\\russia\\plov2.jpg",
-                "\\img\\russia\\plov3.jpg"
+                "./img/russia/plov1.jpg",
+                "./img/russia/plov2.jpg",
+                "./img/russia/plov3.jpg"
             ],
             "dishIngredients": "Rice, Meat (usually lamb or beef), Carrots, Onions, Vegetable oil, Spices",
             "dishDescription": "Plov is a fragrant rice dish cooked with meat, carrots, onions, and spices, creating a flavorful one-pot meal.",
@@ -80,9 +80,9 @@
             "dishName": "Olivier Salad",
             "dishNameInOwnLanguage": "Салат Оливье",
             "dishImages": [
-                "\\img\\russia\\olivier_salad1.jpg",
-                "\\img\\russia\\olivier_salad2.jpg",
-                "\\img\\russia\\olivier_salad3.jpg"
+                "./img/russia/olivier_salad1.jpg",
+                "./img/russia/olivier_salad2.jpg",
+                "./img/russia/olivier_salad3.jpg"
             ],
             "dishIngredients": "Potatoes, Carrots, Peas, Pickles, Bologna or Sausage, Mayonnaise",
             "dishDescription": "Olivier Salad is a classic Russian salad made with diced potatoes, carrots, peas, pickles, and bologna or sausage, all coated in creamy mayonnaise.",
@@ -92,9 +92,9 @@
             "dishName": "Blini",
             "dishNameInOwnLanguage": "Блины",
             "dishImages": [
-                "\\img\\russia\\blini1.jpg",
-                "\\img\\russia\\blini2.jpg",
-                "\\img\\russia\\blini3.jpg"
+                "./img/russia/blini1.jpg",
+                "./img/russia/blini2.jpg",
+                "./img/russia/blini3.jpg"
             ],
             "dishIngredients": "Thin Pancakes made from Buckwheat or Wheat Flour, Various Toppings (caviar, sour cream, jam)",
             "dishDescription": "Blini are thin Russian pancakes made from buckwheat or wheat flour, served with an array of toppings, including caviar, sour cream, and jam.",
@@ -138,11 +138,11 @@
             "festivalName": "Christmas (Rozhdestvo)",
             "festivalMonth": 1,
             "festivalDate": 7,
-            "festivalImage": "\\img\\russia\\christmas.jpg",
+            "festivalImage": "./img/russia/christmas.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Kutya",
-                    "festivalDishImage": "\\img\\russia\\kutya.jpg",
+                    "festivalDishImage": "./img/russia/kutya.jpg",
                     "festivalDishDescription": "Kutya, a sweet porridge made from wheat berries, honey, and poppy seeds, is a traditional Christmas dish."
                 }
             ],
@@ -152,11 +152,11 @@
             "festivalName": "Maslenitsa",
             "festivalMonth": 2,
             "festivalDate": 20,
-            "festivalImage": "\\img\\russia\\maslenitsa.jpg",
+            "festivalImage": "./img/russia/maslenitsa.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Blini",
-                    "festivalDishImage": "\\img\\russia\\blini.jpg",
+                    "festivalDishImage": "./img/russia/blini.jpg",
                     "festivalDishDescription": "Blini, thin pancakes, are a central feature of Maslenitsa celebrations, symbolizing the coming of spring."
                 }
             ],
@@ -166,11 +166,11 @@
             "festivalName": "Easter (Paskha)",
             "festivalMonth": 4,
             "festivalDate": 28,
-            "festivalImage": "\\img\\russia\\easter.jpg",
+            "festivalImage": "./img/russia/easter.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Paskha",
-                    "festivalDishImage": "\\img\\russia\\paskha.jpg",
+                    "festivalDishImage": "./img/russia/paskha.jpg",
                     "festivalDishDescription": "Paskha, a sweet molded cottage cheese dessert, is a traditional Easter treat."
                 }
             ],
@@ -180,11 +180,11 @@
             "festivalName": "Victory Day (Den Pobedy)",
             "festivalMonth": 5,
             "festivalDate": 9,
-            "festivalImage": "\\img\\russia\\victory_day.jpg",
+            "festivalImage": "./img/russia/victory_day.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Shashlik",
-                    "festivalDishImage": "\\img\\russia\\shashlik.jpg",
+                    "festivalDishImage": "./img/russia/shashlik.jpg",
                     "festivalDishDescription": "Shashlik, marinated and grilled meat skewers, are a popular choice for Victory Day celebrations."
                 }
             ],
@@ -194,11 +194,11 @@
             "festivalName": "Ivan Kupala Day",
             "festivalMonth": 7,
             "festivalDate": 7,
-            "festivalImage": "\\img\\russia\\ivan_kupala.jpg",
+            "festivalImage": "./img/russia/ivan_kupala.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Kvass",
-                    "festivalDishImage": "\\img\\russia\\kvass.jpg",
+                    "festivalDishImage": "./img/russia/kvass.jpg",
                     "festivalDishDescription": "Kvass, a fermented beverage, is traditionally enjoyed during Ivan Kupala Day festivities."
                 }
             ],
@@ -208,11 +208,11 @@
             "festivalName": "Unity Day (Den' Narodnogo Edinstva)",
             "festivalMonth": 11,
             "festivalDate": 4,
-            "festivalImage": "\\img\\russia\\unity_day.jpg",
+            "festivalImage": "./img/russia/unity_day.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Medovukha",
-                    "festivalDishImage": "\\img\\russia\\medovukha.jpg",
+                    "festivalDishImage": "./img/russia/medovukha.jpg",
                     "festivalDishDescription": "Medovukha, a honey-based alcoholic beverage, is enjoyed during Unity Day celebrations."
                 }
             ],
@@ -222,16 +222,16 @@
             "festivalName": "New Year's Eve (Novy God)",
             "festivalMonth": 12,
             "festivalDate": 31,
-            "festivalImage": "\\img\\russia\\new_years_eve_2.jpg",
+            "festivalImage": "./img/russia/new_years_eve_2.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Olivier Salad",
-                    "festivalDishImage": "\\img\\russia\\olivier_salad.jpg",
+                    "festivalDishImage": "./img/russia/olivier_salad.jpg",
                     "festivalDishDescription": "Olivier Salad, a classic Russian salad, is a must-have on New Year's Eve."
                 },
                 {
                     "festivalDishName": "Champagne",
-                    "festivalDishImage": "\\img\\russia\\champagne.jpg",
+                    "festivalDishImage": "./img/russia/champagne.jpg",
                     "festivalDishDescription": "Champagne is a popular drink to celebrate the arrival of the New Year in Russia."
                 }
             ],
