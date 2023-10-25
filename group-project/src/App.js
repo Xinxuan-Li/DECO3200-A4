@@ -38,7 +38,7 @@ function App() {
     const countryMap = new Map();
 
     countryList.forEach((country) => {
-        countryMap.set(country.countryName, country);
+        countryMap.set(country.name, country);
     });
 
     // landingpage: ["landing", null] mappage: ["map", null] countrypage: ["country", Country js object] eventpage: ["event", null]
@@ -59,7 +59,12 @@ function App() {
                 );
                 break;
             case "map":
-                componentToRender = <MapPage />;
+                componentToRender = (
+                    <MapPage
+                        onCountryClick={renderCountryPage}
+                        countryMap={countryMap}
+                    />
+                );
                 break;
             case "country":
                 componentToRender = (
@@ -118,7 +123,12 @@ function App() {
     }
 
     // Change currentPage to countryPage of the countryName
-    function renderCountryPage(countryName) {}
+    function renderCountryPage(countryName) {
+        if (countryMap.has(countryName))
+            setCurrentPage(["country", countryMap.get(countryName)]);
+        // only for testing, one page for those countries with no content should be createtd later
+        else setCurrentPage(["event", null]);
+    }
 
     // Draw a random dish
     // Change currentPage to countryPage of the random dish's country
