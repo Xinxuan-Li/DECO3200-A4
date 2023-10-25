@@ -9,11 +9,11 @@ class Footer extends Component {
 		return (
 			<footer className="footer">
 				<button
-					onClick={() => this.backToMap()}
+					onClick={this.props.onWorldMapClick}
 					className="back-to-map-btn"
 				></button>
 				<button
-					onClick={() => this.exploreNext()}
+					onClick={this.props.onRandomCountryClick}
 					className="explore-next-country-btn"
 				></button>
 			</footer>

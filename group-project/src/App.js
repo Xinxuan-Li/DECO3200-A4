@@ -64,7 +64,11 @@ function App() {
             case "country":
                 componentToRender = (
                     // country object as a prop
-                    <CountryPage country={currentPage[1]} />
+                    <CountryPage
+                        country={currentPage[1]}
+                        onWorldMapClick={handleWorldMapClick}
+                        onRandomCountryClick={handleRandomCountryClick}
+                    />
                 );
                 break;
             case "event":
