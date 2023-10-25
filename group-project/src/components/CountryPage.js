@@ -2,8 +2,9 @@ import { Component } from "react";
 import Footer from "./Footer";
 import Navbar from "./Navbar";
 import FestivalContainer from "./FestivalBar";
+import CountrySidebar from "./CountrySidebar";
 
-class CountryTemplate extends Component {
+class CountryPage extends Component {
 	constructor(props, data) {
 		super(props);
 		this.data = data;
@@ -14,7 +15,6 @@ class CountryTemplate extends Component {
 
 		return (
 			<section className="countryPage">
-				<Navbar />
 				<CountrySidebar countryintro={this.countryIntroduction} />
 				{/* <FestivalContainer /> */}
 				<Footer />
@@ -23,4 +23,4 @@ class CountryTemplate extends Component {
 	}
 }
 
-export default CountryTemplate;
+export default CountryPage;
