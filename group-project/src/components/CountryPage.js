@@ -15,6 +15,9 @@ class CountryPage extends Component {
 
 		return (
 			<section className="countryPage">
+                <h1>
+                {this.props.country.countryName}
+                </h1>
 				<CountrySidebar countryintro={this.countryIntroduction} />
 				{/* <FestivalContainer /> */}
 				<Footer />
