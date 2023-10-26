@@ -1,19 +1,19 @@
 import Navbar from "./components/Navbar";
 import LandingPage from "./components/LandingPage";
 import MapPage from './components/MapPage';
-import china from "./contents/countries/china.json";
-import france from "./contents/countries/france.json";
-import india from "./contents/countries/india.json";
-import italy from "./contents/countries/italy.json";
-import japan from "./contents/countries/japan.json";
-import lebanon from "./contents/countries/lebanon.json";
-import malaysia from "./contents/countries/malaysia.json";
-import mexico from "./contents/countries/mexico.json";
-import russia from "./contents/countries/russia.json";
-import south_korea from "./contents/countries/south_korea.json";
-import thailand from "./contents/countries/thailand.json";
-import turkey from "./contents/countries/turkey.json";
-import vietnam from "./contents/countries/vietnam.json";
+import china from "./contents/countries/china.JSON";
+import france from "./contents/countries/france.JSON";
+import india from "./contents/countries/india.JSON";
+import italy from "./contents/countries/italy.JSON";
+import japan from "./contents/countries/japan.JSON";
+import lebanon from "./contents/countries/lebanon.JSON";
+import malaysia from "./contents/countries/malaysia.JSON";
+import mexico from "./contents/countries/mexico.JSON";
+import russia from "./contents/countries/russia.JSON";
+import south_korea from "./contents/countries/south_korea.JSON";
+import thailand from "./contents/countries/thailand.JSON";
+import turkey from "./contents/countries/turkey.JSON";
+import vietnam from "./contents/countries/vietnam.JSON";
 import React from "react";
 
 function App() {
@@ -79,8 +79,5 @@ function App() {
 }
 
 export default App;
-<<<<<<< HEAD
 
 
-=======
->>>>>>> f05e10214363b4d5921403f37ce09da3891faeed

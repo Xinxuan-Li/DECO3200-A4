@@ -1,109 +1,85 @@
 // This file contains dishes card within each country, under traditional dishes tab.
 
 
-import React, { useReducer } from "react";
-const PropTypes = require("prop-types");
+import React, { Component } from "react";
 
+class DishCard extends Component {
+    constructor(props) {
+        super(props);
+        this.state = {
+            property1: this.props.property1 || "default",
+        };
+        this.dish = {
+            dishName: this.props.dishName,
+            dishNameCountry: this.props.dishNameCountry,
+            dishIntro: this.props.dishIntro,
+            cardType: this.props.cardType,
+        };
+    }
 
-export const DishCard = ({
-  dishName = "Dish name",
-  dishNameCountry = "Dish name\nfrom CountryName", //Format text\ntext
-  dishIntro = "elit, sed do eiusmod tempor incididunt ut labore \nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-  cardType = "Dish name",
-  property1,
-}) => {
-  const [state, dispatch] = useReducer(reducer, {
-    property1: property1 || "default",
-  });
+    handleMouseEnter() {
+        this.setState({ property1: "hover" });
+    }
 
-  return (
-    <div
-      className={`dish-card ${state.property1}`}
-      onMouseLeave={() => {
-        dispatch({type: "mouse_leave"});
-      }}
-      onMouseEnter={() => {
-        dispatch({type: "mouse_enter"});
-      }}
-    >
-      <div className="overlap-group">
-        {state.property1 === "hover" && (
-          <>
-            <p className="card-name">
-              <span className="text-wrapper">
-                {dishName}
-                <br />
-              </span>
-            
-              {dishNameCountry.split("\n").map((line, index) => ( //Ensure dishNameCountry always has the format "text\ntext" 
-                <span key={index} className={index === 0 ? "span" : "text-wrapper"}>
-                  {line}
-                </span>
-              ))}
-            </p>
-            <div className="card-text">Learn More &gt;</div>
-          </>
-        )}
-      </div>
-      {state.property1 === "default" && (
-        <>
-          <div className="overlap">
-            <div className="div">
-              <div className="card-name-2">{dishName}</div>
-              <img
-                className="card-deco-line"
-                alt="Card deco line"
-                src="https://c..svg"
-              />
+    handleMouseLeave() {
+        this.setState({ property1: "default" });
+    }
+
+    render() {
+        return (
+            <div
+                className={`dish-card ${this.state.property1}`}
+                onMouseLeave={this.handleMouseLeave.bind(this)}
+                onMouseEnter={this.handleMouseEnter.bind(this)}
+            >
+                <div className="overlap-group">
+                    {this.state.property1 === "hover" && (
+                        <>
+                            <p className="card-name">
+                                <span className="text-wrapper">
+                                    {this.dish.dishName}
+                                    <br />
+                                </span>
+                            
+                                {this.dish.dishNameCountry.split("\n").map((line, index) => (
+                                    <span key={index} className={index === 0 ? "dish-name-line" : "text-wrapper"}>
+                                        {line}
+                                    </span>
+                                ))}
+                            </p>
+                            <div className="card-text">Learn More &gt;</div>
+                        </>
+                    )}
+                </div>
+                {this.state.property1 === "default" && (
+                    <>
+                        <div className="overlap">
+                            <div className="card-name-2">{this.dish.dishName}</div>
+                            <img
+                                className="card-deco-line"
+                                alt="Card deco line"
+                                src="https://c..svg"
+                            />
+                            <img className="card-img" alt="Card img" src="https://c..png" />
+                            <p className="card-intro">{this.dish.dishIntro}</p>
+                        </div>
+                        <div className="card-text-2">{this.dish.cardType}</div>
+                        <div className="card-indication">&gt;</div>
+                    </>
+                )}
+                {this.state.property1 === "hover" && (
+                    <>
+                        <img className="img" alt="Card img" src="https://x.png" />
+                        <img
+                            className="card-deco-line-2"
+                            alt="Card deco line"
+                            src="https://2.svg"
+                        />
+                    </>
+                )}
             </div>
-            <img className="card-img" alt="Card img" src="https://c..png" />
-            <p className="card-intro">{dishIntro}</p>
-          </div>
-          <div className="card-text-2">{cardType}</div>
-          <div className="card-indication">&gt;</div>
-        </>
-      )}
-
-      {state.property1 === "hover" && (
-        <>
-          <img className="img" alt="Card img" src="https://x.png" />
-          <img
-            className="card-deco-line-2"
-            alt="Card deco line"
-            src="https://2.svg"
-          />
-        </>
-      )}
-    </div>
-  );
-};
-
-function reducer(state, action) {
-  switch (action.type) {
-    case "mouse_enter":
-      return {
-        ...state,
-        property1: "hover",
-      };
-    case "mouse_leave":
-      return {
-        ...state,
-        property1: "default",
-      };
-    default:
-      return state;
-  }
+        );
+    }
 }
 
-DishCard.propTypes = {
-  dishName: PropTypes.string,
-  dishNameCountry: PropTypes.string,
-  dishIntro: PropTypes.string,
-  countryName: PropTypes.string,
-  cardType: PropTypes.string,
-  property1: PropTypes.oneOf(["hover", "default"]),
-};
-
-export const PropertyHover = () => {
-  return <DishCard property1="hover" />;
-};
+export default DishCard;
