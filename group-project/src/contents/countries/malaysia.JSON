@@ -1,16 +1,17 @@
 {
     "countryName": "Malaysia",
-    "countryFlagImage": "\\img\\malaysia\\flag.jpg",
-    "countryPatternImage": "\\img\\malaysia\\pattern.jpg",
+    "name": "malaysia",
+    "countryFlagImage": "./img/malaysia/flag.jpg",
+    "countryPatternImage": "./img/malaysia/pattern.jpg",
     "countryIntroduction": "Malaysia, a Southeast Asian nation, is renowned for its cultural diversity, stunning landscapes, and vibrant cuisine. From the bustling streets of Kuala Lumpur to the lush rainforests of Borneo, Malaysia offers a rich tapestry of experiences. Its cuisine, a fusion of Malay, Chinese, Indian, and indigenous flavors, is a true reflection of the country's multicultural heritage. Malaysia's culinary delights, including Nasi Lemak, Char Kway Teow, and Roti Canai, have gained international acclaim. The country's culture is a harmonious blend of traditions, festivals, and warm hospitality.",
     "traditionalDishes": [
         {
             "dishName": "Nasi Lemak",
             "dishNameInOwnLanguage": "Nasi Lemak",
             "dishImages": [
-                "\\img\\malaysia\\nasi_lemak1.jpg",
-                "\\img\\malaysia\\nasi_lemak2.jpg",
-                "\\img\\malaysia\\nasi_lemak3.jpg"
+                "./img/malaysia/nasi_lemak1.jpg",
+                "./img/malaysia/nasi_lemak2.jpg",
+                "./img/malaysia/nasi_lemak3.jpg"
             ],
             "dishIngredients": "Fragrant coconut rice, Sambal (spicy chili paste), Anchovies, Peanuts, Hard-boiled or fried egg, Cucumber slices",
             "dishDescription": "Nasi Lemak is Malaysia's national dish, featuring fragrant coconut rice served with a spicy sambal, crispy anchovies, roasted peanuts, and various condiments. It is often accompanied by a protein such as a hard-boiled or fried egg and cucumber slices.",
@@ -20,9 +21,9 @@
             "dishName": "Char Kway Teow",
             "dishNameInOwnLanguage": "炒粿条",
             "dishImages": [
-                "\\img\\malaysia\\char_kway_teow1.jpg",
-                "\\img\\malaysia\\char_kway_teow2.jpg",
-                "\\img\\malaysia\\char_kway_teow3.jpg"
+                "./img/malaysia/char_kway_teow1.jpg",
+                "./img/malaysia/char_kway_teow2.jpg",
+                "./img/malaysia/char_kway_teow3.jpg"
             ],
             "dishIngredients": "Flat rice noodles, Prawns, Cockles, Chinese sausage, Bean sprouts, Egg, Soy sauce",
             "dishDescription": "Char Kway Teow is a popular Malaysian stir-fried noodle dish made with flat rice noodles, prawns, cockles, Chinese sausage, bean sprouts, egg, and a savory soy sauce. It boasts a smoky wok hei flavor.",
@@ -32,9 +33,9 @@
             "dishName": "Roti Canai",
             "dishNameInOwnLanguage": "Roti Canai",
             "dishImages": [
-                "\\img\\malaysia\\roti_canai1.jpg",
-                "\\img\\malaysia\\roti_canai2.jpg",
-                "\\img\\malaysia\\roti_canai3.jpg"
+                "./img/malaysia/roti_canai1.jpg",
+                "./img/malaysia/roti_canai2.jpg",
+                "./img/malaysia/roti_canai3.jpg"
             ],
             "dishIngredients": "Flaky flatbread, Dhal (lentil curry), Chicken or beef curry, Sambal, Pickled onions",
             "dishDescription": "Roti Canai is a flaky and crispy flatbread, often served with a side of dhal (lentil curry), chicken or beef curry, spicy sambal, and pickled onions. It's a beloved Malaysian breakfast and snack.",
@@ -44,9 +45,9 @@
             "dishName": "Hainanese Chicken Rice",
             "dishNameInOwnLanguage": "Hainanese Chicken Rice",
             "dishImages": [
-                "\\img\\malaysia\\hainanese_chicken_rice1.jpg",
-                "\\img\\malaysia\\hainanese_chicken_rice2.jpg",
-                "\\img\\malaysia\\hainanese_chicken_rice3.jpg"
+                "./img/malaysia/hainanese_chicken_rice1.jpg",
+                "./img/malaysia/hainanese_chicken_rice2.jpg",
+                "./img/malaysia/hainanese_chicken_rice3.jpg"
             ],
             "dishIngredients": "Poached chicken, Fragrant rice, Ginger paste, Chili sauce, Soy sauce",
             "dishDescription": "Hainanese Chicken Rice is a classic Malaysian dish featuring tender poached chicken served with fragrant rice. It is commonly accompanied by ginger paste, chili sauce, and soy sauce.",
@@ -56,9 +57,9 @@
             "dishName": "Laksa",
             "dishNameInOwnLanguage": "Laksa",
             "dishImages": [
-                "\\img\\malaysia\\laksa1.jpg",
-                "\\img\\malaysia\\laksa2.jpg",
-                "\\img\\malaysia\\laksa3.jpg"
+                "./img/malaysia/laksa1.jpg",
+                "./img/malaysia/laksa2.jpg",
+                "./img/malaysia/laksa3.jpg"
             ],
             "dishIngredients": "Spicy coconut milk broth, Rice vermicelli or egg noodles, Prawns, Chicken, Tofu, Bean sprouts, Hard-boiled egg",
             "dishDescription": "Laksa is a flavorful Malaysian noodle soup made with a spicy coconut milk broth. It is typically served with rice vermicelli or egg noodles, prawns, chicken, tofu, bean sprouts, and a hard-boiled egg.",
@@ -68,9 +69,9 @@
             "dishName": "Rendang",
             "dishNameInOwnLanguage": "Rendang",
             "dishImages": [
-                "\\img\\malaysia\\rendang1.jpg",
-                "\\img\\malaysia\\rendang2.jpg",
-                "\\img\\malaysia\\rendang3.jpg"
+                "./img/malaysia/rendang1.jpg",
+                "./img/malaysia/rendang2.jpg",
+                "./img/malaysia/rendang3.jpg"
             ],
             "dishIngredients": "Slow-cooked dry curry, Beef or chicken, Coconut milk, Lemongrass, Galangal, Turmeric, Chili",
             "dishDescription": "Rendang is a rich and aromatic Malaysian dry curry made with slow-cooked beef or chicken, coconut milk, lemongrass, galangal, turmeric, and chili. It is known for its intense flavors and tender meat.",
@@ -80,9 +81,9 @@
             "dishName": "Satay",
             "dishNameInOwnLanguage": "Satay",
             "dishImages": [
-                "\\img\\malaysia\\satay1.jpg",
-                "\\img\\malaysia\\satay2.jpg",
-                "\\img\\malaysia\\satay3.jpg"
+                "./img/malaysia/satay1.jpg",
+                "./img/malaysia/satay2.jpg",
+                "./img/malaysia/satay3.jpg"
             ],
             "dishIngredients": "Skewered and grilled meat (usually chicken, beef, or lamb), Peanut sauce, Rice cakes, Cucumber-onion salad",
             "dishDescription": "Satay is a popular Malaysian street food consisting of skewered and grilled meat, often served with a flavorful peanut sauce, rice cakes, and a cucumber-onion salad.",
@@ -92,9 +93,9 @@
             "dishName": "Nasi Goreng",
             "dishNameInOwnLanguage": "Nasi Goreng",
             "dishImages": [
-                "\\img\\malaysia\\nasi_goreng1.jpg",
-                "\\img\\malaysia\\nasi_goreng2.jpg",
-                "\\img\\malaysia\\nasi_goreng3.jpg"
+                "./img/malaysia/nasi_goreng1.jpg",
+                "./img/malaysia/nasi_goreng2.jpg",
+                "./img/malaysia/nasi_goreng3.jpg"
             ],
             "dishIngredients": "Fried rice, Shrimp, Chicken, Eggs, Shallots, Garlic, Sweet soy sauce, Chili",
             "dishDescription": "Nasi Goreng is a Malaysian fried rice dish cooked with shrimp, chicken, eggs, shallots, garlic, sweet soy sauce, and chili. It's a flavorful and satisfying comfort food.",
@@ -138,11 +139,11 @@
             "festivalName": "Chinese New Year",
             "festivalMonth": 1,
             "festivalDate": 1,
-            "festivalImage": "\\img\\malaysia\\chinese_new_year.jpg",
+            "festivalImage": "./img/malaysia/chinese_new_year.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Yee Sang",
-                    "festivalDishImage": "\\img\\malaysia\\yee_sang.jpg",
+                    "festivalDishImage": "./img/malaysia/yee_sang.jpg",
                     "festivalDishDescription": "Yee Sang is a colorful salad of shredded vegetables, raw fish, and various condiments, symbolizing prosperity and good fortune."
                 }
             ],
@@ -152,11 +153,11 @@
             "festivalName": "Thaipusam",
             "festivalMonth": 1,
             "festivalDate": 15,
-            "festivalImage": "\\img\\malaysia\\thaipusam.jpg",
+            "festivalImage": "./img/malaysia/thaipusam.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Milk Pots",
-                    "festivalDishImage": "\\img\\malaysia\\milk_pots.jpg",
+                    "festivalDishImage": "./img/malaysia/milk_pots.jpg",
                     "festivalDishDescription": "Devotees carry milk pots as offerings to Lord Murugan during the Thaipusam procession."
                 }
             ],
@@ -166,11 +167,11 @@
             "festivalName": "Hari Raya Aidilfitri",
             "festivalMonth": 6,
             "festivalDate": 1,
-            "festivalImage": "\\img\\malaysia\\hari_raya_aidilfitri.jpg",
+            "festivalImage": "./img/malaysia/hari_raya_aidilfitri.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Ketupat",
-                    "festivalDishImage": "\\img\\malaysia\\ketupat.jpg",
+                    "festivalDishImage": "./img/malaysia/ketupat.jpg",
                     "festivalDishDescription": "Ketupat is a type of rice cake wrapped in woven palm leaves, commonly served during Hari Raya Aidilfitri."
                 }
             ],
@@ -180,11 +181,11 @@
             "festivalName": "Deepavali",
             "festivalMonth": 10,
             "festivalDate": 1,
-            "festivalImage": "\\img\\malaysia\\deepavali.jpg",
+            "festivalImage": "./img/malaysia/deepavali.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Murukku",
-                    "festivalDishImage": "\\img\\malaysia\\murukku.jpg",
+                    "festivalDishImage": "./img/malaysia/murukku.jpg",
                     "festivalDishDescription": "Murukku is a popular South Indian snack made from rice flour and spices, enjoyed during Deepavali celebrations."
                 }
             ],
@@ -194,11 +195,11 @@
             "festivalName": "Christmas",
             "festivalMonth": 12,
             "festivalDate": 25,
-            "festivalImage": "\\img\\malaysia\\christmas.jpg",
+            "festivalImage": "./img/malaysia/christmas.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Roast Turkey",
-                    "festivalDishImage": "\\img\\malaysia\\roast_turkey.jpg",
+                    "festivalDishImage": "./img/malaysia/roast_turkey.jpg",
                     "festivalDishDescription": "Roast Turkey is a Christmas favorite, often accompanied by stuffing, cranberry sauce, and vegetables."
                 }
             ],

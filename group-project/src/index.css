@@ -106,15 +106,11 @@ img.map-card-arrow {
     transform: translateY(6rem);
 }
 
-.world-map-svg  path {
-    fill: #697D73;
-    stroke: rgb(255, 255, 255);
-    stroke-width: 0.5;
+
+div.map-page {
     pointer-events: visiblePainted;
 }
 
-.world-map-svg  path:hover {
-    fill: #A2AEA8;
-    cursor: pointer;
+svg {
+    pointer-events: visiblePainted;
 }
-

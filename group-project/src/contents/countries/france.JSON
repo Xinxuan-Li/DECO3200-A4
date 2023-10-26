@@ -1,16 +1,17 @@
 {
     "countryName": "France",
-    "countryFlagImage": "\\img\\france\\flag.jpg",
-    "countryPatternImage": "\\img\\france\\pattern.jpg",
+    "name": "france",
+    "countryFlagImage": "./img/france/flag.jpg",
+    "countryPatternImage": "./img/france/pattern.jpg",
     "countryIntroduction": "France, located in Western Europe, is renowned for its rich history, art, fashion, and world-class cuisine. From the romantic streets of Paris to the picturesque vineyards of Bordeaux, France offers a diverse and culturally rich experience. French cuisine, including iconic dishes like croissants, escargot, and coq au vin, has a global reputation for its culinary excellence. The country is also famous for its wine and cheese, making it a haven for food and wine enthusiasts. France's art, architecture, and literature have had a profound impact on the world and continue to inspire creativity and innovation.",
     "traditionalDishes": [
         {
             "dishName": "Croissant",
             "dishNameInOwnLanguage": "Croissant",
             "dishImages": [
-                "\\img\\france\\croissant1.jpg",
-                "\\img\\france\\croissant2.jpg",
-                "\\img\\france\\croissant3.jpg"
+                "./img/france/croissant1.jpg",
+                "./img/france/croissant2.jpg",
+                "./img/france/croissant3.jpg"
             ],
             "dishIngredients": "Flour, Butter, Yeast, Milk, Sugar, Salt",
             "dishDescription": "The croissant is a buttery, flaky pastry that is a breakfast staple in France. It is known for its crescent shape and delicious, light texture.",
@@ -20,9 +21,9 @@
             "dishName": "Escargot",
             "dishNameInOwnLanguage": "Escargot",
             "dishImages": [
-                "\\img\\france\\escargot1.jpg",
-                "\\img\\france\\escargot2.jpg",
-                "\\img\\france\\escargot3.jpg"
+                "./img/france/escargot1.jpg",
+                "./img/france/escargot2.jpg",
+                "./img/france/escargot3.jpg"
             ],
             "dishIngredients": "Helix Snails, Garlic, Butter, Parsley",
             "dishDescription": "Escargot is a classic French appetizer that consists of land snails cooked in garlic and herb-infused butter. It is often served in special escargot dishes.",
@@ -32,9 +33,9 @@
             "dishName": "Coq au Vin",
             "dishNameInOwnLanguage": "Coq au Vin",
             "dishImages": [
-                "\\img\\france\\coq_au_vin1.jpg",
-                "\\img\\france\\coq_au_vin2.jpg",
-                "\\img\\france\\coq_au_vin3.jpg"
+                "./img/france/coq_au_vin1.jpg",
+                "./img/france/coq_au_vin2.jpg",
+                "./img/france/coq_au_vin3.jpg"
             ],
             "dishIngredients": "Chicken, Red Wine, Bacon, Mushrooms, Onions",
             "dishDescription": "Coq au Vin is a classic French dish made with chicken cooked in red wine, bacon, mushrooms, and onions. It is a hearty and flavorful stew.",
@@ -44,9 +45,9 @@
             "dishName": "Ratatouille",
             "dishNameInOwnLanguage": "Ratatouille",
             "dishImages": [
-                "\\img\\france\\ratatouille1.jpg",
-                "\\img\\france\\ratatouille2.jpg",
-                "\\img\\france\\ratatouille3.jpg"
+                "./img/france/ratatouille1.jpg",
+                "./img/france/ratatouille2.jpg",
+                "./img/france/ratatouille3.jpg"
             ],
             "dishIngredients": "Tomatoes, Eggplant, Zucchini, Bell Peppers, Garlic, Herbs",
             "dishDescription": "Ratatouille is a Provencal vegetable stew made with a medley of tomatoes, eggplant, zucchini, bell peppers, and aromatic herbs.",
@@ -56,9 +57,9 @@
             "dishName": "Cassoulet",
             "dishNameInOwnLanguage": "Cassoulet",
             "dishImages": [
-                "\\img\\france\\cassoulet1.jpg",
-                "\\img\\france\\cassoulet2.jpg",
-                "\\img\\france\\cassoulet3.jpg"
+                "./img/france/cassoulet1.jpg",
+                "./img/france/cassoulet2.jpg",
+                "./img/france/cassoulet3.jpg"
             ],
             "dishIngredients": "White Beans, Pork (Sausage, Confit), Duck or Goose, Tomatoes",
             "dishDescription": "Cassoulet is a hearty French casserole made with white beans, various cuts of pork, and often duck or goose confit. It is slow-cooked for rich flavors.",
@@ -68,9 +69,9 @@
             "dishName": "Quiche Lorraine",
             "dishNameInOwnLanguage": "Quiche Lorraine",
             "dishImages": [
-                "\\img\\france\\quiche_lorraine1.jpg",
-                "\\img\\france\\quiche_lorraine2.jpg",
-                "\\img\\france\\quiche_lorraine3.jpg"
+                "./img/france/quiche_lorraine1.jpg",
+                "./img/france/quiche_lorraine2.jpg",
+                "./img/france/quiche_lorraine3.jpg"
             ],
             "dishIngredients": "Pie Crust, Eggs, Cream, Bacon or Lardons, Cheese, Onions",
             "dishDescription": "Quiche Lorraine is a savory pie that features a creamy filling made with eggs, cream, bacon or lardons, cheese, and onions.",
@@ -80,9 +81,9 @@
             "dishName": "Bouillabaisse",
             "dishNameInOwnLanguage": "Bouillabaisse",
             "dishImages": [
-                "\\img\\france\\bouillabaisse1.jpg",
-                "\\img\\france\\bouillabaisse2.jpg",
-                "\\img\\france\\bouillabaisse3.jpg"
+                "./img/france/bouillabaisse1.jpg",
+                "./img/france/bouillabaisse2.jpg",
+                "./img/france/bouillabaisse3.jpg"
             ],
             "dishIngredients": "Assorted Fish and Seafood, Tomatoes, Aromatic Herbs, Spices",
             "dishDescription": "Bouillabaisse is a flavorful Mediterranean fish stew that includes a variety of fish and seafood, tomatoes, and fragrant herbs and spices.",
@@ -92,9 +93,9 @@
             "dishName": "Macarons",
             "dishNameInOwnLanguage": "Macarons",
             "dishImages": [
-                "\\img\\france\\macarons1.jpg",
-                "\\img\\france\\macarons2.jpg",
-                "\\img\\france\\macarons3.jpg"
+                "./img/france/macarons1.jpg",
+                "./img/france/macarons2.jpg",
+                "./img/france/macarons3.jpg"
             ],
             "dishIngredients": "Almond Flour, Egg Whites, Sugar, Filling (e.g., Ganache, Jam)",
             "dishDescription": "Macarons are delicate, colorful almond meringue cookies sandwiched together with various fillings, such as ganache or jam.",
@@ -104,9 +105,9 @@
             "dishName": "Tarte Tatin",
             "dishNameInOwnLanguage": "Tarte Tatin",
             "dishImages": [
-                "\\img\\france\\tarte_tatin1.jpg",
-                "\\img\\france\\tarte_tatin2.jpg",
-                "\\img\\france\\tarte_tatin3.jpg"
+                "./img/france/tarte_tatin1.jpg",
+                "./img/france/tarte_tatin2.jpg",
+                "./img/france/tarte_tatin3.jpg"
             ],
             "dishIngredients": "Caramelized Apples, Pastry Dough",
             "dishDescription": "Tarte Tatin is an upside-down caramelized apple tart that features tender apples and flaky pastry. It is typically served with a scoop of vanilla ice cream.",
@@ -150,11 +151,11 @@
             "festivalName": "Galette des Rois",
             "festivalMonth": 1,
             "festivalDate": 6,
-            "festivalImage": "\\img\\france\\galette_des_rois.jpg",
+            "festivalImage": "./img/france/galette_des_rois.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Galette des Rois",
-                    "feitivalDishImage": "\\img\\france\\galette_des_rois.jpg",
+                    "feitivalDishImage": "./img/france/galette_des_rois.jpg",
                     "feitivalDishDescription": "Galette des Rois is a puff pastry cake with a hidden trinket. The person who finds it becomes the 'king' or 'queen' and wears a crown."
                 }
             ],
@@ -164,11 +165,11 @@
             "festivalName": "Mardi Gras",
             "festivalMonth": 2,
             "festivalDate": 28,
-            "festivalImage": "\\img\\france\\mardi_gras.jpg",
+            "festivalImage": "./img/france/mardi_gras.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "King Cake",
-                    "feitivalDishImage": "\\img\\france\\king_cake.jpg",
+                    "feitivalDishImage": "./img/france/king_cake.jpg",
                     "feitivalDishDescription": "King Cake is a traditional dessert with a hidden trinket or figurine inside. The person who finds it becomes the 'king' for the day."
                 }
             ],
@@ -178,11 +179,11 @@
             "festivalName": "Cannes Film Festival",
             "festivalMonth": 5,
             "festivalDate": 11,
-            "festivalImage": "\\img\\france\\cannes_film_festival.jpg",
+            "festivalImage": "./img/france/cannes_film_festival.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Cannes Film Festival Reception",
-                    "feitivalDishImage": "\\img\\france\\cannes_film_festival_reception.jpg",
+                    "feitivalDishImage": "./img/france/cannes_film_festival_reception.jpg",
                     "feitivalDishDescription": "The Cannes Film Festival features glamorous receptions with French cuisine and fine wines."
                 }
             ],
@@ -192,11 +193,11 @@
             "festivalName": "Fête de la Musique",
             "festivalMonth": 6,
             "festivalDate": 21,
-            "festivalImage": "\\img\\france\\fete_de_la_musique.jpg",
+            "festivalImage": "./img/france/fete_de_la_musique.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Street Food",
-                    "feitivalDishImage": "\\img\\france\\street_food.jpg",
+                    "feitivalDishImage": "./img/france/street_food.jpg",
                     "feitivalDishDescription": "Fête de la Musique features street food stalls offering a variety of French and international cuisines."
                 }
             ],
@@ -206,11 +207,11 @@
             "festivalName": "Lavender Festival",
             "festivalMonth": 7,
             "festivalDate": 1,
-            "festivalImage": "\\img\\france\\lavender_festival.jpg",
+            "festivalImage": "./img/france/lavender_festival.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Lavender Honey",
-                    "feitivalDishImage": "\\img\\france\\lavender_honey.jpg",
+                    "feitivalDishImage": "./img/france/lavender_honey.jpg",
                     "feitivalDishDescription": "Lavender honey, infused with the fragrance of Provence's lavender fields, is a popular product during the festival."
                 }
             ],
@@ -220,11 +221,11 @@
             "festivalName": "Tour de France",
             "festivalMonth": 7,
             "festivalDate": 1,
-            "festivalImage": "\\img\\france\\tour_de_france.jpg",
+            "festivalImage": "./img/france/tour_de_france.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Tour de France Picnic",
-                    "feitivalDishImage": "\\img\\france\\tour_de_france_picnic.jpg",
+                    "feitivalDishImage": "./img/france/tour_de_france_picnic.jpg",
                     "feitivalDishDescription": "Spectators along the Tour de France route enjoy picnics with French wine, cheese, and baguettes."
                 }
             ],
@@ -234,11 +235,11 @@
             "festivalName": "Bastille Day",
             "festivalMonth": 7,
             "festivalDate": 14,
-            "festivalImage": "\\img\\france\\bastille_day.jpg",
+            "festivalImage": "./img/france/bastille_day.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Bastille Day Picnic",
-                    "feitivalDishImage": "\\img\\france\\bastille_day_picnic.jpg",
+                    "feitivalDishImage": "./img/france/bastille_day_picnic.jpg",
                     "feitivalDishDescription": "Bastille Day is celebrated with picnics featuring French cheeses, baguettes, pâté, and wine."
                 }
             ],
@@ -248,11 +249,11 @@
             "festivalName": "Beaujolais Nouveau Day",
             "festivalMonth": 11,
             "festivalDate": 3,
-            "festivalImage": "\\img\\france\\beaujolais_nouveau_day.jpg",
+            "festivalImage": "./img/france/beaujolais_nouveau_day.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Beaujolais Nouveau",
-                    "feitivalDishImage": "\\img\\france\\beaujolais_nouveau.jpg",
+                    "feitivalDishImage": "./img/france/beaujolais_nouveau.jpg",
                     "feitivalDishDescription": "Beaujolais Nouveau is a young red wine released on this day, often enjoyed with simple French dishes."
                 }
             ],

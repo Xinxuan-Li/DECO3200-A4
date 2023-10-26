@@ -1,16 +1,17 @@
 {
     "countryName": "South Korea",
-    "countryFlagImage": "\\img\\south_korea\\flag.jpg",
-    "countryPatternImage": "\\img\\south_korea\\pattern.jpg",
+    "name": "south_korea",
+    "countryFlagImage": "./img/south_korea/flag.jpg",
+    "countryPatternImage": "./img/south_korea/pattern.jpg",
     "countryIntroduction": "South Korea, officially known as the Republic of Korea, is a vibrant East Asian nation known for its rich cultural heritage, modern cities, and delicious cuisine. From the bustling streets of Seoul to the serene temples of Gyeongju, South Korea offers a diverse range of experiences. Korean cuisine, including dishes like kimchi, bulgogi, and bibimbap, is renowned for its bold flavors and unique cooking techniques. Traditional Korean culture is deeply rooted in Confucianism, Buddhism, and Shamanism, with a strong emphasis on respect for elders and ancestral traditions.",
     "traditionalDishes": [
         {
             "dishName": "Kimchi",
             "dishNameInOwnLanguage": "김치",
             "dishImages": [
-                "\\img\\south_korea\\kimchi1.jpg",
-                "\\img\\south_korea\\kimchi2.jpg",
-                "\\img\\south_korea\\kimchi3.jpg"
+                "./img/south_korea/kimchi1.jpg",
+                "./img/south_korea/kimchi2.jpg",
+                "./img/south_korea/kimchi3.jpg"
             ],
             "dishIngredients": "Napa cabbage, Korean radishes, Garlic, Ginger, Red pepper flakes, Fish sauce, Salt",
             "dishDescription": "Kimchi is a staple of Korean cuisine, consisting of fermented vegetables, most commonly Napa cabbage and Korean radishes, seasoned with a mixture of spices and other flavorings.",
@@ -20,9 +21,9 @@
             "dishName": "Bulgogi",
             "dishNameInOwnLanguage": "불고기",
             "dishImages": [
-                "\\img\\south_korea\\bulgogi1.jpg",
-                "\\img\\south_korea\\bulgogi2.jpg",
-                "\\img\\south_korea\\bulgogi3.jpg"
+                "./img/south_korea/bulgogi1.jpg",
+                "./img/south_korea/bulgogi2.jpg",
+                "./img/south_korea/bulgogi3.jpg"
             ],
             "dishIngredients": "Marinated and grilled beef, Soy sauce, Sugar, Garlic, Sesame oil, Vegetables",
             "dishDescription": "Bulgogi is a popular Korean dish featuring thinly sliced marinated beef that is grilled to perfection. It is known for its sweet and savory flavor.",
@@ -32,9 +33,9 @@
             "dishName": "Bibimbap",
             "dishNameInOwnLanguage": "비빔밥",
             "dishImages": [
-                "\\img\\south_korea\\bibimbap1.jpg",
-                "\\img\\south_korea\\bibimbap2.jpg",
-                "\\img\\south_korea\\bibimbap3.jpg"
+                "./img/south_korea/bibimbap1.jpg",
+                "./img/south_korea/bibimbap2.jpg",
+                "./img/south_korea/bibimbap3.jpg"
             ],
             "dishIngredients": "Rice, Vegetables (including kimchi), Beef or tofu, Gochujang (red chili paste), Sesame oil",
             "dishDescription": "Bibimbap is a colorful Korean dish that consists of mixed rice topped with an assortment of vegetables, meat or tofu, and a spicy sauce.",
@@ -44,9 +45,9 @@
             "dishName": "Japchae",
             "dishNameInOwnLanguage": "잡채",
             "dishImages": [
-                "\\img\\south_korea\\japchae1.jpg",
-                "\\img\\south_korea\\japchae2.jpg",
-                "\\img\\south_korea\\japchae3.jpg"
+                "./img/south_korea/japchae1.jpg",
+                "./img/south_korea/japchae2.jpg",
+                "./img/south_korea/japchae3.jpg"
             ],
             "dishIngredients": "Glass noodles, Vegetables, Soy sauce, Sesame oil, Beef or mushrooms",
             "dishDescription": "Japchae is a Korean dish featuring stir-fried glass noodles with a colorful medley of vegetables, meat, and a savory sauce.",
@@ -56,9 +57,9 @@
             "dishName": "Tteokbokki",
             "dishNameInOwnLanguage": "떡볶이",
             "dishImages": [
-                "\\img\\south_korea\\tteokbokki1.jpg",
-                "\\img\\south_korea\\tteokbokki2.jpg",
-                "\\img\\south_korea\\tteokbokki3.jpg"
+                "./img/south_korea/tteokbokki1.jpg",
+                "./img/south_korea/tteokbokki2.jpg",
+                "./img/south_korea/tteokbokki3.jpg"
             ],
             "dishIngredients": "Rice cakes, Gochujang (red chili paste), Fish cakes, Vegetables",
             "dishDescription": "Tteokbokki is a popular Korean street food made from chewy rice cakes, fish cakes, and vegetables, all smothered in a spicy red chili paste sauce.",
@@ -68,9 +69,9 @@
             "dishName": "Samgyeopsal",
             "dishNameInOwnLanguage": "삼겹살",
             "dishImages": [
-                "\\img\\south_korea\\samgyeopsal1.jpg",
-                "\\img\\south_korea\\samgyeopsal2.jpg",
-                "\\img\\south_korea\\samgyeopsal3.jpg"
+                "./img/south_korea/samgyeopsal1.jpg",
+                "./img/south_korea/samgyeopsal2.jpg",
+                "./img/south_korea/samgyeopsal3.jpg"
             ],
             "dishIngredients": "Grilled pork belly, Lettuce leaves, Garlic, Soybean paste, Kimchi",
             "dishDescription": "Samgyeopsal is a popular Korean barbecue dish featuring grilled pork belly slices served with lettuce leaves and a variety of condiments.",
@@ -80,9 +81,9 @@
             "dishName": "Haemul Pajeon",
             "dishNameInOwnLanguage": "해물파전",
             "dishImages": [
-                "\\img\\south_korea\\haemul_pajeon1.jpg",
-                "\\img\\south_korea\\haemul_pajeon2.jpg",
-                "\\img\\south_korea\\haemul_pajeon3.jpg"
+                "./img/south_korea/haemul_pajeon1.jpg",
+                "./img/south_korea/haemul_pajeon2.jpg",
+                "./img/south_korea/haemul_pajeon3.jpg"
             ],
             "dishIngredients": "Seafood (shrimp, squid, etc.), Scallions, Batter, Soy dipping sauce",
             "dishDescription": "Haemul Pajeon is a savory Korean pancake made with a variety of seafood and scallions, served with a soy-based dipping sauce.",
@@ -92,9 +93,9 @@
             "dishName": "Kimbap",
             "dishNameInOwnLanguage": "김밥",
             "dishImages": [
-                "\\img\\south_korea\\kimbap1.jpg",
-                "\\img\\south_korea\\kimbap2.jpg",
-                "\\img\\south_korea\\kimbap3.jpg"
+                "./img/south_korea/kimbap1.jpg",
+                "./img/south_korea/kimbap2.jpg",
+                "./img/south_korea/kimbap3.jpg"
             ],
             "dishIngredients": "Rice, Seaweed, Vegetables, Meat or fish, Pickled radish",
             "dishDescription": "Kimbap is a Korean dish similar to sushi, consisting of rice, vegetables, meat or fish, and pickled radish rolled in sheets of seaweed.",
@@ -138,11 +139,11 @@
             "festivalName": "Seollal (Lunar New Year)",
             "festivalMonth": 1,
             "festivalDate": 1,
-            "festivalImage": "\\img\\south_korea\\seollal.jpg",
+            "festivalImage": "./img/south_korea/seollal.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Tteokguk",
-                    "feitivalDishImage": "\\img\\south_korea\\tteokguk.jpg",
+                    "feitivalDishImage": "./img/south_korea/tteokguk.jpg",
                     "feitivalDishDescription": "Tteokguk is a traditional rice cake soup eaten to celebrate the new year and symbolizes growing one year older."
                 }
             ],
@@ -152,11 +153,11 @@
             "festivalName": "Daeboreum (Great Full Moon)",
             "festivalMonth": 1,
             "festivalDate": 15,
-            "festivalImage": "\\img\\south_korea\\daeboreum.jpg",
+            "festivalImage": "./img/south_korea/daeboreum.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Bureom",
-                    "feitivalDishImage": "\\img\\south_korea\\bureom.jpg",
+                    "feitivalDishImage": "./img/south_korea/bureom.jpg",
                     "feitivalDishDescription": "Bureom are crispy, roasted grains and nuts traditionally eaten on Daeboreum to wish for good health."
                 }
             ],
@@ -166,11 +167,11 @@
             "festivalName": "Lantern Festival",
             "festivalMonth": 4,
             "festivalDate": 8,
-            "festivalImage": "\\img\\south_korea\\lantern_festival.jpg",
+            "festivalImage": "./img/south_korea/lantern_festival.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Yakgwa",
-                    "feitivalDishImage": "\\img\\south_korea\\yakgwa.jpg",
+                    "feitivalDishImage": "./img/south_korea/yakgwa.jpg",
                     "feitivalDishDescription": "Yakgwa is a traditional Korean sweet pastry made with honey, sesame oil, and wheat flour."
                 }
             ],
@@ -180,11 +181,11 @@
             "festivalName": "Dano",
             "festivalMonth": 5,
             "festivalDate": 5,
-            "festivalImage": "\\img\\south_korea\\dano.jpg",
+            "festivalImage": "./img/south_korea/dano.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Surichwi",
-                    "feitivalDishImage": "\\img\\south_korea\\surichwi.jpg",
+                    "feitivalDishImage": "./img/south_korea/surichwi.jpg",
                     "feitivalDishDescription": "Surichwi are stir-fried vegetables and wild greens, enjoyed during the Dano festival to promote health and vitality."
                 }
             ],
@@ -194,11 +195,11 @@
             "festivalName": "Chuseok (Korean Thanksgiving)",
             "festivalMonth": 8,
             "festivalDate": 15,
-            "festivalImage": "\\img\\south_korea\\chuseok.jpg",
+            "festivalImage": "./img/south_korea/chuseok.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Songpyeon",
-                    "feitivalDishImage": "\\img\\south_korea\\songpyeon.jpg",
+                    "feitivalDishImage": "./img/south_korea/songpyeon.jpg",
                     "feitivalDishDescription": "Songpyeon are colorful rice cakes made with various fillings, shaped like half-moons, and steamed over pine needles."
                 }
             ],
@@ -208,11 +209,11 @@
             "festivalName": "Andong Mask Dance Festival",
             "festivalMonth": 9,
             "festivalDate": 24,
-            "festivalImage": "\\img\\south_korea\\andong_mask_dance_festival.jpg",
+            "festivalImage": "./img/south_korea/andong_mask_dance_festival.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Andong Jjim Dak",
-                    "feitivalDishImage": "\\img\\south_korea\\andong_jjim_dak.jpg",
+                    "feitivalDishImage": "./img/south_korea/andong_jjim_dak.jpg",
                     "feitivalDishDescription": "Andong Jjim Dak is a spicy braised chicken dish traditionally enjoyed in Andong during the Mask Dance Festival."
                 }
             ],
@@ -222,11 +223,11 @@
             "festivalName": "Gimjang (Kimchi-Making Season)",
             "festivalMonth": 11,
             "festivalDate": 1,
-            "festivalImage": "\\img\\south_korea\\gimjang.jpg",
+            "festivalImage": "./img/south_korea/gimjang.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Kimchi",
-                    "feitivalDishImage": "\\img\\south_korea\\kimchi_gimjang.jpg",
+                    "feitivalDishImage": "./img/south_korea/kimchi_gimjang.jpg",
                     "feitivalDishDescription": "Gimjang is a communal event where families and communities gather to make large quantities of kimchi for the winter months."
                 }
             ],
