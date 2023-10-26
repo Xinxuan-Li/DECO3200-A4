@@ -5,19 +5,19 @@ import MapPage from "./components/MapPage";
 import CountryPage from "./components/CountryPage";
 import EventPage from "./components/EventPage";
 
-import china from "./contents/countries/china.json";
-import france from "./contents/countries/france.json";
-import india from "./contents/countries/india.json";
-import italy from "./contents/countries/italy.json";
-import japan from "./contents/countries/japan.json";
-import lebanon from "./contents/countries/lebanon.json";
-import malaysia from "./contents/countries/malaysia.json";
-import mexico from "./contents/countries/mexico.json";
-import russia from "./contents/countries/russia.json";
-import south_korea from "./contents/countries/south_korea.json";
-import thailand from "./contents/countries/thailand.json";
-import turkey from "./contents/countries/turkey.json";
-import vietnam from "./contents/countries/vietnam.json";
+import china from "./contents/countries/china";
+import france from "./contents/countries/france";
+import india from "./contents/countries/india";
+import italy from "./contents/countries/italy";
+import japan from "./contents/countries/japan";
+import lebanon from "./contents/countries/lebanon";
+import malaysia from "./contents/countries/malaysia";
+import mexico from "./contents/countries/mexico";
+import russia from "./contents/countries/russia";
+import south_korea from "./contents/countries/south_korea";
+import thailand from "./contents/countries/thailand";
+import turkey from "./contents/countries/turkey";
+import vietnam from "./contents/countries/vietnam";
 
 function App() {
     const countryList = [
