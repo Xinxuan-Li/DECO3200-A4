@@ -142,9 +142,9 @@
             "festivalImage": "./img/south_korea/seollal.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Tteokguk",
-                    "feitivalDishImage": "./img/south_korea/tteokguk.jpg",
-                    "feitivalDishDescription": "Tteokguk is a traditional rice cake soup eaten to celebrate the new year and symbolizes growing one year older."
+                    "festivalDishName": "Tteokguk",
+                    "festivalDishImage": "./img/south_korea/tteokguk.jpg",
+                    "festivalDishDescription": "Tteokguk is a traditional rice cake soup eaten to celebrate the new year and symbolizes growing one year older."
                 }
             ],
             "festivalDescription": "Seollal, the Korean Lunar New Year, is a time for families to gather and pay respects to ancestors. Traditional customs include bowing to elders, playing games, and enjoying special foods like Tteokguk."
@@ -156,9 +156,9 @@
             "festivalImage": "./img/south_korea/daeboreum.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Bureom",
-                    "feitivalDishImage": "./img/south_korea/bureom.jpg",
-                    "feitivalDishDescription": "Bureom are crispy, roasted grains and nuts traditionally eaten on Daeboreum to wish for good health."
+                    "festivalDishName": "Bureom",
+                    "festivalDishImage": "./img/south_korea/bureom.jpg",
+                    "festivalDishDescription": "Bureom are crispy, roasted grains and nuts traditionally eaten on Daeboreum to wish for good health."
                 }
             ],
             "festivalDescription": "Daeboreum is a day to celebrate the first full moon of the lunar new year. It is marked by various customs, including eating foods like Bureom for good fortune and health."
@@ -170,9 +170,9 @@
             "festivalImage": "./img/south_korea/lantern_festival.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Yakgwa",
-                    "feitivalDishImage": "./img/south_korea/yakgwa.jpg",
-                    "feitivalDishDescription": "Yakgwa is a traditional Korean sweet pastry made with honey, sesame oil, and wheat flour."
+                    "festivalDishName": "Yakgwa",
+                    "festivalDishImage": "./img/south_korea/yakgwa.jpg",
+                    "festivalDishDescription": "Yakgwa is a traditional Korean sweet pastry made with honey, sesame oil, and wheat flour."
                 }
             ],
             "festivalDescription": "The Lantern Festival, also known as Buddha's Birthday, is celebrated with colorful lantern displays and parades. Traditional sweets like Yakgwa are enjoyed during this joyful occasion."
@@ -184,9 +184,9 @@
             "festivalImage": "./img/south_korea/dano.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Surichwi",
-                    "feitivalDishImage": "./img/south_korea/surichwi.jpg",
-                    "feitivalDishDescription": "Surichwi are stir-fried vegetables and wild greens, enjoyed during the Dano festival to promote health and vitality."
+                    "festivalDishName": "Surichwi",
+                    "festivalDishImage": "./img/south_korea/surichwi.jpg",
+                    "festivalDishDescription": "Surichwi are stir-fried vegetables and wild greens, enjoyed during the Dano festival to promote health and vitality."
                 }
             ],
             "festivalDescription": "Dano is a traditional Korean holiday celebrated with folk games, shamanistic rituals, and special dishes like Surichwi, which are believed to bring good health and vitality."
@@ -198,9 +198,9 @@
             "festivalImage": "./img/south_korea/chuseok.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Songpyeon",
-                    "feitivalDishImage": "./img/south_korea/songpyeon.jpg",
-                    "feitivalDishDescription": "Songpyeon are colorful rice cakes made with various fillings, shaped like half-moons, and steamed over pine needles."
+                    "festivalDishName": "Songpyeon",
+                    "festivalDishImage": "./img/south_korea/songpyeon.jpg",
+                    "festivalDishDescription": "Songpyeon are colorful rice cakes made with various fillings, shaped like half-moons, and steamed over pine needles."
                 }
             ],
             "festivalDescription": "Chuseok, also known as Korean Thanksgiving Day, is a major harvest festival celebrated with ancestral rituals, traditional games, and the sharing of delicious foods like Songpyeon rice cakes."
@@ -212,9 +212,9 @@
             "festivalImage": "./img/south_korea/andong_mask_dance_festival.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Andong Jjim Dak",
-                    "feitivalDishImage": "./img/south_korea/andong_jjim_dak.jpg",
-                    "feitivalDishDescription": "Andong Jjim Dak is a spicy braised chicken dish traditionally enjoyed in Andong during the Mask Dance Festival."
+                    "festivalDishName": "Andong Jjim Dak",
+                    "festivalDishImage": "./img/south_korea/andong_jjim_dak.jpg",
+                    "festivalDishDescription": "Andong Jjim Dak is a spicy braised chicken dish traditionally enjoyed in Andong during the Mask Dance Festival."
                 }
             ],
             "festivalDescription": "The Andong Mask Dance Festival showcases traditional Korean mask dance performances. Visitors can also enjoy local dishes like Andong Jjim Dak, a flavorful chicken dish."
@@ -226,9 +226,9 @@
             "festivalImage": "./img/south_korea/gimjang.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Kimchi",
-                    "feitivalDishImage": "./img/south_korea/kimchi_gimjang.jpg",
-                    "feitivalDishDescription": "Gimjang is a communal event where families and communities gather to make large quantities of kimchi for the winter months."
+                    "festivalDishName": "Kimchi",
+                    "festivalDishImage": "./img/south_korea/kimchi_gimjang.jpg",
+                    "festivalDishDescription": "Gimjang is a communal event where families and communities gather to make large quantities of kimchi for the winter months."
                 }
             ],
             "festivalDescription": "Gimjang is a time for preparing and fermenting kimchi in large quantities to last through the winter. It is a communal event that strengthens social bonds."

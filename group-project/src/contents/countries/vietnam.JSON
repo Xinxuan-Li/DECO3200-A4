@@ -106,9 +106,9 @@
             "festivalImage": "./img/vietnam/tet_nguyen_dan.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Banh Chung",
-                    "feitivalDishImage": "./img/vietnam/banh_chung.jpg",
-                    "feitivalDishDescription": "Banh Chung is a traditional Tet dish made of glutinous rice, mung beans, and pork, wrapped in banana leaves."
+                    "festivalDishName": "Banh Chung",
+                    "festivalDishImage": "./img/vietnam/banh_chung.jpg",
+                    "festivalDishDescription": "Banh Chung is a traditional Tet dish made of glutinous rice, mung beans, and pork, wrapped in banana leaves."
                 }
             ],
             "festivalDescription": "Tet Nguyen Dan, or Tet, is the most important festival in Vietnam, celebrating the Lunar New Year. Families reunite, offer incense to ancestors, and exchange gifts. Special dishes like Banh Chung are prepared to mark the occasion."
@@ -120,9 +120,9 @@
             "festivalImage": "./img/vietnam/yen_tu_festival.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Vegetarian Dishes",
-                    "feitivalDishImage": "./img/vietnam/vegetarian_dishes.jpg",
-                    "feitivalDishDescription": "During the Yen Tu Festival, many pilgrims and visitors enjoy vegetarian meals."
+                    "festivalDishName": "Vegetarian Dishes",
+                    "festivalDishImage": "./img/vietnam/vegetarian_dishes.jpg",
+                    "festivalDishDescription": "During the Yen Tu Festival, many pilgrims and visitors enjoy vegetarian meals."
                 }
             ],
             "festivalDescription": "The Yen Tu Festival is one of Vietnam's most significant Buddhist festivals. Pilgrims climb Yen Tu Mountain to pay respects to King-Monk Tran Nhan Tong. Vegetarian dishes are commonly enjoyed during this spiritual journey."
@@ -134,9 +134,9 @@
             "festivalImage": "./img/vietnam/hung_kings_temple_festival.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Banh Giay",
-                    "feitivalDishImage": "./img/vietnam/banh_giay.jpg",
-                    "feitivalDishDescription": "Banh Giay is a traditional offering made of glutinous rice, wrapped in banana leaves."
+                    "festivalDishName": "Banh Giay",
+                    "festivalDishImage": "./img/vietnam/banh_giay.jpg",
+                    "festivalDishDescription": "Banh Giay is a traditional offering made of glutinous rice, wrapped in banana leaves."
                 }
             ],
             "festivalDescription": "The Hung Kings' Temple Festival is a time for the Vietnamese to pay homage to their legendary ancestors. Festive rituals, processions, and offerings like Banh Giay are made at the Hung Kings' Temple."
@@ -148,9 +148,9 @@
             "festivalImage": "./img/vietnam/mid_autumn_festival.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Mooncakes",
-                    "feitivalDishImage": "./img/vietnam/mooncakes.jpg",
-                    "feitivalDishDescription": "Mooncakes are traditional treats filled with lotus seed paste or other sweet fillings."
+                    "festivalDishName": "Mooncakes",
+                    "festivalDishImage": "./img/vietnam/mooncakes.jpg",
+                    "festivalDishDescription": "Mooncakes are traditional treats filled with lotus seed paste or other sweet fillings."
                 }
             ],
             "festivalDescription": "The Mid-Autumn Festival, also known as the Lantern Festival, is a time for families to gather and celebrate the harvest. Mooncakes, colorful lanterns, and dragon dances are an integral part of the festivities."
@@ -162,9 +162,9 @@
             "festivalImage": "./img/vietnam/tet_trung_thu.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Star-shaped Lantern Cakes",
-                    "feitivalDishImage": "./img/vietnam/star_lantern_cakes.jpg",
-                    "feitivalDishDescription": "Star-shaped Lantern Cakes are a delightful treat for children during Tet Trung Thu."
+                    "festivalDishName": "Star-shaped Lantern Cakes",
+                    "festivalDishImage": "./img/vietnam/star_lantern_cakes.jpg",
+                    "festivalDishDescription": "Star-shaped Lantern Cakes are a delightful treat for children during Tet Trung Thu."
                 }
             ],
             "festivalDescription": "Tet Trung Thu, also known as the Mid-Autumn Festival for Children, is a time for families to celebrate with their kids. Mooncakes and colorful star-shaped lanterns are prominent features of this joyous occasion."
@@ -176,9 +176,9 @@
             "festivalImage": "./img/vietnam/hoi_an_lantern_festival.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Cao Lau",
-                    "feitivalDishImage": "./img/vietnam/cao_lau.jpg",
-                    "feitivalDishDescription": "Cao Lau is a specialty dish of Hoi An, featuring noodles, pork, and fresh herbs."
+                    "festivalDishName": "Cao Lau",
+                    "festivalDishImage": "./img/vietnam/cao_lau.jpg",
+                    "festivalDishDescription": "Cao Lau is a specialty dish of Hoi An, featuring noodles, pork, and fresh herbs."
                 }
             ],
             "festivalDescription": "The Hoi An Lantern Festival is a monthly event in the ancient town of Hoi An. The town is beautifully lit up with colorful lanterns, and streets are closed to traffic. Visitors can enjoy Cao Lau and immerse themselves in the festive atmosphere."

@@ -118,9 +118,9 @@
             "festivalImage": "./img/thailand/bo_sang_umbrella.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Pad See Ew",
-                    "feitivalDishImage": "./img/thailand/pad_see_ew.jpg",
-                    "feitivalDishDescription": "Pad See Ew is a popular Thai stir-fried noodle dish featuring wide rice noodles, vegetables, and your choice of protein in a flavorful sauce."
+                    "festivalDishName": "Pad See Ew",
+                    "festivalDishImage": "./img/thailand/pad_see_ew.jpg",
+                    "festivalDishDescription": "Pad See Ew is a popular Thai stir-fried noodle dish featuring wide rice noodles, vegetables, and your choice of protein in a flavorful sauce."
                 }
             ],
             "festivalDescription": "The Bo Sang Umbrella Festival in Chiang Mai celebrates the art of umbrella making. Colorful hand-painted umbrellas adorn the streets, and visitors can enjoy local treats like Pad See Ew while exploring the vibrant market stalls."
@@ -132,9 +132,9 @@
             "festivalImage": "./img/thailand/songkran.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Khao Chae",
-                    "feitivalDishImage": "./img/thailand/khao_chae.jpg",
-                    "feitivalDishDescription": "Khao Chae is a traditional Thai dish of rice soaked in jasmine-scented water, served with a variety of side dishes."
+                    "festivalDishName": "Khao Chae",
+                    "festivalDishImage": "./img/thailand/khao_chae.jpg",
+                    "festivalDishDescription": "Khao Chae is a traditional Thai dish of rice soaked in jasmine-scented water, served with a variety of side dishes."
                 }
             ],
             "festivalDescription": "Songkran is the Thai New Year festival, known for its water splashing festivities. It marks the beginning of the hot season in Thailand. Families celebrate by visiting temples, paying respects to elders, and enjoying traditional dishes like Khao Chae."
@@ -146,9 +146,9 @@
             "festivalImage": "./img/thailand/phi_ta_khon.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Kanom Jeen Nam Ngeow",
-                    "feitivalDishImage": "./img/thailand/kanom_jeen_nam_ngeow.jpg",
-                    "feitivalDishDescription": "Kanom Jeen Nam Ngeow is a Northern Thai dish of rice noodles served with a flavorful broth made from pork and tomatoes."
+                    "festivalDishName": "Kanom Jeen Nam Ngeow",
+                    "festivalDishImage": "./img/thailand/kanom_jeen_nam_ngeow.jpg",
+                    "festivalDishDescription": "Kanom Jeen Nam Ngeow is a Northern Thai dish of rice noodles served with a flavorful broth made from pork and tomatoes."
                 }
             ],
             "festivalDescription": "Phi Ta Khon, also known as the Ghost Festival, is celebrated in the Dan Sai district of Thailand. It features vibrant masks, colorful costumes, and a playful parade. Festival-goers enjoy traditional dishes like Kanom Jeen Nam Ngeow."
@@ -160,9 +160,9 @@
             "festivalImage": "./img/thailand/loi_krathong.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Khanom Tom",
-                    "feitivalDishImage": "./img/thailand/khanom_tom.jpg",
-                    "feitivalDishDescription": "Khanom Tom is a Thai dessert made from glutinous rice flour filled with sweet coconut and sugar, often wrapped in banana leaves."
+                    "festivalDishName": "Khanom Tom",
+                    "festivalDishImage": "./img/thailand/khanom_tom.jpg",
+                    "festivalDishDescription": "Khanom Tom is a Thai dessert made from glutinous rice flour filled with sweet coconut and sugar, often wrapped in banana leaves."
                 }
             ],
             "festivalDescription": "Loi Krathong, the Festival of Lights, is a beautiful Thai tradition where people release decorated floats made of banana leaves, flowers, and candles into rivers and waterways. It is a time for reflection and making wishes while enjoying treats like Khanom Tom."
@@ -174,9 +174,9 @@
             "festivalImage": "./img/thailand/yi_peng_lantern.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Khao Soi",
-                    "feitivalDishImage": "./img/thailand/khao_soi.jpg",
-                    "feitivalDishDescription": "Khao Soi is a Northern Thai dish featuring egg noodles in a rich and aromatic coconut curry broth, often garnished with crispy noodles."
+                    "festivalDishName": "Khao Soi",
+                    "festivalDishImage": "./img/thailand/khao_soi.jpg",
+                    "festivalDishDescription": "Khao Soi is a Northern Thai dish featuring egg noodles in a rich and aromatic coconut curry broth, often garnished with crispy noodles."
                 }
             ],
             "festivalDescription": "The Yi Peng Lantern Festival is a magical event celebrated in Northern Thailand. Thousands of paper lanterns are released into the night sky, creating a breathtaking spectacle. Festival-goers savor traditional dishes like Khao Soi during this enchanting festival."

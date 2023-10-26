@@ -2,9 +2,9 @@ import MapCard from "./MapCard";
 import TodayDishCard from "./TodayDishCard";
 import React from "react";
 
-function LandingPage({ onWorldMapClick, onRandomCountryClick, onRandomDishClick, randomDish }) {
+function LandingPage({ onWorldMapClick, onRandomCountryClick, onRandomDishButtonClick,  randomDish, onRandomDishClick }) {
     return (
-        <div className="page-body">
+        <div className="landing-page">
             <section className="hero">
                 <h1>Sustaining Culinary Traditions Around Our World</h1>
                 <h3>
@@ -32,14 +32,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"
                 />
             </section>
-            <section className="today-dishes">
+            <section className="today-dishe">
                 <button
                     className="swich-random-dish"
-                    onClick={onRandomDishClick}
+                    onClick={onRandomDishButtonClick}
                 >
                     Click me!
                 </button>
-                <TodayDishCard dish={randomDish} />
+                <TodayDishCard dish={randomDish} onRandomDishClick={onRandomDishClick} />
             </section>
         </div>
     );

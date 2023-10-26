@@ -154,9 +154,9 @@
             "festivalImage": "./img/france/galette_des_rois.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Galette des Rois",
-                    "feitivalDishImage": "./img/france/galette_des_rois.jpg",
-                    "feitivalDishDescription": "Galette des Rois is a puff pastry cake with a hidden trinket. The person who finds it becomes the 'king' or 'queen' and wears a crown."
+                    "festivalDishName": "Galette des Rois",
+                    "festivalDishImage": "./img/france/galette_des_rois.jpg",
+                    "festivalDishDescription": "Galette des Rois is a puff pastry cake with a hidden trinket. The person who finds it becomes the 'king' or 'queen' and wears a crown."
                 }
             ],
             "festivalDescription": "Galette des Rois, or 'King Cake,' is a beloved French tradition celebrated on Epiphany. It involves sharing a puff pastry cake with a hidden trinket, and the person who finds it is crowned as the 'king' or 'queen' for the day."
@@ -168,9 +168,9 @@
             "festivalImage": "./img/france/mardi_gras.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "King Cake",
-                    "feitivalDishImage": "./img/france/king_cake.jpg",
-                    "feitivalDishDescription": "King Cake is a traditional dessert with a hidden trinket or figurine inside. The person who finds it becomes the 'king' for the day."
+                    "festivalDishName": "King Cake",
+                    "festivalDishImage": "./img/france/king_cake.jpg",
+                    "festivalDishDescription": "King Cake is a traditional dessert with a hidden trinket or figurine inside. The person who finds it becomes the 'king' for the day."
                 }
             ],
             "festivalDescription": "Mardi Gras, known as 'Fat Tuesday,' is celebrated with parades, costumes, and indulgent foods before the start of Lent. In some regions of France, it involves the tradition of the King Cake, where a hidden figurine determines the 'king' of the day."
@@ -182,9 +182,9 @@
             "festivalImage": "./img/france/cannes_film_festival.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Cannes Film Festival Reception",
-                    "feitivalDishImage": "./img/france/cannes_film_festival_reception.jpg",
-                    "feitivalDishDescription": "The Cannes Film Festival features glamorous receptions with French cuisine and fine wines."
+                    "festivalDishName": "Cannes Film Festival Reception",
+                    "festivalDishImage": "./img/france/cannes_film_festival_reception.jpg",
+                    "festivalDishDescription": "The Cannes Film Festival features glamorous receptions with French cuisine and fine wines."
                 }
             ],
             "festivalDescription": "The Cannes Film Festival is one of the most prestigious film festivals in the world. It includes glamorous receptions with French cuisine and fine wines, making it a celebration of both cinema and culinary excellence."
@@ -196,9 +196,9 @@
             "festivalImage": "./img/france/fete_de_la_musique.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Street Food",
-                    "feitivalDishImage": "./img/france/street_food.jpg",
-                    "feitivalDishDescription": "Fête de la Musique features street food stalls offering a variety of French and international cuisines."
+                    "festivalDishName": "Street Food",
+                    "festivalDishImage": "./img/france/street_food.jpg",
+                    "festivalDishDescription": "Fête de la Musique features street food stalls offering a variety of French and international cuisines."
                 }
             ],
             "festivalDescription": "Fête de la Musique, also known as World Music Day, is a celebration of music with live performances throughout the country. It's a joyful occasion where street food stalls offer a diverse range of culinary delights."
@@ -210,9 +210,9 @@
             "festivalImage": "./img/france/lavender_festival.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Lavender Honey",
-                    "feitivalDishImage": "./img/france/lavender_honey.jpg",
-                    "feitivalDishDescription": "Lavender honey, infused with the fragrance of Provence's lavender fields, is a popular product during the festival."
+                    "festivalDishName": "Lavender Honey",
+                    "festivalDishImage": "./img/france/lavender_honey.jpg",
+                    "festivalDishDescription": "Lavender honey, infused with the fragrance of Provence's lavender fields, is a popular product during the festival."
                 }
             ],
             "festivalDescription": "The Lavender Festival in Provence celebrates the blooming lavender fields with vibrant parades and events. Lavender products, including lavender honey, are a highlight of this aromatic festival."
@@ -224,9 +224,9 @@
             "festivalImage": "./img/france/tour_de_france.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Tour de France Picnic",
-                    "feitivalDishImage": "./img/france/tour_de_france_picnic.jpg",
-                    "feitivalDishDescription": "Spectators along the Tour de France route enjoy picnics with French wine, cheese, and baguettes."
+                    "festivalDishName": "Tour de France Picnic",
+                    "festivalDishImage": "./img/france/tour_de_france_picnic.jpg",
+                    "festivalDishDescription": "Spectators along the Tour de France route enjoy picnics with French wine, cheese, and baguettes."
                 }
             ],
             "festivalDescription": "The Tour de France is an iconic cycling race that traverses the country. Spectators gather along the route to enjoy picnics with French wine, cheese, and baguettes while cheering on the cyclists."
@@ -238,9 +238,9 @@
             "festivalImage": "./img/france/bastille_day.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Bastille Day Picnic",
-                    "feitivalDishImage": "./img/france/bastille_day_picnic.jpg",
-                    "feitivalDishDescription": "Bastille Day is celebrated with picnics featuring French cheeses, baguettes, pâté, and wine."
+                    "festivalDishName": "Bastille Day Picnic",
+                    "festivalDishImage": "./img/france/bastille_day_picnic.jpg",
+                    "festivalDishDescription": "Bastille Day is celebrated with picnics featuring French cheeses, baguettes, pâté, and wine."
                 }
             ],
             "festivalDescription": "Bastille Day, also known as French National Day, commemorates the storming of the Bastille prison in 1789, a key event in the French Revolution. The day is marked by parades, fireworks, and picnics featuring French delicacies."
@@ -252,9 +252,9 @@
             "festivalImage": "./img/france/beaujolais_nouveau_day.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Beaujolais Nouveau",
-                    "feitivalDishImage": "./img/france/beaujolais_nouveau.jpg",
-                    "feitivalDishDescription": "Beaujolais Nouveau is a young red wine released on this day, often enjoyed with simple French dishes."
+                    "festivalDishName": "Beaujolais Nouveau",
+                    "festivalDishImage": "./img/france/beaujolais_nouveau.jpg",
+                    "festivalDishDescription": "Beaujolais Nouveau is a young red wine released on this day, often enjoyed with simple French dishes."
                 }
             ],
             "festivalDescription": "Beaujolais Nouveau Day celebrates the release of the new vintage of Beaujolais Nouveau wine. It is marked by festivities, wine tastings, and the enjoyment of this young and fruity wine."

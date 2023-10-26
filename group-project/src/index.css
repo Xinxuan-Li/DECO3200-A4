@@ -14,6 +14,27 @@ button {
     cursor: pointer;
 }
 
+
+/* footer */
+section.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+}
+
+div.footer-button {
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+    align-items: center;
+    width: 20rem;
+    height: 6rem;
+    top: 12rem;
+    cursor: pointer;
+}
+
+
+/* landing page */
 .map-cards {
     display: flex;
     flex-wrap: wrap;
@@ -107,6 +128,8 @@ img.map-card-arrow {
 }
 
 
+
+/* map page */
 div.map-page {
     pointer-events: visiblePainted;
 }
@@ -115,3 +138,22 @@ svg {
     pointer-events: visiblePainted;
 }
 
+.today-dish-card-container {
+    cursor: pointer;
+}
+
+
+/* country page */
+
+img.country-flag {
+    height: 2rem;
+    width: auto;
+}
+
+img.country-pattern {
+    height: 5rem;
+}
+
+div.festival-card, div.dish-card, div.habit-card{
+    cursor: pointer;
+}

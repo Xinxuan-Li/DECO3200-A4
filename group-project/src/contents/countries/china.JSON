@@ -154,14 +154,14 @@
             "festivalImage": "./img/spring_festival.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Jiaozi (Chinese Dumplings)",
-                    "feitivalDishImage": "./img/jiaozi.jpg",
-                    "feitivalDishDescription": "Jiaozi, shaped like ancient Chinese currency, symbolize wealth and good fortune. They are a traditional dish for family gatherings."
+                    "festivalDishName": "Jiaozi (Chinese Dumplings)",
+                    "festivalDishImage": "./img/jiaozi.jpg",
+                    "festivalDishDescription": "Jiaozi, shaped like ancient Chinese currency, symbolize wealth and good fortune. They are a traditional dish for family gatherings."
                 },
                 {
-                    "feitivalDishName": "Nian Gao (Rice Cakes)",
-                    "feitivalDishImage": "./img/nian_gao.jpg",
-                    "feitivalDishDescription": "Nian Gao represents rising prosperity and higher achievement. It's a sticky rice cake enjoyed during the festival."
+                    "festivalDishName": "Nian Gao (Rice Cakes)",
+                    "festivalDishImage": "./img/nian_gao.jpg",
+                    "festivalDishDescription": "Nian Gao represents rising prosperity and higher achievement. It's a sticky rice cake enjoyed during the festival."
                 }
             ],
             "festivalDescription": "Spring Festival, also known as Chinese New Year, is the most important and widely celebrated festival in China. It marks the beginning of the lunar new year and is a time for family reunions and festivities. The festival is characterized by vibrant red decorations, dragon and lion dances, and the giving of red envelopes (hongbao) for good luck."
@@ -173,9 +173,9 @@
             "festivalImage": "./img/lantern_festival.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Tangyuan (Sweet Rice Balls)",
-                    "feitivalDishImage": "./img/tangyuan.jpg",
-                    "feitivalDishDescription": "Tangyuan, round and sticky sweet rice balls, symbolize family unity and togetherness. They are a traditional treat during the Lantern Festival."
+                    "festivalDishName": "Tangyuan (Sweet Rice Balls)",
+                    "festivalDishImage": "./img/tangyuan.jpg",
+                    "festivalDishDescription": "Tangyuan, round and sticky sweet rice balls, symbolize family unity and togetherness. They are a traditional treat during the Lantern Festival."
                 }
             ],
             "festivalDescription": "The Lantern Festival, also known as Yuanxiao Festival, marks the end of the Chinese New Year celebrations and falls on the 15th day of the first lunar month. It's a time of colorful lantern displays, solving lantern riddles, and enjoying tangyuan, sweet rice balls."
@@ -187,9 +187,9 @@
             "festivalImage": "./img/qingming_festival.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Qingtuan (Green Dumplings)",
-                    "feitivalDishImage": "./img/qingtuan.jpg",
-                    "feitivalDishDescription": "Qingtuan are green glutinous rice dumplings filled with sweet or savory fillings. They are a Qingming Festival specialty symbolizing the arrival of spring and new life."
+                    "festivalDishName": "Qingtuan (Green Dumplings)",
+                    "festivalDishImage": "./img/qingtuan.jpg",
+                    "festivalDishDescription": "Qingtuan are green glutinous rice dumplings filled with sweet or savory fillings. They are a Qingming Festival specialty symbolizing the arrival of spring and new life."
                 }
             ],
             "festivalDescription": "Qingming Festival, also known as Tomb-Sweeping Day, is a time for Chinese people to honor their ancestors by cleaning and maintaining their graves. It is also a time when people enjoy the outdoors and appreciate the blooming spring scenery."
@@ -201,9 +201,9 @@
             "festivalImage": "./img/dragon_boat_festival.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Zongzi (Sticky Rice Dumplings)",
-                    "feitivalDishImage": "./img/zongzi.jpg",
-                    "feitivalDishDescription": "Zongzi, pyramid-shaped sticky rice dumplings wrapped in bamboo leaves, are the quintessential food of the Dragon Boat Festival. They are filled with various ingredients like meats, beans, and nuts."
+                    "festivalDishName": "Zongzi (Sticky Rice Dumplings)",
+                    "festivalDishImage": "./img/zongzi.jpg",
+                    "festivalDishDescription": "Zongzi, pyramid-shaped sticky rice dumplings wrapped in bamboo leaves, are the quintessential food of the Dragon Boat Festival. They are filled with various ingredients like meats, beans, and nuts."
                 }
             ],
             "festivalDescription": "The Dragon Boat Festival, also known as Duanwu Festival, commemorates the ancient poet Qu Yuan and is celebrated on the fifth day of the fifth lunar month. The festival is famous for dragon boat races and the consumption of zongzi, sticky rice dumplings."
@@ -215,9 +215,9 @@
             "festivalImage": "./img/qixi_festival.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Fruit Plate",
-                    "feitivalDishImage": "./img/fruit_plate.jpg",
-                    "feitivalDishDescription": "On Qixi Festival, it is common to enjoy a plate of fresh and colorful fruits as a symbol of love and romance."
+                    "festivalDishName": "Fruit Plate",
+                    "festivalDishImage": "./img/fruit_plate.jpg",
+                    "festivalDishDescription": "On Qixi Festival, it is common to enjoy a plate of fresh and colorful fruits as a symbol of love and romance."
                 }
             ],
             "festivalDescription": "Qixi Festival, also known as Chinese Valentine's Day, celebrates the legendary love story of the cowherd and the weaver girl. It's a day for couples to express their love and affection for each other."
@@ -229,9 +229,9 @@
             "festivalImage": "./img/mid_autumn_festival.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Mooncakes",
-                    "feitivalDishImage": "./img/mooncakes.jpg",
-                    "feitivalDishDescription": "Mooncakes, with various fillings like lotus seed paste and salted egg yolks, are the hallmark of this festival. They symbolize family reunion and togetherness under the full moon."
+                    "festivalDishName": "Mooncakes",
+                    "festivalDishImage": "./img/mooncakes.jpg",
+                    "festivalDishDescription": "Mooncakes, with various fillings like lotus seed paste and salted egg yolks, are the hallmark of this festival. They symbolize family reunion and togetherness under the full moon."
                 }
             ],
             "festivalDescription": "The Mid-Autumn Festival, also known as the Moon Festival, falls on the 15th day of the eighth lunar month. It's a time when families gather to appreciate the full moon, a symbol of unity and completeness. Mooncakes, with their round shape and rich fillings, are the most iconic treat of this festival."

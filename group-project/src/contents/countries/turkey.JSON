@@ -142,9 +142,9 @@
             "festivalImage": "./img/turkey/tulip_festival.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Simit",
-                    "feitivalDishImage": "./img/turkey/simit.jpg",
-                    "feitivalDishDescription": "Simit is a popular Turkish bread ring, often covered in sesame seeds and enjoyed as a snack."
+                    "festivalDishName": "Simit",
+                    "festivalDishImage": "./img/turkey/simit.jpg",
+                    "festivalDishDescription": "Simit is a popular Turkish bread ring, often covered in sesame seeds and enjoyed as a snack."
                 }
             ],
             "festivalDescription": "The Istanbul Tulip Festival is a celebration of spring's arrival, with millions of tulips in full bloom across the city's parks and gardens. Visitors can enjoy traditional treats like Simit while marveling at the colorful displays."
@@ -156,9 +156,9 @@
             "festivalImage": "./img/turkey/sand_sculpture_festival.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Köfte",
-                    "feitivalDishImage": "./img/turkey/kofte.jpg",
-                    "feitivalDishDescription": "Köfte are seasoned meatballs, often grilled to perfection and served with accompaniments."
+                    "festivalDishName": "Köfte",
+                    "festivalDishImage": "./img/turkey/kofte.jpg",
+                    "festivalDishDescription": "Köfte are seasoned meatballs, often grilled to perfection and served with accompaniments."
                 }
             ],
             "festivalDescription": "The Antalya International Sand Sculpture Festival is a unique event that showcases incredible sand sculptures created by artists from around the world. Köfte, a beloved Turkish dish, is a favorite choice among festival-goers."
@@ -170,9 +170,9 @@
             "festivalImage": "./img/turkey/cesme_festival.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Midye Dolma",
-                    "feitivalDishImage": "./img/turkey/midye_dolma.jpg",
-                    "feitivalDishDescription": "Midye Dolma are stuffed mussels, a popular seafood dish in Çesme."
+                    "festivalDishName": "Midye Dolma",
+                    "festivalDishImage": "./img/turkey/midye_dolma.jpg",
+                    "festivalDishDescription": "Midye Dolma are stuffed mussels, a popular seafood dish in Çesme."
                 }
             ],
             "festivalDescription": "The Çesme International Festival in Izmir showcases the region's culture and heritage. Visitors can enjoy delicious seafood dishes like Midye Dolma while taking part in vibrant festivities."
@@ -184,9 +184,9 @@
             "festivalImage": "./img/turkey/ramadan.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Iftar Feast",
-                    "feitivalDishImage": "./img/turkey/iftar_feast.jpg",
-                    "feitivalDishDescription": "The Iftar feast marks the end of the daily fast during Ramadan, featuring a variety of dishes and sweets."
+                    "festivalDishName": "Iftar Feast",
+                    "festivalDishImage": "./img/turkey/iftar_feast.jpg",
+                    "festivalDishDescription": "The Iftar feast marks the end of the daily fast during Ramadan, featuring a variety of dishes and sweets."
                 }
             ],
             "festivalDescription": "Ramadan is a month of fasting, reflection, and community in Turkey. The breaking of the fast, known as Iftar, is a time for families and friends to gather and share a bountiful feast."
@@ -198,9 +198,9 @@
             "festivalImage": "./img/turkey/kurban_bayrami.jpg",
             "festivalDishes": [
                 {
-                    "feitivalDishName": "Baklava",
-                    "feitivalDishImage": "./img/turkey/baklava.jpg",
-                    "feitivalDishDescription": "Baklava is a sweet and indulgent dessert enjoyed during Kurban Bayrami celebrations."
+                    "festivalDishName": "Baklava",
+                    "festivalDishImage": "./img/turkey/baklava.jpg",
+                    "festivalDishDescription": "Baklava is a sweet and indulgent dessert enjoyed during Kurban Bayrami celebrations."
                 }
             ],
             "festivalDescription": "Kurban Bayrami, also known as Eid al-Adha, is a significant religious holiday in Turkey. Families come together to sacrifice an animal and share the meat with those in need. Baklava is a must-have treat during this festive time."
