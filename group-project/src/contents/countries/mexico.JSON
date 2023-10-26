@@ -105,28 +105,35 @@
     "eatingHabits": [
         {
             "eatingHabitName": "Sharing Meals",
-            "eatingHabitDescription": "In Mexico, sharing meals with family and friends is a common practice, emphasizing unity and community."
+            "eatingHabitDescription": "In Mexico, sharing meals with family and friends is a common practice, emphasizing unity and community.",
+            "eatingHabitReason": "Mexican culture values the act of sharing meals as a way to strengthen bonds and build a sense of community."
         },
         {
             "eatingHabitName": "Use of Chili Peppers",
-            "eatingHabitDescription": "Mexican cuisine is known for its bold use of chili peppers, adding depth and heat to dishes."
+            "eatingHabitDescription": "Mexican cuisine is known for its bold use of chili peppers, adding depth and heat to dishes.",
+            "eatingHabitReason": "The use of chili peppers in Mexican cuisine not only adds flavor but also reflects the rich culinary history and agricultural heritage of the region."
         },
         {
             "eatingHabitName": "Handheld Street Food",
-            "eatingHabitDescription": "Street food, such as tacos and tamales, is a popular and convenient way to enjoy meals while on the go."
+            "eatingHabitDescription": "Street food, such as tacos and tamales, is a popular and convenient way to enjoy meals while on the go.",
+            "eatingHabitReason": "Handheld street food is a practical choice for people on the move and provides a quick and delicious way to savor Mexican flavors."
         },
         {
             "eatingHabitName": "Salsas and Condiments",
-            "eatingHabitDescription": "Mexican meals are often accompanied by a variety of salsas and condiments, allowing diners to customize their dishes to their preferred level of spiciness."
+            "eatingHabitDescription": "Mexican meals are often accompanied by a variety of salsas and condiments, allowing diners to customize their dishes to their preferred level of spiciness.",
+            "eatingHabitReason": "The presence of various salsas and condiments in Mexican cuisine enhances the dining experience by offering diners the freedom to tailor the spiciness and flavor of their meals."
         },
         {
             "eatingHabitName": "Late Dinners",
-            "eatingHabitDescription": "Dinner in Mexico is typically enjoyed later in the evening, often well past 8:00 PM."
+            "eatingHabitDescription": "Dinner in Mexico is typically enjoyed later in the evening, often well past 8:00 PM.",
+            "eatingHabitReason": "The tradition of late dinners in Mexico aligns with the country's relaxed and social approach to dining, allowing people to savor their meals and spend time with loved ones in the evening."
         },
         {
             "eatingHabitName": "Fresh Ingredients",
-            "eatingHabitDescription": "The use of fresh and locally sourced ingredients is highly valued in Mexican cooking."
+            "eatingHabitDescription": "The use of fresh and locally sourced ingredients is highly valued in Mexican cooking.",
+            "eatingHabitReason": "Mexican cuisine places a premium on the use of fresh, locally sourced ingredients to create vibrant and authentic dishes."
         }
+        
     ],
     "festivals": [
         {
