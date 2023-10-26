@@ -1,16 +1,17 @@
 {
     "countryName": "Italy",
-    "countryFlagImage": "\\img\\italy\\flag.jpg",
-    "countryPatternImage": "\\img\\italy\\pattern.jpg",
+    "name": "italy",
+    "countryFlagImage": "./img/italy/flag.jpg",
+    "countryPatternImage": "./img/italy/pattern.jpg",
     "countryIntroduction": "Italy, a beautiful country in Southern Europe, is renowned for its rich history, stunning art and architecture, and delectable cuisine. From the ancient ruins of Rome to the romantic canals of Venice, Italy offers a diverse range of experiences. Italian cuisine, including pasta, pizza, and gelato, is celebrated worldwide for its flavors and simplicity. Italian culture is deeply rooted in art, music, and a love for life's pleasures.",
     "traditionalDishes": [
         {
             "dishName": "Pizza",
             "dishNameInOwnLanguage": "Pizza",
             "dishImages": [
-                "\\img\\italy\\pizza1.jpg",
-                "\\img\\italy\\pizza2.jpg",
-                "\\img\\italy\\pizza3.jpg"
+                "./img/italy/pizza1.jpg",
+                "./img/italy/pizza2.jpg",
+                "./img/italy/pizza3.jpg"
             ],
             "dishIngredients": "Dough, Tomato Sauce, Mozzarella Cheese, Toppings (e.g., Pepperoni, Mushrooms, Olives)",
             "dishDescription": "Pizza is an iconic Italian dish consisting of a thin or thick crust topped with tomato sauce, cheese, and various toppings. It's baked to perfection and enjoyed worldwide.",
@@ -20,9 +21,9 @@
             "dishName": "Pasta Carbonara",
             "dishNameInOwnLanguage": "Pasta alla Carbonara",
             "dishImages": [
-                "\\img\\italy\\carbonara1.jpg",
-                "\\img\\italy\\carbonara2.jpg",
-                "\\img\\italy\\carbonara3.jpg"
+                "./img/italy/carbonara1.jpg",
+                "./img/italy/carbonara2.jpg",
+                "./img/italy/carbonara3.jpg"
             ],
             "dishIngredients": "Pasta (typically spaghetti), Eggs, Pecorino Romano Cheese, Guanciale (cured pork cheek), Black Pepper",
             "dishDescription": "Pasta Carbonara is a classic Roman dish known for its creamy sauce made from eggs, cheese, and pancetta. It's a simple yet indulgent delight.",
@@ -32,9 +33,9 @@
             "dishName": "Gelato",
             "dishNameInOwnLanguage": "Gelato",
             "dishImages": [
-                "\\img\\italy\\gelato1.jpg",
-                "\\img\\italy\\gelato2.jpg",
-                "\\img\\italy\\gelato3.jpg"
+                "./img/italy/gelato1.jpg",
+                "./img/italy/gelato2.jpg",
+                "./img/italy/gelato3.jpg"
             ],
             "dishIngredients": "Milk, Sugar, Flavorings (e.g., Fruit, Nuts, Chocolate)",
             "dishDescription": "Gelato is Italy's version of ice cream, known for its smooth, dense, and intensely flavored scoops. It comes in a wide range of flavors and is a beloved dessert.",
@@ -44,9 +45,9 @@
             "dishName": "Lasagna",
             "dishNameInOwnLanguage": "Lasagna",
             "dishImages": [
-                "\\img\\italy\\lasagna1.jpg",
-                "\\img\\italy\\lasagna2.jpg",
-                "\\img\\italy\\lasagna3.jpg"
+                "./img/italy/lasagna1.jpg",
+                "./img/italy/lasagna2.jpg",
+                "./img/italy/lasagna3.jpg"
             ],
             "dishIngredients": "Wide Pasta Sheets, Bolognese Sauce, Bechamel Sauce, Parmesan Cheese",
             "dishDescription": "Lasagna is a layered pasta dish made with wide sheets of pasta, rich Bolognese sauce, creamy bechamel sauce, and plenty of cheese.",
@@ -56,9 +57,9 @@
             "dishName": "Tiramisu",
             "dishNameInOwnLanguage": "Tiramisù",
             "dishImages": [
-                "\\img\\italy\\tiramisu1.jpg",
-                "\\img\\italy\\tiramisu2.jpg",
-                "\\img\\italy\\tiramisu3.jpg"
+                "./img/italy/tiramisu1.jpg",
+                "./img/italy/tiramisu2.jpg",
+                "./img/italy/tiramisu3.jpg"
             ],
             "dishIngredients": "Ladyfingers, Mascarpone Cheese, Coffee, Cocoa Powder, Eggs, Sugar",
             "dishDescription": "Tiramisu is a luscious Italian dessert made with layers of coffee-soaked ladyfingers, creamy mascarpone cheese, and a dusting of cocoa powder.",
@@ -68,9 +69,9 @@
             "dishName": "Risotto",
             "dishNameInOwnLanguage": "Risotto",
             "dishImages": [
-                "\\img\\italy\\risotto1.jpg",
-                "\\img\\italy\\risotto2.jpg",
-                "\\img\\italy\\risotto3.jpg"
+                "./img/italy/risotto1.jpg",
+                "./img/italy/risotto2.jpg",
+                "./img/italy/risotto3.jpg"
             ],
             "dishIngredients": "Arborio Rice, Broth (e.g., Chicken or Vegetable), White Wine, Onions, Parmesan Cheese",
             "dishDescription": "Risotto is a creamy Italian rice dish made by slowly cooking Arborio rice with flavorful broth and other ingredients like wine, onions, and cheese.",
@@ -80,9 +81,9 @@
             "dishName": "Panettone",
             "dishNameInOwnLanguage": "Panettone",
             "dishImages": [
-                "\\img\\italy\\panettone1.jpg",
-                "\\img\\italy\\panettone2.jpg",
-                "\\img\\italy\\panettone3.jpg"
+                "./img/italy/panettone1.jpg",
+                "./img/italy/panettone2.jpg",
+                "./img/italy/panettone3.jpg"
             ],
             "dishIngredients": "Flour, Eggs, Candied Fruits, Raisins, Butter, Sugar",
             "dishDescription": "Panettone is a sweet, dome-shaped bread filled with candied fruits and raisins. It's a traditional Italian Christmas treat.",
@@ -92,9 +93,9 @@
             "dishName": "Osso Buco",
             "dishNameInOwnLanguage": "Osso Buco",
             "dishImages": [
-                "\\img\\italy\\osso_buco1.jpg",
-                "\\img\\italy\\osso_buco2.jpg",
-                "\\img\\italy\\osso_buco3.jpg"
+                "./img/italy/osso_buco1.jpg",
+                "./img/italy/osso_buco2.jpg",
+                "./img/italy/osso_buco3.jpg"
             ],
             "dishIngredients": "Veal Shank, White Wine, Tomatoes, Onions, Gremolata (Lemon Zest, Garlic, Parsley)",
             "dishDescription": "Osso Buco is a Milanese specialty featuring braised veal shank cooked with white wine, tomatoes, and a flavorful gremolata.",
@@ -104,9 +105,9 @@
             "dishName": "Caprese Salad",
             "dishNameInOwnLanguage": "Insalata Caprese",
             "dishImages": [
-                "\\img\\italy\\caprese_salad1.jpg",
-                "\\img\\italy\\caprese_salad2.jpg",
-                "\\img\\italy\\caprese_salad3.jpg"
+                "./img/italy/caprese_salad1.jpg",
+                "./img/italy/caprese_salad2.jpg",
+                "./img/italy/caprese_salad3.jpg"
             ],
             "dishIngredients": "Tomatoes, Fresh Mozzarella Cheese, Basil Leaves, Olive Oil, Balsamic Vinegar",
             "dishDescription": "Caprese Salad is a simple and refreshing Italian salad made with ripe tomatoes, fresh mozzarella, fragrant basil, and a drizzle of olive oil and balsamic vinegar.",
@@ -116,9 +117,9 @@
             "dishName": "Amatriciana Pasta",
             "dishNameInOwnLanguage": "Pasta all'Amatriciana",
             "dishImages": [
-                "\\img\\italy\\amatriciana_pasta1.jpg",
-                "\\img\\italy\\amatriciana_pasta2.jpg",
-                "\\img\\italy\\amatriciana_pasta3.jpg"
+                "./img/italy/amatriciana_pasta1.jpg",
+                "./img/italy/amatriciana_pasta2.jpg",
+                "./img/italy/amatriciana_pasta3.jpg"
             ],
             "dishIngredients": "Pasta (typically bucatini or spaghetti), Tomato Sauce, Guanciale (cured pork cheek), Pecorino Romano Cheese, Red Pepper Flakes",
             "dishDescription": "Amatriciana Pasta is a classic Roman dish known for its bold and spicy tomato sauce, guanciale (cured pork), and generous sprinkle of Pecorino Romano cheese.",
@@ -162,11 +163,11 @@
             "festivalName": "Carnival of Venice",
             "festivalMonth": 2,
             "festivalDate": 11,
-            "festivalImage": "\\img\\italy\\carnival_of_venice.jpg",
+            "festivalImage": "./img/italy/carnival_of_venice.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Frittelle",
-                    "festivalDishImage": "\\img\\italy\\frittelle.jpg",
+                    "festivalDishImage": "./img/italy/frittelle.jpg",
                     "festivalDishDescription": "Frittelle are sweet Venetian fritters often enjoyed during the Carnival of Venice."
                 }
             ],
@@ -176,11 +177,11 @@
             "festivalName": "Easter",
             "festivalMonth": 4,
             "festivalDate": 17,
-            "festivalImage": "\\img\\italy\\easter.jpg",
+            "festivalImage": "./img/italy/easter.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Colomba di Pasqua",
-                    "festivalDishImage": "\\img\\italy\\colomba_di_pasqua.jpg",
+                    "festivalDishImage": "./img/italy/colomba_di_pasqua.jpg",
                     "festivalDishDescription": "Colomba di Pasqua, or 'Easter Dove,' is a traditional Easter cake shaped like a dove."
                 }
             ],
@@ -190,11 +191,11 @@
             "festivalName": "Sagra dell'Uva",
             "festivalMonth": 9,
             "festivalDate": 1,
-            "festivalImage": "\\img\\italy\\sagra_dell_uva.jpg",
+            "festivalImage": "./img/italy/sagra_dell_uva.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Polenta e Uva",
-                    "festivalDishImage": "\\img\\italy\\polenta_e_uva.jpg",
+                    "festivalDishImage": "./img/italy/polenta_e_uva.jpg",
                     "festivalDishDescription": "Polenta e Uva, a combination of cornmeal porridge and grapes, is a traditional treat during the Sagra dell'Uva."
                 }
             ],
@@ -204,11 +205,11 @@
             "festivalName": "Festa della Repubblica",
             "festivalMonth": 6,
             "festivalDate": 2,
-            "festivalImage": "\\img\\italy\\festa_della_repubblica.jpg",
+            "festivalImage": "./img/italy/festa_della_repubblica.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Panzanella",
-                    "festivalDishImage": "\\img\\italy\\panzanella.jpg",
+                    "festivalDishImage": "./img/italy/panzanella.jpg",
                     "festivalDishDescription": "Panzanella is a refreshing Tuscan salad featuring stale bread, tomatoes, and fresh herbs."
                 }
             ],
@@ -218,11 +219,11 @@
             "festivalName": "L'Immacolata Concezione",
             "festivalMonth": 12,
             "festivalDate": 8,
-            "festivalImage": "\\img\\italy\\immacolata_concezione.jpg",
+            "festivalImage": "./img/italy/immacolata_concezione.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Zeppole",
-                    "festivalDishImage": "\\img\\italy\\zeppole.jpg",
+                    "festivalDishImage": "./img/italy/zeppole.jpg",
                     "festivalDishDescription": "Zeppole are deep-fried pastries enjoyed on L'Immacolata Concezione."
                 }
             ],

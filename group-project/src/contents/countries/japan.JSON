@@ -1,16 +1,17 @@
 {
     "countryName": "Japan",
-    "countryFlagImage": "\\img\\japan\\flag.jpg",
-    "countryPatternImage": "\\img\\japan\\pattern.jpg",
+    "name": "japan",
+    "countryFlagImage": "./img/japan/flag.jpg",
+    "countryPatternImage": "./img/japan/pattern.jpg",
     "countryIntroduction": "Japan, an island nation in East Asia, is known for its rich cultural heritage, stunning natural landscapes, and culinary excellence. From the serene beauty of cherry blossoms to the precision of sushi-making, Japan offers a diverse and captivating experience. Its cuisine, including sushi, tempura, and ramen, has gained worldwide acclaim. Japanese culture is deeply rooted in traditions like tea ceremonies, martial arts, and festivals that celebrate the changing seasons.",
     "traditionalDishes": [
         {
             "dishName": "Sushi",
             "dishNameInOwnLanguage": "寿司",
             "dishImages": [
-                "\\img\\japan\\sushi1.jpg",
-                "\\img\\japan\\sushi2.jpg",
-                "\\img\\japan\\sushi3.jpg"
+                "./img/japan/sushi1.jpg",
+                "./img/japan/sushi2.jpg",
+                "./img/japan/sushi3.jpg"
             ],
             "dishIngredients": "Sushi rice, Fresh fish or seafood, Nori (seaweed), Soy sauce, Wasabi, Pickled ginger",
             "dishDescription": "Sushi is a beloved Japanese dish that consists of vinegared rice combined with various ingredients such as fresh fish or seafood, vegetables, and occasionally tropical fruits. It is often served with pickled ginger, soy sauce, and wasabi.",
@@ -20,9 +21,9 @@
             "dishName": "Tempura",
             "dishNameInOwnLanguage": "天ぷら",
             "dishImages": [
-                "\\img\\japan\\tempura1.jpg",
-                "\\img\\japan\\tempura2.jpg",
-                "\\img\\japan\\tempura3.jpg"
+                "./img/japan/tempura1.jpg",
+                "./img/japan/tempura2.jpg",
+                "./img/japan/tempura3.jpg"
             ],
             "dishIngredients": "Batter-coated and deep-fried seafood, vegetables, and mushrooms",
             "dishDescription": "Tempura is a Japanese dish known for its light and crispy batter-coated ingredients, which are typically deep-fried to perfection. Common items include shrimp, vegetables, and mushrooms.",
@@ -32,9 +33,9 @@
             "dishName": "Ramen",
             "dishNameInOwnLanguage": "ラーメン",
             "dishImages": [
-                "\\img\\japan\\ramen1.jpg",
-                "\\img\\japan\\ramen2.jpg",
-                "\\img\\japan\\ramen3.jpg"
+                "./img/japan/ramen1.jpg",
+                "./img/japan/ramen2.jpg",
+                "./img/japan/ramen3.jpg"
             ],
             "dishIngredients": "Chinese-style wheat noodles, Broth (pork, chicken, or seafood), Toppings (egg, vegetables, pork, seaweed)",
             "dishDescription": "Ramen is a beloved Japanese noodle dish that consists of Chinese-style wheat noodles served in a flavorful broth. It is often garnished with various toppings, making it a customizable culinary experience.",
@@ -44,9 +45,9 @@
             "dishName": "Okonomiyaki",
             "dishNameInOwnLanguage": "お好み焼き",
             "dishImages": [
-                "\\img\\japan\\okonomiyaki1.jpg",
-                "\\img\\japan\\okonomiyaki2.jpg",
-                "\\img\\japan\\okonomiyaki3.jpg"
+                "./img/japan/okonomiyaki1.jpg",
+                "./img/japan/okonomiyaki2.jpg",
+                "./img/japan/okonomiyaki3.jpg"
             ],
             "dishIngredients": "Savory pancake batter, Cabbage, Pork or seafood, Eggs, Okonomiyaki sauce, Mayonnaise, Bonito flakes",
             "dishDescription": "Okonomiyaki is a savory Japanese pancake that combines a flavorful batter with ingredients like cabbage, pork or seafood, and eggs. It is typically topped with okonomiyaki sauce, mayonnaise, and bonito flakes.",
@@ -56,9 +57,9 @@
             "dishName": "Sashimi",
             "dishNameInOwnLanguage": "刺身",
             "dishImages": [
-                "\\img\\japan\\sashimi1.jpg",
-                "\\img\\japan\\sashimi2.jpg",
-                "\\img\\japan\\sashimi3.jpg"
+                "./img/japan/sashimi1.jpg",
+                "./img/japan/sashimi2.jpg",
+                "./img/japan/sashimi3.jpg"
             ],
             "dishIngredients": "Thinly sliced fresh fish or seafood, Soy sauce, Wasabi, Pickled ginger",
             "dishDescription": "Sashimi is a delicacy consisting of thinly sliced fresh fish or seafood, often served with soy sauce, wasabi, and pickled ginger. It showcases the purity and freshness of the ingredients.",
@@ -68,9 +69,9 @@
             "dishName": "Tonkatsu",
             "dishNameInOwnLanguage": "とんかつ",
             "dishImages": [
-                "\\img\\japan\\tonkatsu1.jpg",
-                "\\img\\japan\\tonkatsu2.jpg",
-                "\\img\\japan\\tonkatsu3.jpg"
+                "./img/japan/tonkatsu1.jpg",
+                "./img/japan/tonkatsu2.jpg",
+                "./img/japan/tonkatsu3.jpg"
             ],
             "dishIngredients": "Breaded and deep-fried pork cutlet, Tonkatsu sauce, Cabbage",
             "dishDescription": "Tonkatsu is a popular Japanese dish made from breaded and deep-fried pork cutlets. It is typically served with tonkatsu sauce and shredded cabbage.",
@@ -80,9 +81,9 @@
             "dishName": "Takoyaki",
             "dishNameInOwnLanguage": "たこ焼き",
             "dishImages": [
-                "\\img\\japan\\takoyaki1.jpg",
-                "\\img\\japan\\takoyaki2.jpg",
-                "\\img\\japan\\takoyaki3.jpg"
+                "./img/japan/takoyaki1.jpg",
+                "./img/japan/takoyaki2.jpg",
+                "./img/japan/takoyaki3.jpg"
             ],
             "dishIngredients": "Octopus-filled savory batter balls, Takoyaki sauce, Bonito flakes, Green onions",
             "dishDescription": "Takoyaki is a popular Japanese street food made from octopus-filled savory batter balls. They are typically drizzled with takoyaki sauce, bonito flakes, and green onions.",
@@ -92,9 +93,9 @@
             "dishName": "Unagi Don",
             "dishNameInOwnLanguage": "うな丼",
             "dishImages": [
-                "\\img\\japan\\unagi_don1.jpg",
-                "\\img\\japan\\unagi_don2.jpg",
-                "\\img\\japan\\unagi_don3.jpg"
+                "./img/japan/unagi_don1.jpg",
+                "./img/japan/unagi_don2.jpg",
+                "./img/japan/unagi_don3.jpg"
             ],
             "dishIngredients": "Grilled eel over a bed of rice, Unagi sauce, Pickled ginger",
             "dishDescription": "Unagi Don is a traditional Japanese dish consisting of grilled eel served atop a bowl of steamed rice, often drizzled with unagi sauce and accompanied by pickled ginger.",
@@ -138,11 +139,11 @@
             "festivalName": "Osechi Ryori",
             "festivalMonth": 1,
             "festivalDate": 1,
-            "festivalImage": "\\img\\japan\\osechi_ryori.jpg",
+            "festivalImage": "./img/japan/osechi_ryori.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Ozoni",
-                    "feitivalDishImage": "\\img\\japan\\ozoni.jpg",
+                    "feitivalDishImage": "./img/japan/ozoni.jpg",
                     "feitivalDishDescription": "Ozoni is a traditional New Year's soup featuring mochi (rice cakes) in a clear or miso-based broth."
                 }
             ],
@@ -152,11 +153,11 @@
             "festivalName": "Setsubun",
             "festivalMonth": 2,
             "festivalDate": 3,
-            "festivalImage": "\\img\\japan\\setsubun.jpg",
+            "festivalImage": "./img/japan/setsubun.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Eho-maki",
-                    "feitivalDishImage": "\\img\\japan\\eho-maki.jpg",
+                    "feitivalDishImage": "./img/japan/eho-maki.jpg",
                     "feitivalDishDescription": "Eho-maki is a sushi roll enjoyed while facing a specific direction to bring good luck during Setsubun."
                 }
             ],
@@ -166,11 +167,11 @@
             "festivalName": "Hina Matsuri (Doll Festival)",
             "festivalMonth": 3,
             "festivalDate": 3,
-            "festivalImage": "\\img\\japan\\hina_matsuri.jpg",
+            "festivalImage": "./img/japan/hina_matsuri.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Hina-arare",
-                    "feitivalDishImage": "\\img\\japan\\hina_arare.jpg",
+                    "feitivalDishImage": "./img/japan/hina_arare.jpg",
                     "feitivalDishDescription": "Hina-arare are colorful rice crackers often enjoyed during Hina Matsuri celebrations."
                 }
             ],
@@ -180,11 +181,11 @@
             "festivalName": "Sakura Matsuri (Cherry Blossom Festival)",
             "festivalMonth": 4,
             "festivalDate": 1,
-            "festivalImage": "\\img\\japan\\sakura_matsuri.jpg",
+            "festivalImage": "./img/japan/sakura_matsuri.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Sakura Mochi",
-                    "feitivalDishImage": "\\img\\japan\\sakura_mochi.jpg",
+                    "feitivalDishImage": "./img/japan/sakura_mochi.jpg",
                     "feitivalDishDescription": "Sakura mochi is a pink rice cake filled with sweet red bean paste, wrapped in a pickled cherry blossom leaf."
                 }
             ],
@@ -194,11 +195,11 @@
             "festivalName": "Tanabata (Star Festival)",
             "festivalMonth": 7,
             "festivalDate": 7,
-            "festivalImage": "\\img\\japan\\tanabata.jpg",
+            "festivalImage": "./img/japan/tanabata.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Somen",
-                    "feitivalDishImage": "\\img\\japan\\somen.jpg",
+                    "feitivalDishImage": "./img/japan/somen.jpg",
                     "feitivalDishDescription": "Somen is a thin wheat noodle dish served chilled and dipped in a soy-based sauce, perfect for the summer heat."
                 }
             ],
@@ -208,11 +209,11 @@
             "festivalName": "Obon",
             "festivalMonth": 8,
             "festivalDate": 13,
-            "festivalImage": "\\img\\japan\\obon.jpg",
+            "festivalImage": "./img/japan/obon.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Ehomaki",
-                    "feitivalDishImage": "\\img\\japan\\ehomaki.jpg",
+                    "feitivalDishImage": "./img/japan/ehomaki.jpg",
                     "feitivalDishDescription": "Ehomaki is a sushi roll filled with various ingredients and eaten while facing a specific lucky direction to bring good fortune."
                 }
             ],
@@ -222,11 +223,11 @@
             "festivalName": "Takoyaki Day",
             "festivalMonth": 10,
             "festivalDate": 10,
-            "festivalImage": "\\img\\japan\\takoyaki_day.jpg",
+            "festivalImage": "./img/japan/takoyaki_day.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Takoyaki",
-                    "feitivalDishImage": "\\img\\japan\\takoyaki.jpg",
+                    "feitivalDishImage": "./img/japan/takoyaki.jpg",
                     "feitivalDishDescription": "Takoyaki, the iconic octopus-filled snack, is celebrated on this day with street vendors offering various toppings and flavors."
                 }
             ],
@@ -236,11 +237,11 @@
             "festivalName": "Shichi-Go-San",
             "festivalMonth": 11,
             "festivalDate": 15,
-            "festivalImage": "\\img\\japan\\shichi_go_san.jpg",
+            "festivalImage": "./img/japan/shichi_go_san.jpg",
             "festivalDishes": [
                 {
                     "feitivalDishName": "Chitose-ame",
-                    "feitivalDishImage": "\\img\\japan\\chitose_ame.jpg",
+                    "feitivalDishImage": "./img/japan/chitose_ame.jpg",
                     "feitivalDishDescription": "Chitose-ame, or 'Thousand-Year Candy,' is a long, thin candy stick given to children for longevity and good health."
                 }
             ],

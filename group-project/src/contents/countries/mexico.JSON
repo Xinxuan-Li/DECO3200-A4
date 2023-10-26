@@ -1,16 +1,17 @@
 {
     "countryName": "Mexico",
-    "countryFlagImage": "\\img\\mexico\\flag.jpg",
-    "countryPatternImage": "\\img\\mexico\\pattern.jpg",
+    "name": "mexico",
+    "countryFlagImage": "./img/mexico/flag.jpg",
+    "countryPatternImage": "./img/mexico/pattern.jpg",
     "countryIntroduction": "Mexico, located in North America, is renowned for its vibrant and diverse culinary traditions, rich cultural heritage, and colorful festivals. Mexican cuisine is celebrated worldwide for its bold flavors, including the use of chili peppers, corn, beans, and a wide variety of spices. The country's cuisine is a reflection of its history, with influences from indigenous peoples, Spanish colonizers, and other cultures. Mexico's festivals are a lively showcase of music, dance, and, of course, delicious food.",
     "traditionalDishes": [
         {
             "dishName": "Tacos",
             "dishNameInOwnLanguage": "Tacos",
             "dishImages": [
-                "\\img\\mexico\\tacos1.jpg",
-                "\\img\\mexico\\tacos2.jpg",
-                "\\img\\mexico\\tacos3.jpg"
+                "./img/mexico/tacos1.jpg",
+                "./img/mexico/tacos2.jpg",
+                "./img/mexico/tacos3.jpg"
             ],
             "dishIngredients": "Corn or wheat tortillas, Grilled or stewed meat (e.g., beef, pork, chicken), Salsa, Onions, Cilantro",
             "dishDescription": "Tacos are a quintessential Mexican street food, consisting of tortillas filled with various grilled or stewed meats, salsa, onions, and cilantro. They come in countless regional variations and are adored for their portability and flavor.",
@@ -20,9 +21,9 @@
             "dishName": "Guacamole",
             "dishNameInOwnLanguage": "Guacamole",
             "dishImages": [
-                "\\img\\mexico\\guacamole1.jpg",
-                "\\img\\mexico\\guacamole2.jpg",
-                "\\img\\mexico\\guacamole3.jpg"
+                "./img/mexico/guacamole1.jpg",
+                "./img/mexico/guacamole2.jpg",
+                "./img/mexico/guacamole3.jpg"
             ],
             "dishIngredients": "Avocado, Tomato, Onion, Cilantro, Lime juice, Chili peppers",
             "dishDescription": "Guacamole is a creamy dip made from mashed avocados mixed with tomatoes, onions, cilantro, lime juice, and chili peppers. It is a beloved Mexican appetizer, snack, or condiment.",
@@ -32,9 +33,9 @@
             "dishName": "Enchiladas",
             "dishNameInOwnLanguage": "Enchiladas",
             "dishImages": [
-                "\\img\\mexico\\enchiladas1.jpg",
-                "\\img\\mexico\\enchiladas2.jpg",
-                "\\img\\mexico\\enchiladas3.jpg"
+                "./img/mexico/enchiladas1.jpg",
+                "./img/mexico/enchiladas2.jpg",
+                "./img/mexico/enchiladas3.jpg"
             ],
             "dishIngredients": "Corn tortillas, Filling (chicken, cheese, beans, etc.), Enchilada sauce, Cheese, Sour cream",
             "dishDescription": "Enchiladas are corn tortillas filled with various ingredients like chicken, cheese, or beans, rolled, and topped with enchilada sauce, cheese, and sour cream before being baked to perfection.",
@@ -44,9 +45,9 @@
             "dishName": "Mole",
             "dishNameInOwnLanguage": "Mole",
             "dishImages": [
-                "\\img\\mexico\\mole1.jpg",
-                "\\img\\mexico\\mole2.jpg",
-                "\\img\\mexico\\mole3.jpg"
+                "./img/mexico/mole1.jpg",
+                "./img/mexico/mole2.jpg",
+                "./img/mexico/mole3.jpg"
             ],
             "dishIngredients": "Complex sauce (chocolate, chili peppers, spices, nuts), Meat (chicken, turkey, pork), Rice or tortillas",
             "dishDescription": "Mole is a complex and rich sauce made from ingredients like chocolate, chili peppers, spices, and nuts. It is typically served over meat, such as chicken or pork, and accompanied by rice or tortillas.",
@@ -56,9 +57,9 @@
             "dishName": "Chiles Rellenos",
             "dishNameInOwnLanguage": "Chiles Rellenos",
             "dishImages": [
-                "\\img\\mexico\\chiles_rellenos1.jpg",
-                "\\img\\mexico\\chiles_rellenos2.jpg",
-                "\\img\\mexico\\chiles_rellenos3.jpg"
+                "./img/mexico/chiles_rellenos1.jpg",
+                "./img/mexico/chiles_rellenos2.jpg",
+                "./img/mexico/chiles_rellenos3.jpg"
             ],
             "dishIngredients": "Large chili peppers, Cheese or meat filling, Egg batter, Tomato sauce, Rice",
             "dishDescription": "Chiles Rellenos are large chili peppers stuffed with cheese or meat, dipped in egg batter, fried until golden, and served with tomato sauce and rice.",
@@ -68,9 +69,9 @@
             "dishName": "Ceviche",
             "dishNameInOwnLanguage": "Ceviche",
             "dishImages": [
-                "\\img\\mexico\\ceviche1.jpg",
-                "\\img\\mexico\\ceviche2.jpg",
-                "\\img\\mexico\\ceviche3.jpg"
+                "./img/mexico/ceviche1.jpg",
+                "./img/mexico/ceviche2.jpg",
+                "./img/mexico/ceviche3.jpg"
             ],
             "dishIngredients": "Fresh seafood (shrimp, fish, or scallops), Lime or lemon juice, Onion, Tomato, Cilantro, Chili peppers",
             "dishDescription": "Ceviche is a refreshing seafood dish made by marinating fresh shrimp, fish, or scallops in lime or lemon juice, then mixed with onions, tomatoes, cilantro, and chili peppers.",
@@ -80,9 +81,9 @@
             "dishName": "Pozole",
             "dishNameInOwnLanguage": "Pozole",
             "dishImages": [
-                "\\img\\mexico\\pozole1.jpg",
-                "\\img\\mexico\\pozole2.jpg",
-                "\\img\\mexico\\pozole3.jpg"
+                "./img/mexico/pozole1.jpg",
+                "./img/mexico/pozole2.jpg",
+                "./img/mexico/pozole3.jpg"
             ],
             "dishIngredients": "Hominy corn, Pork or chicken, Broth, Lettuce, Radishes, Onion, Cilantro, Lime, Chili peppers",
             "dishDescription": "Pozole is a hearty soup made from hominy corn and pork or chicken, served with garnishes like lettuce, radishes, onions, cilantro, lime, and chili peppers.",
@@ -92,9 +93,9 @@
             "dishName": "Tamales",
             "dishNameInOwnLanguage": "Tamales",
             "dishImages": [
-                "\\img\\mexico\\tamales1.jpg",
-                "\\img\\mexico\\tamales2.jpg",
-                "\\img\\mexico\\tamales3.jpg"
+                "./img/mexico/tamales1.jpg",
+                "./img/mexico/tamales2.jpg",
+                "./img/mexico/tamales3.jpg"
             ],
             "dishIngredients": "Corn masa dough, Filling (meat, cheese, vegetables), Banana leaves or corn husks, Salsa",
             "dishDescription": "Tamales are corn masa dough filled with various ingredients like meat, cheese, or vegetables, wrapped in banana leaves or corn husks, and steamed to perfection.",
@@ -132,11 +133,11 @@
             "festivalName": "Día de la Candelaria",
             "festivalMonth": 2,
             "festivalDate": 2,
-            "festivalImage": "\\img\\mexico\\dia_de_la_candelaria.jpg",
+            "festivalImage": "./img/mexico/dia_de_la_candelaria.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Rosca de Reyes",
-                    "festivalDishImage": "\\img\\mexico\\rosca_de_reyes.jpg",
+                    "festivalDishImage": "./img/mexico/rosca_de_reyes.jpg",
                     "festivalDishDescription": "Rosca de Reyes is a sweet bread shaped like a ring, with a hidden figurine and small toys inside."
                 }
             ],
@@ -146,11 +147,11 @@
             "festivalName": "Semana Santa (Holy Week)",
             "festivalMonth": 4,
             "festivalDate": 1,
-            "festivalImage": "\\img\\mexico\\semana_santa.jpg",
+            "festivalImage": "./img/mexico/semana_santa.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Capirotada",
-                    "festivalDishImage": "\\img\\mexico\\capirotada.jpg",
+                    "festivalDishImage": "./img/mexico/capirotada.jpg",
                     "festivalDishDescription": "Capirotada is a traditional bread pudding dessert made with piloncillo (unrefined cane sugar) and a variety of toppings."
                 }
             ],
@@ -160,11 +161,11 @@
             "festivalName": "Cinco de Mayo",
             "festivalMonth": 5,
             "festivalDate": 5,
-            "festivalImage": "\\img\\mexico\\cinco_de_mayo.jpg",
+            "festivalImage": "./img/mexico/cinco_de_mayo.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Chiles en Nogada",
-                    "festivalDishImage": "\\img\\mexico\\chiles_en_nogada.jpg",
+                    "festivalDishImage": "./img/mexico/chiles_en_nogada.jpg",
                     "festivalDishDescription": "Chiles en Nogada, stuffed poblano peppers with walnut cream sauce, red pomegranate seeds, and parsley, are a patriotic dish for Cinco de Mayo."
                 }
             ],
@@ -174,11 +175,11 @@
             "festivalName": "Guelaguetza",
             "festivalMonth": 7,
             "festivalDate": 1,
-            "festivalImage": "\\img\\mexico\\guelaguetza.jpg",
+            "festivalImage": "./img/mexico/guelaguetza.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Tlayudas",
-                    "festivalDishImage": "\\img\\mexico\\tlayudas.jpg",
+                    "festivalDishImage": "./img/mexico/tlayudas.jpg",
                     "festivalDishDescription": "Tlayudas, large tortillas topped with beans, cheese, and other ingredients, are a popular dish during the Guelaguetza festival."
                 }
             ],
@@ -188,11 +189,11 @@
             "festivalName": "Independence Day (Grito de Dolores)",
             "festivalMonth": 9,
             "festivalDate": 16,
-            "festivalImage": "\\img\\mexico\\independence_day.jpg",
+            "festivalImage": "./img/mexico/independence_day.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Tacos de Carnitas",
-                    "festivalDishImage": "\\img\\mexico\\carnitas_tacos.jpg",
+                    "festivalDishImage": "./img/mexico/carnitas_tacos.jpg",
                     "festivalDishDescription": "Tacos de Carnitas, filled with crispy pork, are a popular choice for Independence Day celebrations."
                 }
             ],
@@ -202,11 +203,11 @@
             "festivalName": "Día de los Muertos (Day of the Dead)",
             "festivalMonth": 11,
             "festivalDate": 1,
-            "festivalImage": "\\img\\mexico\\day_of_the_dead.jpg",
+            "festivalImage": "./img/mexico/day_of_the_dead.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Pan de Muerto",
-                    "festivalDishImage": "\\img\\mexico\\pan_de_muerto.jpg",
+                    "festivalDishImage": "./img/mexico/pan_de_muerto.jpg",
                     "festivalDishDescription": "Pan de Muerto, or 'Bread of the Dead,' is a sweet, round bread often adorned with bone-shaped decorations."
                 }
             ],
@@ -216,11 +217,11 @@
             "festivalName": "Las Posadas",
             "festivalMonth": 12,
             "festivalDate": 16,
-            "festivalImage": "\\img\\mexico\\las_posadas.jpg",
+            "festivalImage": "./img/mexico/las_posadas.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Ponche",
-                    "festivalDishImage": "\\img\\mexico\\ponche.jpg",
+                    "festivalDishImage": "./img/mexico/ponche.jpg",
                     "festivalDishDescription": "Ponche is a warm fruit punch made with seasonal fruits, spices, and often includes tejocotes (Mexican hawthorns)."
                 }
             ],
@@ -230,11 +231,11 @@
             "festivalName": "Navidad (Christmas)",
             "festivalMonth": 12,
             "festivalDate": 25,
-            "festivalImage": "\\img\\mexico\\navidad.jpg",
+            "festivalImage": "./img/mexico/navidad.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Bacalao a la Vizcaína",
-                    "festivalDishImage": "\\img\\mexico\\bacalao_a_la_vizcaina.jpg",
+                    "festivalDishImage": "./img/mexico/bacalao_a_la_vizcaina.jpg",
                     "festivalDishDescription": "Bacalao a la Vizcaína is a Christmas dish featuring salted cod in a tomato and chili pepper sauce."
                 }
             ],

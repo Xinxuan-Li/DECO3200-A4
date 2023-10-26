@@ -5,21 +5,22 @@
 import { Component } from "react";
 
 class FestivalDishCard extends Component {
-	constructor(props, dish) {
+	constructor(props) {
 		super(props);
-		this.dish = dish;
 	}
 
 	render() {
 		return (
 			<div className="festival-dish-per-card-container">
 				<img
-					src={this.dish["feitivalDishImage"]}
+					src={this.props.dish.feitivalDishImage}
 					id="festival-dish-img"
 				/>
-				<p id="festival-dish-name">{this.dish["feitivalDishName"]}</p>
+				<p id="festival-dish-name">
+					{this.props.dish.feitivalDishName}
+				</p>
 				<p id="festival-dish-description">
-					{this.dish["feitivalDishDescription"]}
+					{this.props.dish.feitivalDishDescription}
 				</p>
 			</div>
 		);

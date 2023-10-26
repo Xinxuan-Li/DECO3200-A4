@@ -1,16 +1,17 @@
 {
     "countryName": "India",
-    "countryFlagImage": "\\img\\india\\flag.jpg",
-    "countryPatternImage": "\\img\\india\\pattern.jpg",
+    "name": "india",
+    "countryFlagImage": "./img/india/flag.jpg",
+    "countryPatternImage": "./img/india/pattern.jpg",
     "countryIntroduction": "India, located in South Asia, is a land of diverse cultures, rich history, and culinary traditions that span centuries. From the vibrant colors of Diwali to the serene practices of yoga, India offers a unique and captivating experience. Indian cuisine, including dishes like biryani, curry, and samosa, is celebrated worldwide for its flavors and spices. The culture is deeply rooted in traditions like dance, music, and festivals that reflect the country's unity in diversity.",
     "traditionalDishes": [
         {
             "dishName": "Biryani",
             "dishNameInOwnLanguage": "बिरयानी",
             "dishImages": [
-                "\\img\\india\\biryani1.jpg",
-                "\\img\\india\\biryani2.jpg",
-                "\\img\\india\\biryani3.jpg"
+                "./img/india/biryani1.jpg",
+                "./img/india/biryani2.jpg",
+                "./img/india/biryani3.jpg"
             ],
             "dishIngredients": "Basmati rice, Meat (chicken, mutton, or beef), Spices, Yogurt, Saffron, Fried onions",
             "dishDescription": "Biryani is a fragrant and flavorful Indian rice dish made with aromatic spices, tender meat, and long-grain Basmati rice. It is often garnished with saffron and fried onions.",
@@ -20,9 +21,9 @@
             "dishName": "Curry",
             "dishNameInOwnLanguage": "करी",
             "dishImages": [
-                "\\img\\india\\curry1.jpg",
-                "\\img\\india\\curry2.jpg",
-                "\\img\\india\\curry3.jpg"
+                "./img/india/curry1.jpg",
+                "./img/india/curry2.jpg",
+                "./img/india/curry3.jpg"
             ],
             "dishIngredients": "Meat or vegetables, Curry spices (turmeric, cumin, coriander, etc.), Tomato, Onion, Garlic, Ginger",
             "dishDescription": "Curry is a diverse range of dishes in Indian cuisine known for their rich, flavorful sauces. It can be made with meat, vegetables, or legumes and is typically served with rice or bread.",
@@ -32,9 +33,9 @@
             "dishName": "Samosa",
             "dishNameInOwnLanguage": "समोसा",
             "dishImages": [
-                "\\img\\india\\samosa1.jpg",
-                "\\img\\india\\samosa2.jpg",
-                "\\img\\india\\samosa3.jpg"
+                "./img/india/samosa1.jpg",
+                "./img/india/samosa2.jpg",
+                "./img/india/samosa3.jpg"
             ],
             "dishIngredients": "Triangular pastry, Potato, Peas, Spices (cumin, coriander, garam masala), Deep-fried",
             "dishDescription": "Samosa is a popular Indian snack consisting of a crispy, triangular pastry filled with a savory mixture of spiced potatoes, peas, and sometimes meat.",
@@ -44,9 +45,9 @@
             "dishName": "Masala Dosa",
             "dishNameInOwnLanguage": "मसाला दोसा",
             "dishImages": [
-                "\\img\\india\\masala_dosa1.jpg",
-                "\\img\\india\\masala_dosa2.jpg",
-                "\\img\\india\\masala_dosa3.jpg"
+                "./img/india/masala_dosa1.jpg",
+                "./img/india/masala_dosa2.jpg",
+                "./img/india/masala_dosa3.jpg"
             ],
             "dishIngredients": "Fermented rice and lentil crepe, Potato filling, Masala spices (mustard seeds, turmeric, curry leaves)",
             "dishDescription": "Masala Dosa is a South Indian specialty consisting of a thin, crispy crepe made from fermented rice and lentil batter, filled with a spiced potato mixture.",
@@ -56,9 +57,9 @@
             "dishName": "Chaat",
             "dishNameInOwnLanguage": "चाट",
             "dishImages": [
-                "\\img\\india\\chaat1.jpg",
-                "\\img\\india\\chaat2.jpg",
-                "\\img\\india\\chaat3.jpg"
+                "./img/india/chaat1.jpg",
+                "./img/india/chaat2.jpg",
+                "./img/india/chaat3.jpg"
             ],
             "dishIngredients": "Assorted snacks (potato, chickpeas, yogurt, spices), Tamarind chutney, Mint chutney",
             "dishDescription": "Chaat is a popular Indian street food that combines a variety of crispy snacks, boiled potatoes, and chickpeas, all drizzled with tangy tamarind and mint chutney.",
@@ -68,9 +69,9 @@
             "dishName": "Paneer Tikka",
             "dishNameInOwnLanguage": "पनीर टिक्का",
             "dishImages": [
-                "\\img\\india\\paneer_tikka1.jpg",
-                "\\img\\india\\paneer_tikka2.jpg",
-                "\\img\\india\\paneer_tikka3.jpg"
+                "./img/india/paneer_tikka1.jpg",
+                "./img/india/paneer_tikka2.jpg",
+                "./img/india/paneer_tikka3.jpg"
             ],
             "dishIngredients": "Marinated and grilled paneer (Indian cottage cheese), Bell peppers, Onions, Yogurt, Spices",
             "dishDescription": "Paneer Tikka is a popular vegetarian appetizer in Indian cuisine. It features marinated and grilled pieces of paneer cheese, bell peppers, and onions.",
@@ -80,9 +81,9 @@
             "dishName": "Dosa",
             "dishNameInOwnLanguage": "दोसा",
             "dishImages": [
-                "\\img\\india\\dosa1.jpg",
-                "\\img\\india\\dosa2.jpg",
-                "\\img\\india\\dosa3.jpg"
+                "./img/india/dosa1.jpg",
+                "./img/india/dosa2.jpg",
+                "./img/india/dosa3.jpg"
             ],
             "dishIngredients": "Thin, fermented rice and lentil crepe",
             "dishDescription": "Dosa is a thin, crispy crepe made from fermented rice and lentil batter. It is often served with coconut chutney and various fillings.",
@@ -92,9 +93,9 @@
             "dishName": "Rogan Josh",
             "dishNameInOwnLanguage": "रोगन जोश",
             "dishImages": [
-                "\\img\\india\\rogan_josh1.jpg",
-                "\\img\\india\\rogan_josh2.jpg",
-                "\\img\\india\\rogan_josh3.jpg"
+                "./img/india/rogan_josh1.jpg",
+                "./img/india/rogan_josh2.jpg",
+                "./img/india/rogan_josh3.jpg"
             ],
             "dishIngredients": "Slow-cooked curry with tender meat (usually lamb or goat), Kashmiri spices, Yogurt, Tomatoes",
             "dishDescription": "Rogan Josh is a flavorful Indian curry known for its tender, slow-cooked meat and aromatic blend of Kashmiri spices.",
@@ -104,9 +105,9 @@
             "dishName": "Jalebi",
             "dishNameInOwnLanguage": "जलेबी",
             "dishImages": [
-                "\\img\\india\\jalebi1.jpg",
-                "\\img\\india\\jalebi2.jpg",
-                "\\img\\india\\jalebi3.jpg"
+                "./img/india/jalebi1.jpg",
+                "./img/india/jalebi2.jpg",
+                "./img/india/jalebi3.jpg"
             ],
             "dishIngredients": "Deep-fried sweet pretzel-shaped dessert, Sugar syrup, Saffron strands",
             "dishDescription": "Jalebi is a popular Indian dessert made by deep-frying pretzel-shaped batter and soaking it in sugar syrup, imparting a sweet and syrupy flavor.",
@@ -116,9 +117,9 @@
             "dishName": "Chole Bhature",
             "dishNameInOwnLanguage": "छोले भटूरे",
             "dishImages": [
-                "\\img\\india\\chole_bhature1.jpg",
-                "\\img\\india\\chole_bhature2.jpg",
-                "\\img\\india\\chole_bhature3.jpg"
+                "./img/india/chole_bhature1.jpg",
+                "./img/india/chole_bhature2.jpg",
+                "./img/india/chole_bhature3.jpg"
             ],
             "dishIngredients": "Spicy chickpea curry (chole), Deep-fried bread (bhature)",
             "dishDescription": "Chole Bhature is a popular North Indian dish that combines spicy chickpea curry with deep-fried bread, creating a delightful and filling meal.",
@@ -162,11 +163,11 @@
             "festivalName": "Pongal",
             "festivalMonth": 1,
             "festivalDate": 14,
-            "festivalImage": "\\img\\india\\pongal.jpg",
+            "festivalImage": "./img/india/pongal.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Pongal",
-                    "festivalDishImage": "\\img\\india\\pongal_dish.jpg",
+                    "festivalDishImage": "./img/india/pongal_dish.jpg",
                     "festivalDishDescription": "Pongal is a dish made from newly harvested rice and lentils, cooked with spices and ghee. It is the namesake of the festival."
                 }
             ],
@@ -176,11 +177,11 @@
             "festivalName": "Holi",
             "festivalMonth": 3,
             "festivalDate": 10,
-            "festivalImage": "\\img\\india\\holi.jpg",
+            "festivalImage": "./img/india/holi.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Gujiya",
-                    "festivalDishImage": "\\img\\india\\gujiya.jpg",
+                    "festivalDishImage": "./img/india/gujiya.jpg",
                     "festivalDishDescription": "Gujiya is a sweet dumpling filled with a mixture of khoya (milk solids) and dry fruits. It is a popular Holi treat."
                 }
             ],
@@ -190,11 +191,11 @@
             "festivalName": "Eid al-Fitr",
             "festivalMonth": 9,
             "festivalDate": 1,
-            "festivalImage": "\\img\\india\\eid_al_fitr.jpg",
+            "festivalImage": "./img/india/eid_al_fitr.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Biryani",
-                    "festivalDishImage": "\\img\\india\\biryani_eid.jpg",
+                    "festivalDishImage": "./img/india/biryani_eid.jpg",
                     "festivalDishDescription": "Biryani, a fragrant rice dish with meat or vegetables, is a popular choice for the Eid al-Fitr feast."
                 }
             ],
@@ -204,11 +205,11 @@
             "festivalName": "Navratri",
             "festivalMonth": 10,
             "festivalDate": 1,
-            "festivalImage": "\\img\\india\\navratri.jpg",
+            "festivalImage": "./img/india/navratri.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Kaju Katli",
-                    "festivalDishImage": "\\img\\india\\kaju_katli.jpg",
+                    "festivalDishImage": "./img/india/kaju_katli.jpg",
                     "festivalDishDescription": "Kaju Katli is a popular Indian sweet made from cashew nuts and sugar. It's often prepared and shared during Navratri."
                 }
             ],
@@ -218,11 +219,11 @@
             "festivalName": "Diwali",
             "festivalMonth": 11,
             "festivalDate": 15,
-            "festivalImage": "\\img\\india\\diwali.jpg",
+            "festivalImage": "./img/india/diwali.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Mithai",
-                    "festivalDishImage": "\\img\\india\\mithai.jpg",
+                    "festivalDishImage": "./img/india/mithai.jpg",
                     "festivalDishDescription": "Mithai refers to a variety of Indian sweets, often made with ingredients like milk, ghee, and sugar. They are exchanged and savored during Diwali."
                 }
             ],

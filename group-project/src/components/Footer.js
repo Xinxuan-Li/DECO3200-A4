@@ -12,6 +12,7 @@ class Footer extends Component {
 					<div className="arrow-icon-left"></div>
 					<img
 						src="https://via.placeholder.com/72x72"
+						alt="imagehere"
 						className="back-to-map-img"
 					/>
 					<div className="back-to-map-text">Back to World Map</div>
@@ -20,6 +21,7 @@ class Footer extends Component {
 					<div className="arrow-icon-right"></div>
 					<img
 						src="https://via.placeholder.com/72x72"
+						alt="imagehere"
 						className="explore-next-img"
 					/>
 					<div className="explore-next-text">

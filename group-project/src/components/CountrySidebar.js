@@ -5,6 +5,10 @@
 import { Component } from "react";
 
 class CountrySidebar extends Component {
+	constructor(props) {
+		super(props);
+	}
+
 	render() {
 		return (
 			<section className="sideBar">
