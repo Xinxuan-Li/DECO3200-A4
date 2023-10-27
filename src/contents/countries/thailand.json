@@ -1,0 +1,185 @@
+{
+    "countryName": "Thailand",
+    "name": "thailand",
+    "countryFlagImage": "./img/thailand/flag.jpg",
+    "countryPatternImage": "./img/thailand/pattern.jpg",
+    "countryIntroduction": "Thailand, located in Southeast Asia, is renowned for its vibrant culture, stunning landscapes, and delectable cuisine. From the bustling street markets of Bangkok to the tranquil beaches of Phuket, Thailand offers a diverse and captivating experience. Thai cuisine, including dishes like Pad Thai, Tom Yum, and Green Curry, has gained global popularity. Thai culture is deeply rooted in traditions like Thai dance, Buddhism, and colorful festivals celebrating the nation's rich heritage.",
+    "traditionalDishes": [
+        {
+            "dishName": "Pad Thai",
+            "dishNameInOwnLanguage": "ผัดไทย",
+            "dishImages": [
+                "./img/thailand/pad_thai1.jpg",
+                "./img/thailand/pad_thai2.jpg",
+                "./img/thailand/pad_thai3.jpg"
+            ],
+            "dishIngredients": "Rice noodles, Shrimp or tofu, Bean sprouts, Peanuts, Eggs, Tamarind sauce",
+            "dishDescription": "Pad Thai is a beloved Thai stir-fried noodle dish known for its sweet and savory flavors. It typically includes rice noodles stir-fried with shrimp or tofu, bean sprouts, peanuts, eggs, and a tangy tamarind sauce.",
+            "dishStory": "Pad Thai is a relatively modern addition to Thai cuisine, with its origins dating back to the 20th century. It was created as part of a national campaign to promote Thai identity and culture. Today, it is a staple street food enjoyed by people all over the world."
+        },
+        {
+            "dishName": "Tom Yum",
+            "dishNameInOwnLanguage": "ต้มยำ",
+            "dishImages": [
+                "./img/thailand/tom_yum1.jpg",
+                "./img/thailand/tom_yum2.jpg",
+                "./img/thailand/tom_yum3.jpg"
+            ],
+            "dishIngredients": "Hot and sour soup, Shrimp or chicken, Lemongrass, Lime leaves, Galangal, Chili peppers",
+            "dishDescription": "Tom Yum is a famous Thai hot and sour soup known for its bold and spicy flavors. It features a combination of shrimp or chicken, lemongrass, lime leaves, galangal, and chili peppers.",
+            "dishStory": "Tom Yum is a quintessential Thai soup that perfectly balances the four fundamental tastes: sour, spicy, salty, and sweet. It has a rich history and is cherished for its refreshing and invigorating qualities."
+        },
+        {
+            "dishName": "Green Curry",
+            "dishNameInOwnLanguage": "แกงเขียวหวาน",
+            "dishImages": [
+                "./img/thailand/green_curry1.jpg",
+                "./img/thailand/green_curry2.jpg",
+                "./img/thailand/green_curry3.jpg"
+            ],
+            "dishIngredients": "Green curry paste, Coconut milk, Chicken or tofu, Thai eggplant, Basil leaves",
+            "dishDescription": "Green Curry, or 'Gaeng Keow Wan,' is a popular Thai curry known for its vibrant green color and creamy coconut milk base. It typically contains chicken or tofu, Thai eggplant, and basil leaves.",
+            "dishStory": "Green Curry is a classic Thai dish with roots in Central Thailand. It is celebrated for its lush green hue and harmonious blend of flavors. The dish showcases the Thai culinary tradition of balancing spices and herbs."
+        },
+        {
+            "dishName": "Som Tum",
+            "dishNameInOwnLanguage": "ส้มตำ",
+            "dishImages": [
+                "./img/thailand/som_tum1.jpg",
+                "./img/thailand/som_tum2.jpg",
+                "./img/thailand/som_tum3.jpg"
+            ],
+            "dishIngredients": "Green papaya, Chili peppers, Fish sauce, Lime juice, Peanuts",
+            "dishDescription": "Som Tum, or Thai Green Papaya Salad, is a zesty and spicy salad made with shredded green papaya, chili peppers, fish sauce, lime juice, and peanuts.",
+            "dishStory": "Som Tum is a refreshing Thai salad with origins in Northeastern Thailand. Its bold flavors and crunchy texture make it a favorite among locals and visitors alike, especially on hot summer days."
+        },
+        {
+            "dishName": "Massaman Curry",
+            "dishNameInOwnLanguage": "มัสมั่น",
+            "dishImages": [
+                "./img/thailand/massaman_curry1.jpg",
+                "./img/thailand/massaman_curry2.jpg",
+                "./img/thailand/massaman_curry3.jpg"
+            ],
+            "dishIngredients": "Massaman curry paste, Coconut milk, Beef or chicken, Potatoes, Peanuts",
+            "dishDescription": "Massaman Curry is a rich and aromatic Thai curry known for its complex flavors. It typically includes beef or chicken, potatoes, and roasted peanuts in a creamy coconut milk sauce.",
+            "dishStory": "Massaman Curry has roots in Muslim and Persian cuisine and is celebrated for its blend of spices like cinnamon, cardamom, and cloves. It offers a delightful fusion of flavors and cultures."
+        },
+        {
+            "dishName": "Mango Sticky Rice",
+            "dishNameInOwnLanguage": "ข้าวเหนียวมะม่วง",
+            "dishImages": [
+                "./img/thailand/mango_sticky_rice1.jpg",
+                "./img/thailand/mango_sticky_rice2.jpg",
+                "./img/thailand/mango_sticky_rice3.jpg"
+            ],
+            "dishIngredients": "Glutinous rice, Fresh mango, Coconut milk, Palm sugar",
+            "dishDescription": "Mango Sticky Rice, or 'Khao Niew Mamuang,' is a beloved Thai dessert featuring sweet glutinous rice topped with fresh mango slices and drizzled with coconut milk and palm sugar.",
+            "dishStory": "Mango Sticky Rice is a delightful Thai dessert that captures the essence of tropical flavors. It is often enjoyed during the mango season and is a perfect balance of sweet and creamy."
+        }
+    ],
+    "eatingHabits": [
+        {
+            "eatingHabitName": "Street Food Culture",
+            "eatingHabitDescription": "Vibrant Street Food Stalls",
+            "eatingHabitReason": "Thailand is famous for its bustling street food culture, offering a wide variety of delicious and affordable dishes. It's a popular choice for both locals and tourists."
+        },
+        {
+            "eatingHabitName": "Family-style Dining",
+            "eatingHabitDescription": "Shared Meals with Loved Ones",
+            "eatingHabitReason": "Thai culture places a strong emphasis on family bonds and togetherness. Sharing meals with family members is a cherished tradition."
+        },
+        {
+            "eatingHabitName": "Spicy Food Preference",
+            "eatingHabitDescription": "Love for Spicy Flavors",
+            "eatingHabitReason": "Thai cuisine is renowned for its spicy dishes. Many Thais have a high tolerance for chili heat and enjoy the bold and fiery flavors."
+        },
+        {
+            "eatingHabitName": "Use of Chopsticks and Spoons",
+            "eatingHabitDescription": "Chopsticks for Noodles, Spoons for Soups",
+            "eatingHabitReason": "Chopsticks and spoons are the primary utensils in Thai dining. Chopsticks are commonly used for noodle dishes, while spoons are used for soups and curries."
+        },
+        {
+            "eatingHabitName": "Offering and Receiving Food",
+            "eatingHabitDescription": "Respectful Gestures While Dining",
+            "eatingHabitReason": "Thai culture places importance on respectful gestures when offering or receiving food. It reflects politeness and gratitude."
+        },
+        {
+            "eatingHabitName": "Tropical Fruit Snacking",
+            "eatingHabitDescription": "Enjoying Fresh Fruits",
+            "eatingHabitReason": "Thailand's tropical climate allows for the cultivation of a wide variety of delicious fruits. Fresh fruits like mangoes, pineapples, and dragon fruit are commonly enjoyed as snacks."
+        }
+    ],
+    "festivals": [
+        {
+            "festivalName": "Bo Sang Umbrella Festival",
+            "festivalMonth": 1,
+            "festivalDate": 19,
+            "festivalImage": "./img/thailand/bo_sang_umbrella.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Pad See Ew",
+                    "festivalDishImage": "./img/thailand/pad_see_ew.jpg",
+                    "festivalDishDescription": "Pad See Ew is a popular Thai stir-fried noodle dish featuring wide rice noodles, vegetables, and your choice of protein in a flavorful sauce."
+                }
+            ],
+            "festivalDescription": "The Bo Sang Umbrella Festival in Chiang Mai celebrates the art of umbrella making. Colorful hand-painted umbrellas adorn the streets, and visitors can enjoy local treats like Pad See Ew while exploring the vibrant market stalls."
+        },
+        {
+            "festivalName": "Songkran",
+            "festivalMonth": 4,
+            "festivalDate": 13,
+            "festivalImage": "./img/thailand/songkran.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Khao Chae",
+                    "festivalDishImage": "./img/thailand/khao_chae.jpg",
+                    "festivalDishDescription": "Khao Chae is a traditional Thai dish of rice soaked in jasmine-scented water, served with a variety of side dishes."
+                }
+            ],
+            "festivalDescription": "Songkran is the Thai New Year festival, known for its water splashing festivities. It marks the beginning of the hot season in Thailand. Families celebrate by visiting temples, paying respects to elders, and enjoying traditional dishes like Khao Chae."
+        },
+        {
+            "festivalName": "Phi Ta Khon (Ghost Festival)",
+            "festivalMonth": 6,
+            "festivalDate": 1,
+            "festivalImage": "./img/thailand/phi_ta_khon.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Kanom Jeen Nam Ngeow",
+                    "festivalDishImage": "./img/thailand/kanom_jeen_nam_ngeow.jpg",
+                    "festivalDishDescription": "Kanom Jeen Nam Ngeow is a Northern Thai dish of rice noodles served with a flavorful broth made from pork and tomatoes."
+                }
+            ],
+            "festivalDescription": "Phi Ta Khon, also known as the Ghost Festival, is celebrated in the Dan Sai district of Thailand. It features vibrant masks, colorful costumes, and a playful parade. Festival-goers enjoy traditional dishes like Kanom Jeen Nam Ngeow."
+        },
+        {
+            "festivalName": "Loi Krathong",
+            "festivalMonth": 11,
+            "festivalDate": 15,
+            "festivalImage": "./img/thailand/loi_krathong.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Khanom Tom",
+                    "festivalDishImage": "./img/thailand/khanom_tom.jpg",
+                    "festivalDishDescription": "Khanom Tom is a Thai dessert made from glutinous rice flour filled with sweet coconut and sugar, often wrapped in banana leaves."
+                }
+            ],
+            "festivalDescription": "Loi Krathong, the Festival of Lights, is a beautiful Thai tradition where people release decorated floats made of banana leaves, flowers, and candles into rivers and waterways. It is a time for reflection and making wishes while enjoying treats like Khanom Tom."
+        },
+        {
+            "festivalName": "Yi Peng Lantern Festival",
+            "festivalMonth": 11,
+            "festivalDate": 15,
+            "festivalImage": "./img/thailand/yi_peng_lantern.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Khao Soi",
+                    "festivalDishImage": "./img/thailand/khao_soi.jpg",
+                    "festivalDishDescription": "Khao Soi is a Northern Thai dish featuring egg noodles in a rich and aromatic coconut curry broth, often garnished with crispy noodles."
+                }
+            ],
+            "festivalDescription": "The Yi Peng Lantern Festival is a magical event celebrated in Northern Thailand. Thousands of paper lanterns are released into the night sky, creating a breathtaking spectacle. Festival-goers savor traditional dishes like Khao Soi during this enchanting festival."
+        }
+    ]
+}

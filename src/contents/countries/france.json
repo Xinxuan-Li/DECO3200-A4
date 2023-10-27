@@ -1,0 +1,263 @@
+{
+    "countryName": "France",
+    "name": "france",
+    "countryFlagImage": "./img/france/flag.jpg",
+    "countryPatternImage": "./img/france/pattern.jpg",
+    "countryIntroduction": "France, located in Western Europe, is renowned for its rich history, art, fashion, and world-class cuisine. From the romantic streets of Paris to the picturesque vineyards of Bordeaux, France offers a diverse and culturally rich experience. French cuisine, including iconic dishes like croissants, escargot, and coq au vin, has a global reputation for its culinary excellence. The country is also famous for its wine and cheese, making it a haven for food and wine enthusiasts. France's art, architecture, and literature have had a profound impact on the world and continue to inspire creativity and innovation.",
+    "traditionalDishes": [
+        {
+            "dishName": "Croissant",
+            "dishNameInOwnLanguage": "Croissant",
+            "dishImages": [
+                "./img/france/croissant1.jpg",
+                "./img/france/croissant2.jpg",
+                "./img/france/croissant3.jpg"
+            ],
+            "dishIngredients": "Flour, Butter, Yeast, Milk, Sugar, Salt",
+            "dishDescription": "The croissant is a buttery, flaky pastry that is a breakfast staple in France. It is known for its crescent shape and delicious, light texture.",
+            "dishStory": "The croissant's origins are believed to be in Austria, but it was perfected in France. It became popular in the 19th century and has since become an iconic symbol of French bakery culture. The French take their croissants seriously, valuing the perfect balance of crispiness and tenderness."
+        },
+        {
+            "dishName": "Escargot",
+            "dishNameInOwnLanguage": "Escargot",
+            "dishImages": [
+                "./img/france/escargot1.jpg",
+                "./img/france/escargot2.jpg",
+                "./img/france/escargot3.jpg"
+            ],
+            "dishIngredients": "Helix Snails, Garlic, Butter, Parsley",
+            "dishDescription": "Escargot is a classic French appetizer that consists of land snails cooked in garlic and herb-infused butter. It is often served in special escargot dishes.",
+            "dishStory": "Escargot has been consumed in France since Roman times. It became a delicacy associated with French cuisine in the 19th century. The rich, buttery sauce complements the tender snail meat, creating a unique and indulgent dish."
+        },
+        {
+            "dishName": "Coq au Vin",
+            "dishNameInOwnLanguage": "Coq au Vin",
+            "dishImages": [
+                "./img/france/coq_au_vin1.jpg",
+                "./img/france/coq_au_vin2.jpg",
+                "./img/france/coq_au_vin3.jpg"
+            ],
+            "dishIngredients": "Chicken, Red Wine, Bacon, Mushrooms, Onions",
+            "dishDescription": "Coq au Vin is a classic French dish made with chicken cooked in red wine, bacon, mushrooms, and onions. It is a hearty and flavorful stew.",
+            "dishStory": "Coq au Vin has rural origins in France and was traditionally prepared with a rooster, which required slow cooking in wine to tenderize. Today, it is often made with chicken and remains a beloved dish that embodies French comfort food."
+        },
+        {
+            "dishName": "Ratatouille",
+            "dishNameInOwnLanguage": "Ratatouille",
+            "dishImages": [
+                "./img/france/ratatouille1.jpg",
+                "./img/france/ratatouille2.jpg",
+                "./img/france/ratatouille3.jpg"
+            ],
+            "dishIngredients": "Tomatoes, Eggplant, Zucchini, Bell Peppers, Garlic, Herbs",
+            "dishDescription": "Ratatouille is a Provencal vegetable stew made with a medley of tomatoes, eggplant, zucchini, bell peppers, and aromatic herbs.",
+            "dishStory": "Ratatouille is a celebration of the flavors of the Mediterranean region. It is a versatile dish that can be served as a side, over pasta, or as a main course. It gained worldwide fame with the release of the animated film 'Ratatouille.'"
+        },
+        {
+            "dishName": "Cassoulet",
+            "dishNameInOwnLanguage": "Cassoulet",
+            "dishImages": [
+                "./img/france/cassoulet1.jpg",
+                "./img/france/cassoulet2.jpg",
+                "./img/france/cassoulet3.jpg"
+            ],
+            "dishIngredients": "White Beans, Pork (Sausage, Confit), Duck or Goose, Tomatoes",
+            "dishDescription": "Cassoulet is a hearty French casserole made with white beans, various cuts of pork, and often duck or goose confit. It is slow-cooked for rich flavors.",
+            "dishStory": "Cassoulet originates from the region of Occitanie in Southern France. It is a rustic dish known for its comforting and robust flavors. The preparation can vary from one region to another, but it always involves slow cooking and a rich, savory broth."
+        },
+        {
+            "dishName": "Quiche Lorraine",
+            "dishNameInOwnLanguage": "Quiche Lorraine",
+            "dishImages": [
+                "./img/france/quiche_lorraine1.jpg",
+                "./img/france/quiche_lorraine2.jpg",
+                "./img/france/quiche_lorraine3.jpg"
+            ],
+            "dishIngredients": "Pie Crust, Eggs, Cream, Bacon or Lardons, Cheese, Onions",
+            "dishDescription": "Quiche Lorraine is a savory pie that features a creamy filling made with eggs, cream, bacon or lardons, cheese, and onions.",
+            "dishStory": "Quiche Lorraine hails from the Lorraine region in northeastern France. It has become a popular dish worldwide and is often enjoyed as a brunch or lunch item. The combination of creamy filling and flaky pastry is simply irresistible."
+        },
+        {
+            "dishName": "Bouillabaisse",
+            "dishNameInOwnLanguage": "Bouillabaisse",
+            "dishImages": [
+                "./img/france/bouillabaisse1.jpg",
+                "./img/france/bouillabaisse2.jpg",
+                "./img/france/bouillabaisse3.jpg"
+            ],
+            "dishIngredients": "Assorted Fish and Seafood, Tomatoes, Aromatic Herbs, Spices",
+            "dishDescription": "Bouillabaisse is a flavorful Mediterranean fish stew that includes a variety of fish and seafood, tomatoes, and fragrant herbs and spices.",
+            "dishStory": "Bouillabaisse is a specialty of the port city of Marseille in southern France. It is a beloved dish that captures the essence of coastal living, with an array of seafood and bold flavors. Served with crusty bread and a garlicky rouille sauce, it's a seafood lover's delight."
+        },
+        {
+            "dishName": "Macarons",
+            "dishNameInOwnLanguage": "Macarons",
+            "dishImages": [
+                "./img/france/macarons1.jpg",
+                "./img/france/macarons2.jpg",
+                "./img/france/macarons3.jpg"
+            ],
+            "dishIngredients": "Almond Flour, Egg Whites, Sugar, Filling (e.g., Ganache, Jam)",
+            "dishDescription": "Macarons are delicate, colorful almond meringue cookies sandwiched together with various fillings, such as ganache or jam.",
+            "dishStory": "Macarons are a beloved French confection known for their vibrant colors and exquisite flavors. They have gained worldwide popularity and are often considered a symbol of French patisserie. Each bite-sized macaron is a work of art."
+        },
+        {
+            "dishName": "Tarte Tatin",
+            "dishNameInOwnLanguage": "Tarte Tatin",
+            "dishImages": [
+                "./img/france/tarte_tatin1.jpg",
+                "./img/france/tarte_tatin2.jpg",
+                "./img/france/tarte_tatin3.jpg"
+            ],
+            "dishIngredients": "Caramelized Apples, Pastry Dough",
+            "dishDescription": "Tarte Tatin is an upside-down caramelized apple tart that features tender apples and flaky pastry. It is typically served with a scoop of vanilla ice cream.",
+            "dishStory": "Tarte Tatin originated in the Loir-et-Cher region of France and was created by accident when a dessert was flipped upside down during cooking. It has since become a cherished dessert, showcasing the magic of caramelized apples."
+        }
+    ],
+    "eatingHabits": [
+        {
+            "eatingHabitName": "Boulangeries and Patisseries",
+            "eatingHabitDescription": "Frequent Visits to Bakeries and Pastry Shops",
+            "eatingHabitReason": "Boulangeries and patisseries are integral to French daily life, offering freshly baked bread, pastries, and desserts. They provide a taste of tradition and quality."
+        },
+        {
+            "eatingHabitName": "Wine and Cheese Pairing",
+            "eatingHabitDescription": "Pairing Wine with Regional Cheeses",
+            "eatingHabitReason": "France is celebrated for its wine and cheese. Pairing these two delicacies is a culinary art, and the country offers a wide variety of options for both."
+        },
+        {
+            "eatingHabitName": "Café Culture",
+            "eatingHabitDescription": "Enjoying Coffee and People-Watching",
+            "eatingHabitReason": "Cafés are gathering places where people sip coffee or espresso, read newspapers, and engage in leisurely conversations. Café culture is a cherished part of French social life."
+        },
+        {
+            "eatingHabitName": "Haute Cuisine",
+            "eatingHabitDescription": "Fine Dining with Elaborate Courses",
+            "eatingHabitReason": "France is known for haute cuisine, which involves meticulously prepared dishes with artistic presentation. It's an opportunity to savor the pinnacle of culinary craftsmanship."
+        },
+        {
+            "eatingHabitName": "Market Shopping",
+            "eatingHabitDescription": "Purchasing Fresh Ingredients at Markets",
+            "eatingHabitReason": "Local markets offer a wide array of fresh produce, meats, cheeses, and more. Shopping at markets is a way to connect with local culture and source the best ingredients."
+        },
+        {
+            "eatingHabitName": "Aperitif",
+            "eatingHabitDescription": "Pre-Dinner Drinks and Appetizers",
+            "eatingHabitReason": "The aperitif is a cherished tradition in France, where people gather for drinks and light snacks before dinner. It's a time for relaxation and socializing."
+        }
+    ],
+    "festivals": [
+        {
+            "festivalName": "Galette des Rois",
+            "festivalMonth": 1,
+            "festivalDate": 6,
+            "festivalImage": "./img/france/galette_des_rois.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Galette des Rois",
+                    "festivalDishImage": "./img/france/galette_des_rois.jpg",
+                    "festivalDishDescription": "Galette des Rois is a puff pastry cake with a hidden trinket. The person who finds it becomes the 'king' or 'queen' and wears a crown."
+                }
+            ],
+            "festivalDescription": "Galette des Rois, or 'King Cake,' is a beloved French tradition celebrated on Epiphany. It involves sharing a puff pastry cake with a hidden trinket, and the person who finds it is crowned as the 'king' or 'queen' for the day."
+        },
+        {
+            "festivalName": "Mardi Gras",
+            "festivalMonth": 2,
+            "festivalDate": 28,
+            "festivalImage": "./img/france/mardi_gras.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "King Cake",
+                    "festivalDishImage": "./img/france/king_cake.jpg",
+                    "festivalDishDescription": "King Cake is a traditional dessert with a hidden trinket or figurine inside. The person who finds it becomes the 'king' for the day."
+                }
+            ],
+            "festivalDescription": "Mardi Gras, known as 'Fat Tuesday,' is celebrated with parades, costumes, and indulgent foods before the start of Lent. In some regions of France, it involves the tradition of the King Cake, where a hidden figurine determines the 'king' of the day."
+        },
+        {
+            "festivalName": "Cannes Film Festival",
+            "festivalMonth": 5,
+            "festivalDate": 11,
+            "festivalImage": "./img/france/cannes_film_festival.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Cannes Film Festival Reception",
+                    "festivalDishImage": "./img/france/cannes_film_festival_reception.jpg",
+                    "festivalDishDescription": "The Cannes Film Festival features glamorous receptions with French cuisine and fine wines."
+                }
+            ],
+            "festivalDescription": "The Cannes Film Festival is one of the most prestigious film festivals in the world. It includes glamorous receptions with French cuisine and fine wines, making it a celebration of both cinema and culinary excellence."
+        },
+        {
+            "festivalName": "Fête de la Musique",
+            "festivalMonth": 6,
+            "festivalDate": 21,
+            "festivalImage": "./img/france/fete_de_la_musique.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Street Food",
+                    "festivalDishImage": "./img/france/street_food.jpg",
+                    "festivalDishDescription": "Fête de la Musique features street food stalls offering a variety of French and international cuisines."
+                }
+            ],
+            "festivalDescription": "Fête de la Musique, also known as World Music Day, is a celebration of music with live performances throughout the country. It's a joyful occasion where street food stalls offer a diverse range of culinary delights."
+        },
+        {
+            "festivalName": "Lavender Festival",
+            "festivalMonth": 7,
+            "festivalDate": 1,
+            "festivalImage": "./img/france/lavender_festival.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Lavender Honey",
+                    "festivalDishImage": "./img/france/lavender_honey.jpg",
+                    "festivalDishDescription": "Lavender honey, infused with the fragrance of Provence's lavender fields, is a popular product during the festival."
+                }
+            ],
+            "festivalDescription": "The Lavender Festival in Provence celebrates the blooming lavender fields with vibrant parades and events. Lavender products, including lavender honey, are a highlight of this aromatic festival."
+        },
+        {
+            "festivalName": "Tour de France",
+            "festivalMonth": 7,
+            "festivalDate": 1,
+            "festivalImage": "./img/france/tour_de_france.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Tour de France Picnic",
+                    "festivalDishImage": "./img/france/tour_de_france_picnic.jpg",
+                    "festivalDishDescription": "Spectators along the Tour de France route enjoy picnics with French wine, cheese, and baguettes."
+                }
+            ],
+            "festivalDescription": "The Tour de France is an iconic cycling race that traverses the country. Spectators gather along the route to enjoy picnics with French wine, cheese, and baguettes while cheering on the cyclists."
+        },
+        {
+            "festivalName": "Bastille Day",
+            "festivalMonth": 7,
+            "festivalDate": 14,
+            "festivalImage": "./img/france/bastille_day.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Bastille Day Picnic",
+                    "festivalDishImage": "./img/france/bastille_day_picnic.jpg",
+                    "festivalDishDescription": "Bastille Day is celebrated with picnics featuring French cheeses, baguettes, pâté, and wine."
+                }
+            ],
+            "festivalDescription": "Bastille Day, also known as French National Day, commemorates the storming of the Bastille prison in 1789, a key event in the French Revolution. The day is marked by parades, fireworks, and picnics featuring French delicacies."
+        },
+        {
+            "festivalName": "Beaujolais Nouveau Day",
+            "festivalMonth": 11,
+            "festivalDate": 3,
+            "festivalImage": "./img/france/beaujolais_nouveau_day.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Beaujolais Nouveau",
+                    "festivalDishImage": "./img/france/beaujolais_nouveau.jpg",
+                    "festivalDishDescription": "Beaujolais Nouveau is a young red wine released on this day, often enjoyed with simple French dishes."
+                }
+            ],
+            "festivalDescription": "Beaujolais Nouveau Day celebrates the release of the new vintage of Beaujolais Nouveau wine. It is marked by festivities, wine tastings, and the enjoyment of this young and fruity wine."
+        }
+    ]
+}
