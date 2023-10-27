@@ -1,0 +1,252 @@
+{
+    "countryName": "Mexico",
+    "name": "mexico",
+    "countryFlagImage": "./img/mexico/flag.jpg",
+    "countryPatternImage": "./img/mexico/pattern.jpg",
+    "countryIntroduction": "Mexico, located in North America, is renowned for its vibrant and diverse culinary traditions, rich cultural heritage, and colorful festivals. Mexican cuisine is celebrated worldwide for its bold flavors, including the use of chili peppers, corn, beans, and a wide variety of spices. The country's cuisine is a reflection of its history, with influences from indigenous peoples, Spanish colonizers, and other cultures. Mexico's festivals are a lively showcase of music, dance, and, of course, delicious food.",
+    "traditionalDishes": [
+        {
+            "dishName": "Tacos",
+            "dishNameInOwnLanguage": "Tacos",
+            "dishImages": [
+                "./img/mexico/tacos1.jpg",
+                "./img/mexico/tacos2.jpg",
+                "./img/mexico/tacos3.jpg"
+            ],
+            "dishIngredients": "Corn or wheat tortillas, Grilled or stewed meat (e.g., beef, pork, chicken), Salsa, Onions, Cilantro",
+            "dishDescription": "Tacos are a quintessential Mexican street food, consisting of tortillas filled with various grilled or stewed meats, salsa, onions, and cilantro. They come in countless regional variations and are adored for their portability and flavor.",
+            "dishStory": "Tacos have humble origins in Mexico but have evolved into an international sensation. They are the epitome of Mexican street food culture, offering endless combinations of flavors and textures. Tacos are not just a meal; they are a cultural experience that brings people together."
+        },
+        {
+            "dishName": "Guacamole",
+            "dishNameInOwnLanguage": "Guacamole",
+            "dishImages": [
+                "./img/mexico/guacamole1.jpg",
+                "./img/mexico/guacamole2.jpg",
+                "./img/mexico/guacamole3.jpg"
+            ],
+            "dishIngredients": "Avocado, Tomato, Onion, Cilantro, Lime juice, Chili peppers",
+            "dishDescription": "Guacamole is a creamy dip made from mashed avocados mixed with tomatoes, onions, cilantro, lime juice, and chili peppers. It is a beloved Mexican appetizer, snack, or condiment.",
+            "dishStory": "Guacamole is a testament to the simplicity and freshness of Mexican cuisine. It is a versatile dish enjoyed with tortilla chips, tacos, or as a side dish. The creamy texture of avocados combined with zesty lime and spicy chili creates a flavor explosion."
+        },
+        {
+            "dishName": "Enchiladas",
+            "dishNameInOwnLanguage": "Enchiladas",
+            "dishImages": [
+                "./img/mexico/enchiladas1.jpg",
+                "./img/mexico/enchiladas2.jpg",
+                "./img/mexico/enchiladas3.jpg"
+            ],
+            "dishIngredients": "Corn tortillas, Filling (chicken, cheese, beans, etc.), Enchilada sauce, Cheese, Sour cream",
+            "dishDescription": "Enchiladas are corn tortillas filled with various ingredients like chicken, cheese, or beans, rolled, and topped with enchilada sauce, cheese, and sour cream before being baked to perfection.",
+            "dishStory": "Enchiladas are comfort food at its finest. They are a hearty and satisfying dish that varies from region to region in Mexico. The combination of flavors and the richness of the enchilada sauce make it a favorite in Mexican households."
+        },
+        {
+            "dishName": "Mole",
+            "dishNameInOwnLanguage": "Mole",
+            "dishImages": [
+                "./img/mexico/mole1.jpg",
+                "./img/mexico/mole2.jpg",
+                "./img/mexico/mole3.jpg"
+            ],
+            "dishIngredients": "Complex sauce (chocolate, chili peppers, spices, nuts), Meat (chicken, turkey, pork), Rice or tortillas",
+            "dishDescription": "Mole is a complex and rich sauce made from ingredients like chocolate, chili peppers, spices, and nuts. It is typically served over meat, such as chicken or pork, and accompanied by rice or tortillas.",
+            "dishStory": "Mole is a culinary masterpiece that represents the depth of Mexican cuisine. There are various types of mole, each with its own unique flavor profile. It is often prepared for special occasions and celebrations, showcasing the dedication and artistry of Mexican cooks."
+        },
+        {
+            "dishName": "Chiles Rellenos",
+            "dishNameInOwnLanguage": "Chiles Rellenos",
+            "dishImages": [
+                "./img/mexico/chiles_rellenos1.jpg",
+                "./img/mexico/chiles_rellenos2.jpg",
+                "./img/mexico/chiles_rellenos3.jpg"
+            ],
+            "dishIngredients": "Large chili peppers, Cheese or meat filling, Egg batter, Tomato sauce, Rice",
+            "dishDescription": "Chiles Rellenos are large chili peppers stuffed with cheese or meat, dipped in egg batter, fried until golden, and served with tomato sauce and rice.",
+            "dishStory": "Chiles Rellenos are a delightful blend of flavors and textures. The contrast between the spicy chili, savory filling, and rich tomato sauce creates a harmonious dish that is cherished in Mexican cuisine."
+        },
+        {
+            "dishName": "Ceviche",
+            "dishNameInOwnLanguage": "Ceviche",
+            "dishImages": [
+                "./img/mexico/ceviche1.jpg",
+                "./img/mexico/ceviche2.jpg",
+                "./img/mexico/ceviche3.jpg"
+            ],
+            "dishIngredients": "Fresh seafood (shrimp, fish, or scallops), Lime or lemon juice, Onion, Tomato, Cilantro, Chili peppers",
+            "dishDescription": "Ceviche is a refreshing seafood dish made by marinating fresh shrimp, fish, or scallops in lime or lemon juice, then mixed with onions, tomatoes, cilantro, and chili peppers.",
+            "dishStory": "Ceviche is a testament to Mexico's coastal culinary excellence. It's a dish that highlights the freshness of seafood and the vibrant flavors of Mexican ingredients. Ceviche is often enjoyed as a cool and tangy appetizer."
+        },
+        {
+            "dishName": "Pozole",
+            "dishNameInOwnLanguage": "Pozole",
+            "dishImages": [
+                "./img/mexico/pozole1.jpg",
+                "./img/mexico/pozole2.jpg",
+                "./img/mexico/pozole3.jpg"
+            ],
+            "dishIngredients": "Hominy corn, Pork or chicken, Broth, Lettuce, Radishes, Onion, Cilantro, Lime, Chili peppers",
+            "dishDescription": "Pozole is a hearty soup made from hominy corn and pork or chicken, served with garnishes like lettuce, radishes, onions, cilantro, lime, and chili peppers.",
+            "dishStory": "Pozole is often enjoyed during special occasions and celebrations in Mexico. It is known for its robust and comforting flavors, making it a staple dish in Mexican households."
+        },
+        {
+            "dishName": "Tamales",
+            "dishNameInOwnLanguage": "Tamales",
+            "dishImages": [
+                "./img/mexico/tamales1.jpg",
+                "./img/mexico/tamales2.jpg",
+                "./img/mexico/tamales3.jpg"
+            ],
+            "dishIngredients": "Corn masa dough, Filling (meat, cheese, vegetables), Banana leaves or corn husks, Salsa",
+            "dishDescription": "Tamales are corn masa dough filled with various ingredients like meat, cheese, or vegetables, wrapped in banana leaves or corn husks, and steamed to perfection.",
+            "dishStory": "Tamales have ancient origins in Mexican cuisine and are a cherished comfort food. They are often prepared for special occasions and family gatherings, highlighting the heartwarming tradition of Mexican cooking."
+        }
+    ],
+    "eatingHabits": [
+        {
+            "eatingHabitName": "Sharing Meals",
+            "eatingHabitDescription": "In Mexico, sharing meals with family and friends is a common practice, emphasizing unity and community.",
+            "eatingHabitReason": "Mexican culture values the act of sharing meals as a way to strengthen bonds and build a sense of community."
+        },
+        {
+            "eatingHabitName": "Use of Chili Peppers",
+            "eatingHabitDescription": "Mexican cuisine is known for its bold use of chili peppers, adding depth and heat to dishes.",
+            "eatingHabitReason": "The use of chili peppers in Mexican cuisine not only adds flavor but also reflects the rich culinary history and agricultural heritage of the region."
+        },
+        {
+            "eatingHabitName": "Handheld Street Food",
+            "eatingHabitDescription": "Street food, such as tacos and tamales, is a popular and convenient way to enjoy meals while on the go.",
+            "eatingHabitReason": "Handheld street food is a practical choice for people on the move and provides a quick and delicious way to savor Mexican flavors."
+        },
+        {
+            "eatingHabitName": "Salsas and Condiments",
+            "eatingHabitDescription": "Mexican meals are often accompanied by a variety of salsas and condiments, allowing diners to customize their dishes to their preferred level of spiciness.",
+            "eatingHabitReason": "The presence of various salsas and condiments in Mexican cuisine enhances the dining experience by offering diners the freedom to tailor the spiciness and flavor of their meals."
+        },
+        {
+            "eatingHabitName": "Late Dinners",
+            "eatingHabitDescription": "Dinner in Mexico is typically enjoyed later in the evening, often well past 8:00 PM.",
+            "eatingHabitReason": "The tradition of late dinners in Mexico aligns with the country's relaxed and social approach to dining, allowing people to savor their meals and spend time with loved ones in the evening."
+        },
+        {
+            "eatingHabitName": "Fresh Ingredients",
+            "eatingHabitDescription": "The use of fresh and locally sourced ingredients is highly valued in Mexican cooking.",
+            "eatingHabitReason": "Mexican cuisine places a premium on the use of fresh, locally sourced ingredients to create vibrant and authentic dishes."
+        }
+        
+    ],
+    "festivals": [
+        {
+            "festivalName": "Día de la Candelaria",
+            "festivalMonth": 2,
+            "festivalDate": 2,
+            "festivalImage": "./img/mexico/dia_de_la_candelaria.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Rosca de Reyes",
+                    "festivalDishImage": "./img/mexico/rosca_de_reyes.jpg",
+                    "festivalDishDescription": "Rosca de Reyes is a sweet bread shaped like a ring, with a hidden figurine and small toys inside."
+                }
+            ],
+            "festivalDescription": "Día de la Candelaria follows the traditions of Epiphany and involves sharing Rosca de Reyes. Whoever finds the figurine in their slice is responsible for hosting a feast on Día de la Candelaria."
+        },
+        {
+            "festivalName": "Semana Santa (Holy Week)",
+            "festivalMonth": 4,
+            "festivalDate": 1,
+            "festivalImage": "./img/mexico/semana_santa.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Capirotada",
+                    "festivalDishImage": "./img/mexico/capirotada.jpg",
+                    "festivalDishDescription": "Capirotada is a traditional bread pudding dessert made with piloncillo (unrefined cane sugar) and a variety of toppings."
+                }
+            ],
+            "festivalDescription": "Semana Santa is a significant religious observance in Mexico. Capirotada, a sweet and savory bread pudding, is often enjoyed during this time as a special treat."
+        },
+        {
+            "festivalName": "Cinco de Mayo",
+            "festivalMonth": 5,
+            "festivalDate": 5,
+            "festivalImage": "./img/mexico/cinco_de_mayo.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Chiles en Nogada",
+                    "festivalDishImage": "./img/mexico/chiles_en_nogada.jpg",
+                    "festivalDishDescription": "Chiles en Nogada, stuffed poblano peppers with walnut cream sauce, red pomegranate seeds, and parsley, are a patriotic dish for Cinco de Mayo."
+                }
+            ],
+            "festivalDescription": "Cinco de Mayo commemorates the Mexican victory over the French at the Battle of Puebla. Chiles en Nogada, with its red, white, and green colors, is a symbol of Mexican patriotism."
+        },
+        {
+            "festivalName": "Guelaguetza",
+            "festivalMonth": 7,
+            "festivalDate": 1,
+            "festivalImage": "./img/mexico/guelaguetza.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Tlayudas",
+                    "festivalDishImage": "./img/mexico/tlayudas.jpg",
+                    "festivalDishDescription": "Tlayudas, large tortillas topped with beans, cheese, and other ingredients, are a popular dish during the Guelaguetza festival."
+                }
+            ],
+            "festivalDescription": "Guelaguetza is a vibrant cultural festival celebrated in Oaxaca, Mexico. Tlayudas, a regional specialty, are enjoyed during the festivities and showcase the diversity of Oaxacan cuisine."
+        },
+        {
+            "festivalName": "Independence Day (Grito de Dolores)",
+            "festivalMonth": 9,
+            "festivalDate": 16,
+            "festivalImage": "./img/mexico/independence_day.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Tacos de Carnitas",
+                    "festivalDishImage": "./img/mexico/carnitas_tacos.jpg",
+                    "festivalDishDescription": "Tacos de Carnitas, filled with crispy pork, are a popular choice for Independence Day celebrations."
+                }
+            ],
+            "festivalDescription": "Independence Day in Mexico celebrates the country's freedom from Spanish colonial rule. Tacos de Carnitas, with their deliciously crispy pork, are a favorite choice for the festivities."
+        },
+        {
+            "festivalName": "Día de los Muertos (Day of the Dead)",
+            "festivalMonth": 11,
+            "festivalDate": 1,
+            "festivalImage": "./img/mexico/day_of_the_dead.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Pan de Muerto",
+                    "festivalDishImage": "./img/mexico/pan_de_muerto.jpg",
+                    "festivalDishDescription": "Pan de Muerto, or 'Bread of the Dead,' is a sweet, round bread often adorned with bone-shaped decorations."
+                }
+            ],
+            "festivalDescription": "Día de los Muertos is a vibrant Mexican holiday celebrating and remembering deceased loved ones. Families create altars with offerings, and Pan de Muerto is a sweet bread baked in their honor."
+        },
+        {
+            "festivalName": "Las Posadas",
+            "festivalMonth": 12,
+            "festivalDate": 16,
+            "festivalImage": "./img/mexico/las_posadas.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Ponche",
+                    "festivalDishImage": "./img/mexico/ponche.jpg",
+                    "festivalDishDescription": "Ponche is a warm fruit punch made with seasonal fruits, spices, and often includes tejocotes (Mexican hawthorns)."
+                }
+            ],
+            "festivalDescription": "Las Posadas is a reenactment of Mary and Joseph's search for lodging before Jesus' birth. Ponche, a warm fruit punch, is a comforting beverage enjoyed during this time."
+        },
+        {
+            "festivalName": "Navidad (Christmas)",
+            "festivalMonth": 12,
+            "festivalDate": 25,
+            "festivalImage": "./img/mexico/navidad.jpg",
+            "festivalDishes": [
+                {
+                    "festivalDishName": "Bacalao a la Vizcaína",
+                    "festivalDishImage": "./img/mexico/bacalao_a_la_vizcaina.jpg",
+                    "festivalDishDescription": "Bacalao a la Vizcaína is a Christmas dish featuring salted cod in a tomato and chili pepper sauce."
+                }
+            ],
+            "festivalDescription": "Christmas in Mexico is a time of festive celebrations and delicious food. Bacalao a la Vizcaína, with its bold flavors, is a cherished Christmas tradition."
+        }
+    ]
+}
