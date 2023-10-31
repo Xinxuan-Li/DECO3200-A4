@@ -93,12 +93,16 @@
 .dish-card {
     background-color: white;
     margin: 20px 40px;
-    padding: 10px 20px;
+    /* padding: 10px 20px; */
     width: 35%;
-    height: 250px;
+    height: 280px;
     display: flex;
     justify-content: space-between;
     border-bottom: 3px #E47A3C solid;
+}
+
+.dish-card * {
+    padding: 5px;
 }
 
 .button-text {
@@ -130,11 +134,11 @@ img.dish-card-img-hovered {
     overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;
-    -webkit-line-clamp: 8;
-    line-clamp: 8;
+    -webkit-line-clamp: 10;
+    line-clamp: 10;
     -webkit-box-orient: vertical;
-    padding-top: 30px;
-    width: 90%;
+    padding-top: 20px;
+    width: 80%;
 }
 
 .card-right {
@@ -148,7 +152,7 @@ img.dish-card-img-hovered {
     font-size: 30px;
     border: none;
     padding: 10px;
-    margin:20px
+    margin: 20px
 }
 
 .back-to-dishes-button:hover {
@@ -205,7 +209,7 @@ img.dish-card-img-hovered {
     margin: 20px 40px;
     padding: 0;
     width: 35%;
-    height: 250px;
+    height: 280px;
     display: flex;
     justify-content: space-between;
     border-bottom: 3px #E47A3C solid;
@@ -236,10 +240,10 @@ img.dish-card-img-hovered {
 }
 
 .habit-card {
-    width: 15%;
+    width: 21%;
     height: 250px;
     padding: 20px;
-    margin: 40px 55px;
+    margin: 20px;
     border: none;
     background-color: #E47A3C;
     color: white;
@@ -260,8 +264,14 @@ img.dish-card-img-hovered {
     justify-content: space-around;
     align-content: flex-start;
     flex-wrap: wrap;
+    width: 90%;
+    margin-left: 30px;
     padding-bottom: 100px;
     margin-bottom: 200px;
+}
+
+.habit-reason {
+    padding: 10px;
 }
 
 .habit-name {
@@ -275,7 +285,8 @@ img.dish-card-img-hovered {
 }
 
 .learn-more-btn {
-    margin-top: 130px;
+    margin-top: 140px;
+    font-size: 20px;
     visibility: hidden;
 }
 
@@ -341,4 +352,20 @@ img.dish-card-img-hovered {
     height: 130px;
     object-fit: cover;
     border-radius: 10px;
+}
+
+.card-right-hovered {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.learn-more {
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.event-logo {
+    width: 60px;
 }
