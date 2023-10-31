@@ -16,7 +16,6 @@ function PageBody({ country, isInCountryPage }) {
         setCurrentSection(["dishes", dish])
     }
 
-    
     function handleHabitButtonClick() {
         setCurrentSection(["habits", null]);
     }
@@ -27,6 +26,7 @@ function PageBody({ country, isInCountryPage }) {
 
     function renderSection() {
         let contentSectionElement;
+        // render different content based on the button clicked. 
         switch (currentSection[0]) {
             case "dishes":
                 contentSectionElement = <DishCardsContainer currentDish={currentSection[1]} onDishCardClick={handleDishCardClick} onBackButtonClick={handleDishButtonClick} dishes={country.traditionalDishes}/>;
@@ -42,7 +42,7 @@ function PageBody({ country, isInCountryPage }) {
 
     // If this is a country page or not
     const pageBodyElement = isInCountryPage ? (
-        <>
+        <div className="main-contents-country">
             <BodySidebar
                 country={country}
                 isInCountryPage={isInCountryPage}
@@ -50,13 +50,16 @@ function PageBody({ country, isInCountryPage }) {
                 onHabitButtonClick={handleHabitButtonClick}
                 onFestivalButtonClick={handleFestivalButtonClick}
             ></BodySidebar>
+            {/* render the content based on the button clicked, this is in the above function */}
             {renderSection()}
-        </>
+        </div>
+        
     ) : (
-        <>
+        // if it is not then render the event page content
+        <div className="main-contents-country">
             <BodySidebar isInCountryPage={isInCountryPage}></BodySidebar>
             <EventCardsContainer />
-        </>
+        </div>
     );
 
     return pageBodyElement;

@@ -1,47 +1,344 @@
-.sidebar {
-    width: 100%;
-    height: 100%;
+.sideBar {
+    width: 35%;
+    height: 700px;
     position: relative;
     background: #F5CFB9;
-    border: 1px #773F1F solid;
+    padding-bottom: 60px;
 }
 
-.countryIntro {
-    width: 233px;
-    height: 217px;
-    left: 25px;
-    top: 38px;
-    position: absolute;
-    color: black;
+.sideBar-text {
+    height: 300px;
     font-size: 16px;
-    font-family: Segoe UI;
-    font-weight: 400;
-    word-wrap: break-word;
+    width: 84%;
+    transform: translate(20px, 0px);
 }
 
-.side-bar-btn-wrapper {
-    width: 286px;
-    height: 80px;
-    padding-left: 17px;
-    padding-right: 17px;
-    padding-top: 16px;
-    padding-bottom: 16px;
+.country-sidebar-button-containers {
+    padding: 17px 16px;
+    position: fixed;
     left: 0px;
     top: 419px;
     position: absolute;
     background: #FFFDF1;
-    justify-content: flex-end;
     align-items: center;
-    gap: 10px;
-    display: inline-flex;
+    position: absolute;
 }
 
-#traditional-dish-btn #eating-habit-btn #festival-btn {
+.fill-button {
+    width: 0%;
+    transition: width 1s;
+}
+
+.fill-button:hover {
+    background-color: #697D73;
+    width: 100%;
+}
+
+.country-sidebar-button {
+    background-color: #FFFDF1;
+    width: 100%;
+    border: none;
+    padding: 15px 32px;
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
     text-align: right;
     color: #54321F;
-    font-size: 24px;
     font-family: Segoe UI;
-    font-weight: 400;
-    line-height: 31.20px;
-    word-wrap: break-word;
+}
+ 
+.main-contents-country {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: space-between;
+}
+
+.page-body-container-dish 
+{
+    width: 100%;
+    height: 100vh;
+    overflow-y: scroll;
+    padding-bottom: 20px;
+}
+
+.country-title-bar-container {
+    width: 100%;
+    height: 80px;
+    color: #FFFDF1;
+    font-size: 30px;
+    background-color: #773F1F;
+    display: flex;
+    justify-content:space-between;
+}
+
+.country-flag-and-name-container {
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.country-pattern-container {
+    width: 80%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.dish-card {
+    background-color: white;
+    margin: 20px 40px;
+    padding: 10px 20px;
+    width: 35%;
+    height: 250px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px #E47A3C solid;
+}
+
+.button-text {
+    font-size: 12px;
+}
+
+.dish-card img {
+    width: 120px;
+    height: 120px;
+    border-radius: 4px;
+    object-fit: cover;
+}
+
+img.dish-card-img-hovered {
+    width: 100%;
+    object-fit: cover;
+}
+
+.cards-container {
+    display: flex;
+    justify-content: space-around;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    padding-bottom: 100px;
+    margin-bottom: 200px;
+}
+
+#dish-description {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 8;
+    line-clamp: 8;
+    -webkit-box-orient: vertical;
+    padding-top: 30px;
+    width: 90%;
+}
+
+.card-right {
+    width: 80%;
+}
+
+.back-to-dishes-button {
+    width: auto;
+    background: none;
+    text-align: left;
+    font-size: 30px;
+    border: none;
+    padding: 10px;
+    margin:20px
+}
+
+.back-to-dishes-button:hover {
+    background-color: #E47A3C;
+    color: #FFFDF1;
+}
+
+.dish-image-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} 
+
+.dish-image-container img {
+    width: 200px;
+    height: 200px;
+    padding: 50px;
+    object-fit: cover;
+}
+
+.dish-name-in-dish-info {
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+.dish-card-info-detail-container {
+    border-top: 4px #E47A3C solid;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    width: 80%;
+    margin-left: 60px;
+    padding-right: 50px;
+    margin-bottom: 300px;
+    background-color: white;
+}
+
+.back-to-dishes-button {
+    margin-left: 50px;
+}
+
+.card-left-hovered {
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+    padding: 0;
+}
+
+.card-right-hovered {
+    width: 50%;
+}
+
+.dish-card:hover {
+    background-color: white;
+    margin: 20px 40px;
+    padding: 0;
+    width: 35%;
+    height: 250px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px #E47A3C solid;
+}
+
+img.dish-card-img-hovered {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 0%;
+    padding: 0;
+    margin: 0;
+}
+
+
+.page-body-container-festival  {
+    width: 100%;
+    height: 100vh;
+    overflow-y: scroll;
+    padding-bottom: 20px;
+}
+
+.page-body-container-habits {
+    width: 100%;
+    height: 100vh;
+    overflow-y: scroll;
+    padding-bottom: 20px;
+}
+
+.habit-card {
+    width: 15%;
+    height: 250px;
+    padding: 20px;
+    margin: 40px 55px;
+    border: none;
+    background-color: #E47A3C;
+    color: white;
+}
+
+.section-title {
+    width: auto;
+    background: none;
+    text-align: left;
+    font-size: 30px;
+    border: none;
+    padding: 10px;
+    margin: 20px;
+}
+
+.habits-cards-container {
+    display: flex;
+    justify-content: space-around;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    padding-bottom: 100px;
+    margin-bottom: 200px;
+}
+
+.habit-name {
+    height: auto;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.habit-description {
+    height: 30px;
+}
+
+.learn-more-btn {
+    margin-top: 130px;
+    visibility: hidden;
+}
+
+.habit-card:hover .learn-more-btn {
+    visibility: visible;
+    padding-top: 50px;
+}
+
+.habit-card:hover {
+    border-bottom-right-radius: 40px;
+    background-color: #697D73;
+    color: #FFFDF1;
+    transition: all 0.5s ease-in-out;
+}
+
+.habit-card:hover .habit-name {
+    visibility: hidden;
+    height: 0;
+    padding-bottom: 0px;
+}
+
+.habit-card:hover .habit-description {
+    font-size: 20px;
+}
+
+.festival-card {
+    width: 80%;
+    height: auto;
+    margin-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px 20px;
+    border: none;
+    background-color: #F6F1F0;
+    border-radius: 30px;
+    border-bottom: 5px dashed #D5BDAF;
+}
+
+.festival-card:hover {
+    filter: drop-shadow(grey 10px 10px 10px);
+    transition: all 0.2s ease-in-out;
+}
+
+.festival-month-and-date {
+    width: auto;
+}
+
+.festival-name {
+    text-align: center;
+}
+
+.festival-bar-left {
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: end;
+}
+
+.festival-img {
+    width: 130px;
+    height: 130px;
+    object-fit: cover;
+    border-radius: 10px;
 }

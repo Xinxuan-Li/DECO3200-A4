@@ -2,7 +2,7 @@ import FestivalCard from "./FestivalCard";
 
 function FestivalCardsContainer({ festivals }) {
     return (
-        <section className="page-body-container">
+        <div className="page-body-container-festival">
             <div className="section-title">Festivals</div>
             <div className="cards-container">
                 {festivals.map((festival) => (
@@ -12,7 +12,7 @@ function FestivalCardsContainer({ festivals }) {
                     />
                 ))}
             </div>
-        </section>
+        </div>
     );
 }
 
