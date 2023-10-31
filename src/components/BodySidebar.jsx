@@ -32,7 +32,7 @@ function BodySidebar({
                         onClick={onHabitButtonClick}
                     >
                         <div className="fill-button"></div>
-                        Eating Habits & Table Manners
+                        Eating Habits
                     </button>
                     <button
                         className="country-sidebar-button"

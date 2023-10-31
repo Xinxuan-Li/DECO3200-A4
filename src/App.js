@@ -1,11 +1,10 @@
 import React from "react";
 import Navbar from "./components/Navbar";
 import LandingPage from "./components/LandingPage";
-
-
 import MapPage from "./components/MapPage";
 import CountryPage from "./components/CountryPage";
 import EventPage from "./components/EventPage";
+import HelpAboutFloating from "./components/HelpAboutFloating";
 
 
 import china from "./contents/countries/china";
