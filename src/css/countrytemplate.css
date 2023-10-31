@@ -369,3 +369,20 @@ img.dish-card-img-hovered {
 .event-logo {
     width: 60px;
 }
+
+img.country-flag {
+    
+    width: 80px;
+}
+
+img.country-pattern {
+    height: 5rem;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+div.festival-card, div.dish-card, div.habit-card{
+    cursor: pointer;
+}

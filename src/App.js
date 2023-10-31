@@ -20,6 +20,7 @@ import south_korea from "./contents/countries/south_korea";
 import thailand from "./contents/countries/thailand";
 import turkey from "./contents/countries/turkey";
 import vietnam from "./contents/countries/vietnam";
+import "./css/navbar.css"
 
 function App() {
 	const countryList = [

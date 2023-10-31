@@ -1,0 +1,106 @@
+/* Font */
+@font-face {
+    font-family: "Syncopate";
+    src: url("..\\public\\fonts\\Syncopate-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  /* Navbar */
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 5rem;
+    padding: 0 1.5rem;
+  }
+  
+  /* Logo */
+  div.logo {
+    position: relative;
+    text-align: center;
+    width: 16rem;
+    height: 3.5rem;
+  }
+  
+  div.logo-deco-line {
+    position: absolute;
+    top: 6px;
+    left: -2px;
+    height: 3rem;
+    width: 1rem;
+    background-color: transparent;
+    transition: width 0.5s;
+    z-index: 0;
+  }
+  
+  h1.logo {
+    position: absolute;
+    top: 0.5rem;
+    left: 0;
+    font-family: Syncopate;
+    font-size: 2.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    cursor: pointer;
+    color: #413e3e;
+    transition: color 0.5s;
+    z-index: 1;
+  }
+  
+  div.logo:hover div.logo-deco-line {
+    width: 100%;
+    background-color: #e47a3c;
+    z-index: 0;
+  }
+  
+  div.logo:hover h1.logo {
+    color: white;
+  }
+  
+  /* Navlinks */
+  .navlinks {
+    display: flex;
+    width: 23rem;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  
+  .navlinks button {
+    position: relative;
+    border: none;
+    background: none;
+    display: flex;
+    padding: 0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 0.625rem;
+    font-size: 1.25rem;
+    font-style: normal;
+    color: #413e3e;
+    font-weight: 400;
+    transition: color 0.5s;
+  }
+  
+  /* Button Decoration Line */
+  .nav-button-deco-line {
+    position: absolute;
+    bottom: -0.5rem;
+    left: 0;
+    width: 1rem;
+    height: 2px;
+    background-color: #413e3e;
+    transition: width 0.5s, background-color 0.5s;
+  }
+  
+  button:hover .nav-button-deco-line {
+    width: 100%;
+    background-color: #e47a3c;
+  }
+  
+  button:hover {
+    color: #9c9b9b;
+  }
+  

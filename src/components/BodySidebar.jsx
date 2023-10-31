@@ -1,4 +1,4 @@
-import "../css/countrytemplate.css";
+// import "../css/countrytemplate.css";
 
 function BodySidebar({
     country,
