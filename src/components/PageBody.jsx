@@ -24,6 +24,10 @@ function PageBody({ country, isInCountryPage }) {
         setCurrentSection(["festivals", null]);
     }
 
+    React.useEffect(() => {
+        setCurrentSection(["dishes", null]);
+    }, [country]);
+
     function renderSection() {
         let contentSectionElement;
         // render different content based on the button clicked. 
