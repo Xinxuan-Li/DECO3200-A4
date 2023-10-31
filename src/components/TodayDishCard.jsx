@@ -4,7 +4,7 @@
 function TodayDishCard({ dish, onRandomDishClick }) {
     console.log(dish)
     return (
-        <div className="today-dish-card-container" onClick={() => onRandomDishClick(dish[0])}>
+        <div className="today-dish-card-container" onClick={() => dish && onRandomDishClick(dish[0])}>
             <h1>
                 {dish
                     ? dish[1] + " from " + dish[0]
