@@ -180,20 +180,7 @@
                 }
             ],
             "festivalDescription": "The Cedars International Festival is an annual event held in the picturesque setting of Lebanon's cedar forests. It features music, dance, and cultural performances. Grilled Halloumi cheese, a Lebanese delicacy, is often savored during the festival."
-        },
-        {
-            "festivalName": "Lebanese Independence Day",
-            "festivalMonth": 11,
-            "festivalDate": 22,
-            "festivalImage": "./img/lebanon/lebanese_independence_day.jpg",
-            "festivalDishes": [
-                {
-                    "festivalDishName": "Moussaka",
-                    "festivalDishImage": "./img/lebanon/moussaka.jpg",
-                    "festivalDishDescription": "Moussaka is a traditional Lebanese casserole made from layers of eggplant, spiced meat, and tomatoes."
-                }
-            ],
-            "festivalDescription": "Lebanese Independence Day commemorates the country's liberation from French mandate rule. It is a national holiday marked by patriotic celebrations, parades, and fireworks. Lebanese families often gather to enjoy dishes like Moussaka on this special day."
         }
+
     ]
 }
