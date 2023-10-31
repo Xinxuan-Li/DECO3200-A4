@@ -1,6 +1,7 @@
 import MapCard from "./MapCard";
 import TodayDishCard from "./TodayDishCard";
 import React from "react";
+import "../css/landingpage.css";
 
 function LandingPage({ onWorldMapClick, onRandomCountryClick, onRandomDishButtonClick,  randomDish, onRandomDishClick }) {
     return (

@@ -1,5 +1,5 @@
 import React from 'react';
-import DishCardsContainer from './DishCardsContainer';
+import "../css/footer.css"
 
 function Footer({ onWorldMapClick, onRandomCountryClick, isInCountryPage }) {
 

@@ -1,6 +1,7 @@
 // Explore a random country and Discover via world map card in the landing page
 
 function MapCard({ onClick, image, icon, text, description }) {
+
     return (
         <div className="map-card-container" onClick={onClick}>
             <img className="map-card-img" src={image} alt="map card" />
