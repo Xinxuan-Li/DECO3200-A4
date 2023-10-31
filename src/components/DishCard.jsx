@@ -55,7 +55,8 @@ function DishCard({ dish, onDishCardClick }) {
                 </>
             ) : (
                 <>
-                <div className="card-left-hovered">        <img
+                <div className="card-left-hovered">        
+                    <img
                         className="dish-card-img-hovered"
                         src={dish.dishImages[0]}
                         alt={`${dish.dishName}`}
