@@ -6,12 +6,12 @@ function DishCardsContainer({ dishes, currentDish, onDishCardClick, onBackButton
     // If one dish is clicked, render the dishInfo, otherwise render the dish cards
 
     return (
-        <section className="page-body-container">
+        <div className="page-body-container-dish">
             <button
                 className="back-to-dishes-button"
                 onClick={onBackButtonClick}
             >
-                Click to back to dishes
+                Traditional Dishes
             </button>
             <div className="cards-container">
                 {currentDish === null ? (
@@ -25,10 +25,12 @@ function DishCardsContainer({ dishes, currentDish, onDishCardClick, onBackButton
                         );
                     })
                 ) : (
-                    <DishInfo dish={currentDish} />
+                    <div>
+                        <DishInfo dish={currentDish} />
+                    </div>
                 )}
             </div>
-        </section>
+        </div>
     );
 }
 

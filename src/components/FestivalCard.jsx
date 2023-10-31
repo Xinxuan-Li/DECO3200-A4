@@ -13,19 +13,20 @@ function FestivalCard({ festival }) {
         <div
             className="festival-card"
             onClick={toggle}
-            style={{ border: "1px solid" }}
         >
             {!isExpanded ? (
                 <>
-                    <div className="festival-month-and-date">
-                        <h1 className="festival-date">
-                            {`${festival.festivalDate} Date`}
-                        </h1>
-                        <h1 className="festival-month">
-                            {`${festival.festivalMonth} Month`}
-                        </h1>
+                    <div className="festival-bar-left">
+                        <div className="festival-month-and-date">
+                            <h1 className="festival-date">
+                                {`${festival.festivalDate} Date`}
+                            </h1>
+                            <h1 className="festival-month">
+                                {`${festival.festivalMonth} Month`}
+                            </h1>
+                        </div>
+                        <h2 className="festival-name">{festival.festivalName}</h2>
                     </div>
-                    <h2 className="festival-name">{festival.festivalName}</h2>
                     <img
                         src={festival.festivalImage}
                         className="festival-img"
