@@ -15,10 +15,14 @@ function HabitCard({ habit }) {
         >
             {isFront ? (
                 <>
-                    <h2 className="habit-name">{habit.eatingHabitName}</h2>
-                    <p className="habit-description">
+                    <div className=" habit-name">{habit.eatingHabitName}
+                    </div>
+                    <div className=" habit-description">
                         {habit.eatingHabitDescription}
-                    </p>
+                    </div>
+                    <div className="learn-more-btn" >Want to know why?</div>
+                    <div className="arrow-icon">
+                    </div>
                 </>
             ) : (
                 <>
