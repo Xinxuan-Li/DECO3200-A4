@@ -1,9 +1,14 @@
 import EachCountryMap from "./EachCountryMap";
 import mapPathObjects from "./mapPathObjects";
 import React from "react";
+import "../css/mappage.css";
 
 function MapPage({ onCountryClick, countryMap }) {
     const [hoveredCountry, setHoveredCountry] = React.useState(null);
+    const [isSearchBarExpanded, setSearchBarExpanded] = React.useState(false);
+    function toggleSearchBar() {
+        setSearchBarExpanded(!isSearchBarExpanded);
+    }
     function onMapHover(countryName) {
         setHoveredCountry(countryName);
         console.log(countryName);
@@ -26,16 +31,31 @@ function MapPage({ onCountryClick, countryMap }) {
     ));
 
     return (
-        <div className="map-page">
-            <svg
-                className="world-map-svg"
-                xmlns="http://www.w3.org/2000/svg"
-                width="1010px"
-                height="654"
-                onMouseLeave={resetMapStyle}
+        <div className={`map-page ${isSearchBarExpanded ? "expanded" : ""}`}>
+            <div
+                className="map-search-bar"
+                onClick={toggleSearchBar}
             >
-                {mapElement}
-            </svg>
+                <button>Search</button>
+                {isSearchBarExpanded && (
+                    <form
+                        className="map-search-form"
+                    >
+                        <select>A</select>
+                    </form>
+                )}
+            </div>
+            <div className="map-div" >
+                <svg
+                    className="world-map-svg"
+                    xmlns="http://www.w3.org/2000/svg"
+                    preserveAspectRatio="none"
+                    viewBox="0 0 1010 654"
+                    onMouseLeave={resetMapStyle}
+                >
+                    {mapElement}
+                </svg>
+            </div>
         </div>
     );
 }
