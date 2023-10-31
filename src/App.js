@@ -4,6 +4,7 @@ import LandingPage from "./components/LandingPage";
 import MapPage from "./components/MapPage";
 import CountryPage from "./components/CountryPage";
 import EventPage from "./components/EventPage";
+import HelpAboutFloating from "./components/HelpAboutFloating";
 
 import china from "./contents/countries/china";
 import france from "./contents/countries/france";
@@ -119,14 +120,20 @@ function App() {
         setCurrentPage(["event", null]);
     }
 
+    // floating window
+    const [currentFloating, setCurrentFloating] = React.useState(null);
     function handleHelpClick() {
         console.log(`help page pop up`);
-        // floating window logic here
+        setCurrentFloating("help");
     }
 
     function handleAboutClick() {
         console.log(`about page pop up`);
-        // floating window logic here
+        setCurrentFloating("about");
+    }
+
+    function closeFloatingWindow() {
+        setCurrentFloating(null);
     }
 
     // Change currentPage to countryPage of the countryName
@@ -165,6 +172,12 @@ function App() {
                 onHelpClick={handleHelpClick}
                 onAboutClick={handleAboutClick}
             />
+            {currentFloating && (
+                <HelpAboutFloating
+                    closeWindow={closeFloatingWindow}
+                    type={currentFloating}
+                />
+            )}
             {renderBody()}
         </div>
     );
