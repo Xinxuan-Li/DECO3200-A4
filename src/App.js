@@ -16,7 +16,7 @@ import lebanon from "./contents/countries/lebanon";
 import malaysia from "./contents/countries/malaysia";
 import mexico from "./contents/countries/mexico";
 import russia from "./contents/countries/russia";
-import south_korea from "./contents/countries/south_korea";
+import korea from "./contents/countries/south_korea";
 import thailand from "./contents/countries/thailand";
 import turkey from "./contents/countries/turkey";
 import vietnam from "./contents/countries/vietnam";
@@ -33,7 +33,7 @@ function App() {
 		malaysia,
 		mexico,
 		russia,
-		south_korea,
+		korea,
 		thailand,
 		turkey,
 		vietnam,

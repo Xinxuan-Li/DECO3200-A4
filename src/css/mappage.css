@@ -1,5 +1,7 @@
+/* Custom Scrollbar Styles */
 ::-webkit-scrollbar {
     width: 10px;
+    height: auto;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -11,40 +13,159 @@
     background: transparent;
 }
 
+/* Main Page and Map Layout */
 .map-page {
     display: flex;
     flex-direction: row;
     background-color: #fdf4c9;
     height: calc(100vh - 80px);
-    border: 1px solid #773F1F;
 }
 
-.map-search-bar button {
-    border: none;
-}
-.map-search-bar {
-    padding: 20px;
-    width: 100px;
-    height: 100%;
-    background-color: #f5cfb9;
-    transition: width 0.5s;
-}
-.map-search-form {
-    width: 100px;
-    height: 100%;
-}
-
-.map-page.expanded .map-search-bar {
-    width: 400px;
+.body-div {
+    padding: 50px;
+    width: 100%;
+    border: 1px solid #773f1f;
+    border-left: 0px;
 }
 
 .map-div {
     overflow-y: scroll;
-    padding: 50px 100px;
     width: 100%;
+    height: calc(100vh - 300px);
+    box-shadow: inset 0px 10px 30px rgba(187, 103, 34, 0.25);
 }
+
+.body-div h1 {
+    padding-bottom: 50px;
+    font-family: Segoe UI;
+    font-size: 3rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #773f1f;
+}
+
 .world-map-svg {
     width: 100%;
     height: auto;
 }
 
+/* Search Bar and Form Styles */
+.map-search-bar {
+    padding: 20px;
+    width: 150px;
+    height: 100%;
+}
+
+.map-search-bar {
+    background-color: #f5cfb9;
+    transition: width 0.5s ease-in-out;
+    border: 1px solid #773f1f;
+}
+
+.alphabet-button,
+.all-button {
+    border: none;
+    padding: 25px;
+    width: 1rem;
+    height: 1.25rem;
+    border-radius: 5px;
+    background-color: transparent;
+    cursor: pointer;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: wrap;
+    font-size: 18px;
+    color: #a5a2a2;
+    transition: color 0.5s, background-color 0.5s;
+}
+
+.all-button {
+    color: #030303;
+}
+
+.alphabet-button:hover {
+    background-color: #e0e0e0;
+    color: #413e3e;
+    transition: color 0.5s, background-color 0.5s;
+}
+
+.map-page.expanded .map-search-bar {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+/* Search Div Styles */
+.map-search-div {
+    background-color: #ffffff;
+    width: 250px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 20px 20px 10px rgba(231, 146, 146, 0.116);
+    transition: opacity 0.5s, visibility 0.5s;
+    opacity: 0;
+    visibility: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+.map-page.expanded .map-search-div {
+    width: 250px;
+    opacity: 1;
+    visibility: visible;
+}
+
+.toggle-button {
+    border: none;
+    width: 100%;
+    height: 80px;
+    background-color: transparent;
+    font-family: Syncopate;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid transparent;
+    transition: border-color 0.6s;
+}
+
+.toggle-button:hover {
+    color: #773f1f;
+    border-bottom-color: currentColor;
+}
+
+.map-country-button-div {
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    width: 250px;
+    max-height: calc(100vh - 700px);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 20px 20px 10px rgba(231, 146, 146, 0.116);
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.5s, visibility 0.5s;
+    overflow: scroll;
+}
+
+.map-page.expanded .map-country-button-div {
+    opacity: 1;
+    visibility: visible;
+}
+
+.country-button {
+    background-color: transparent;
+    border: none;
+    font-size: 1.25rem;
+    align-self: flex-start;
+}
