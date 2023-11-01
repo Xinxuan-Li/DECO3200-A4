@@ -25,6 +25,7 @@ function MapPage({ onCountryClick, countryMap }) {
             countryObj={mapPath}
             onMapHover={onMapHover}
             onMapClick={onCountryClick}
+            onMouseLeave={resetMapStyle}
             hoveredCountry={hoveredCountry}
             countryMap={countryMap}
         />
@@ -51,7 +52,6 @@ function MapPage({ onCountryClick, countryMap }) {
                     xmlns="http://www.w3.org/2000/svg"
                     preserveAspectRatio="none"
                     viewBox="0 0 1010 654"
-                    onMouseLeave={resetMapStyle}
                 >
                     {mapElement}
                 </svg>
