@@ -14,7 +14,7 @@ function EachCountryMap({
 
     const hoverStyle = {
         fill:
-            countryObj.name.length === 2 ? "gray" : `url(#${countryObj.name})`,
+            countryObj.name.length === 2 ? "#5A2424" : `url(#${countryObj.name})`,
 
         // path should be filled with the country pattern
         stroke: "white",

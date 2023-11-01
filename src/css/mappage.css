@@ -12,51 +12,39 @@
 }
 
 .map-page {
-    overflow: scroll;
     display: flex;
-    flex-direction: column;
-    transition: flex-direction 0.5s;
-    background-color: #FDF4C9;
-    height: calc(100vh - 80px)
-}
-.map-page.expanded {
     flex-direction: row;
-}
-
-.map-search-bar {
-    padding: 20px;
-    animation: expandSearchBar 0.5s;
-    background-color: #F5CFB9;
-    
-}
-
-@keyframes expandSearchBar {
-    from {
-        width: 100px; /* Width starts from 0 */
-    }
-    to {
-        width: 300px; /* Final width is 300px */
-    }
+    background-color: #fdf4c9;
+    height: calc(100vh - 80px);
+    border: 1px solid #773F1F;
 }
 
 .map-search-bar button {
-    border: none
+    border: none;
+}
+.map-search-bar {
+    padding: 20px;
+    width: 100px;
+    height: 100%;
+    background-color: #f5cfb9;
+    transition: width 0.5s;
 }
 .map-search-form {
-    animation: expandSearchBar 0.5s;
-}
-.map-div {
-    padding: 50px;
-    max-width: 100%;
-    max-height: calc(100vh - 150px);
-    flex: 1;
+    width: 100px;
+    height: 100%;
 }
 
+.map-page.expanded .map-search-bar {
+    width: 400px;
+}
+
+.map-div {
+    overflow-y: scroll;
+    padding: 50px 100px;
+    width: 100%;
+}
 .world-map-svg {
     width: 100%;
     height: auto;
 }
 
-form.map-search-form {
-    width: 300px;
-}
