@@ -264,6 +264,21 @@ function MapPage({ onCountryClick, countryMap }) {
                         ? "Close Search Window"
                         : "Search by Country Name"}
                 </button>
+                <div className="arrow-container">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="24"
+                        height="42"
+                        viewBox="0 0 24 42"
+                        fill="none"
+                    >
+                        <path
+                            id="Vector"
+                            d="M20.2001 22.1413V19.8587L0.832105 39.2267C0.201798 39.857 0.201798 40.879 0.832105 41.5093C1.46241 42.1396 2.48434 42.1396 3.11465 41.5093L22.4827 22.1413L23.624 21L22.4827 19.8587L3.11465 0.490675C2.48434 -0.139632 1.46241 -0.139632 0.832105 0.490675C0.201798 1.12098 0.201798 2.14291 0.832105 2.77322L20.2001 22.1413Z"
+                            fill="white"
+                        />
+                    </svg>
+                </div>
 
                 <div className="map-search-div">
                     {countryInitials.map((initials) => (
@@ -305,7 +320,10 @@ function MapPage({ onCountryClick, countryMap }) {
                 )}
             </div>
             <div className="body-div">
-                <h1>Interactive with the map</h1>
+                <div className="text-container">
+                    <h1>Interactive with the map</h1>
+                    <h1>{hoveredCountry && hoveredCountry.toUpperCase()}</h1>
+                </div>
                 <div className="map-div">
                     <svg
                         className="world-map-svg"

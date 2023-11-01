@@ -32,7 +32,10 @@
     overflow-y: scroll;
     width: 100%;
     height: calc(100vh - 300px);
-    box-shadow: inset 0px 10px 30px rgba(187, 103, 34, 0.25);
+    box-shadow: inset 0px 10px 30px rgba(44, 92, 51, 0.25);
+    border-radius: 1rem;
+    border: 6px dashed #697D73;
+    background-color: #FFFDF1;
 }
 
 .body-div h1 {
@@ -168,4 +171,48 @@
     border: none;
     font-size: 1.25rem;
     align-self: flex-start;
+}
+
+.text-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.arrow-container {
+    position: relative;
+    animation: moveArrow 1s infinite alternate;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.map-page.expanded .arrow-container {
+    visibility: hidden;
+}
+
+.arrow {
+    width: 0;
+    height: 0;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 50px solid black;
+    animation: blinkArrow 1s infinite alternate;
+}
+
+@keyframes blinkArrow {
+    0% {
+        opacity: 0.5;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes moveArrow {
+    0% {
+        transform: translateX(0px);
+    }
+    100% {
+        transform: translateX(10px);
+    }
 }
