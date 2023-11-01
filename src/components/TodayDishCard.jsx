@@ -1,15 +1,23 @@
-
 // dish: [selectedCountry.name, selectedDIsh.dishName]
 
 function TodayDishCard({ dish, onRandomDishClick }) {
-    console.log(dish)
+    console.log(dish);
     return (
-        <div className="today-dish-card-container" onClick={() => dish && onRandomDishClick(dish[0])}>
-            <h1>
-                {dish
-                    ? dish[1] + " from " + dish[0]
-                    : "Press the button to get a random dish"}
-            </h1>
+        <div
+            className="today-dish-card-container"
+            onClick={() => dish && onRandomDishClick(dish[0])}
+        >
+            <button title={dish ? `Click to jump to ${dish[0].toUpperCase()} page` : ''}>
+                {dish ? (
+                    <>
+                        {dish[1]}
+                        <span style={{fontWeight: "300"}}> from </span>
+                        {dish[0].toUpperCase()}
+                    </>
+                ) : (
+                    "Press the button to get a random dish"
+                )}
+            </button>
         </div>
     );
 }

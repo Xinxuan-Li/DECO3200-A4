@@ -1,3 +1,11 @@
+/* landing page */
+@font-face {
+    font-family: "Syncopate";
+    src: url("..\\public\\fonts\\Syncopate-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
+
 /* Custom Scrollbar Styles */
 ::-webkit-scrollbar {
     width: 10px;
@@ -30,8 +38,7 @@
 
 .map-div {
     overflow-y: scroll;
-    width: 100%;
-    height: calc(100vh - 300px);
+    height: calc(100vh - 320px);
     box-shadow: inset 0px 10px 30px rgba(44, 92, 51, 0.25);
     border-radius: 1rem;
     border: 6px dashed #697D73;
