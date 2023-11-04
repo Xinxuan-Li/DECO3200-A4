@@ -151,16 +151,16 @@
             "festivalName": "Spring Festival (Chinese New Year)",
             "festivalMonth": 1,
             "festivalDate": 1,
-            "festivalImage": "./img/spring_festival.jpg",
+            "festivalImage": "./img/china/spring_festival.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Jiaozi (Chinese Dumplings)",
-                    "festivalDishImage": "./img/jiaozi.jpg",
+                    "festivalDishImage": "./img/china/jiaozi.jpg",
                     "festivalDishDescription": "Jiaozi, shaped like ancient Chinese currency, symbolize wealth and good fortune. They are a traditional dish for family gatherings."
                 },
                 {
                     "festivalDishName": "Nian Gao (Rice Cakes)",
-                    "festivalDishImage": "./img/nian_gao.jpg",
+                    "festivalDishImage": "./img/china/nian_gao.jpg",
                     "festivalDishDescription": "Nian Gao represents rising prosperity and higher achievement. It's a sticky rice cake enjoyed during the festival."
                 }
             ],
@@ -170,11 +170,11 @@
             "festivalName": "Lantern Festival",
             "festivalMonth": 1,
             "festivalDate": 15,
-            "festivalImage": "./img/lantern_festival.jpg",
+            "festivalImage": "./img/china/lantern_festival.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Tangyuan (Sweet Rice Balls)",
-                    "festivalDishImage": "./img/tangyuan.jpg",
+                    "festivalDishImage": "./img/china/tangyuan.jpg",
                     "festivalDishDescription": "Tangyuan, round and sticky sweet rice balls, symbolize family unity and togetherness. They are a traditional treat during the Lantern Festival."
                 }
             ],
@@ -184,11 +184,11 @@
             "festivalName": "Qingming Festival (Tomb-Sweeping Day)",
             "festivalMonth": 4,
             "festivalDate": 4,
-            "festivalImage": "./img/qingming_festival.jpg",
+            "festivalImage": "./img/china/qingming_festival.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Qingtuan (Green Dumplings)",
-                    "festivalDishImage": "./img/qingtuan.jpg",
+                    "festivalDishImage": "./img/china/qingtuan.jpg",
                     "festivalDishDescription": "Qingtuan are green glutinous rice dumplings filled with sweet or savory fillings. They are a Qingming Festival specialty symbolizing the arrival of spring and new life."
                 }
             ],
@@ -198,11 +198,11 @@
             "festivalName": "Dragon Boat Festival (Duanwu Festival)",
             "festivalMonth": 5,
             "festivalDate": 5,
-            "festivalImage": "./img/dragon_boat_festival.jpg",
+            "festivalImage": "./img/china/dragon_boat_festival.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Zongzi (Sticky Rice Dumplings)",
-                    "festivalDishImage": "./img/zongzi1.jpg",
+                    "festivalDishImage": "./img/china/zongzi1.jpg",
                     "festivalDishDescription": "Zongzi, pyramid-shaped sticky rice dumplings wrapped in bamboo leaves, are the quintessential food of the Dragon Boat Festival. They are filled with various ingredients like meats, beans, and nuts."
                 }
             ],
@@ -212,11 +212,11 @@
             "festivalName": "Qixi Festival (Chinese Valentine's Day)",
             "festivalMonth": 7,
             "festivalDate": 7,
-            "festivalImage": "./img/qixi_festival.jpg",
+            "festivalImage": "./img/china/qixi_festival.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Fruit Plate",
-                    "festivalDishImage": "./img/fruit_plate.jpg",
+                    "festivalDishImage": "./img/china/fruit_plate.jpg",
                     "festivalDishDescription": "On Qixi Festival, it is common to enjoy a plate of fresh and colorful fruits as a symbol of love and romance."
                 }
             ],
@@ -226,11 +226,11 @@
             "festivalName": "Mid-Autumn Festival",
             "festivalMonth": 8,
             "festivalDate": 15,
-            "festivalImage": "./img/mid_autumn_festival.jpg",
+            "festivalImage": "./img/china/mid_autumn_festival.jpg",
             "festivalDishes": [
                 {
                     "festivalDishName": "Mooncakes",
-                    "festivalDishImage": "./img/mooncakes.jpg",
+                    "festivalDishImage": "./img/china/mooncakes.jpg",
                     "festivalDishDescription": "Mooncakes, with various fillings like lotus seed paste and salted egg yolks, are the hallmark of this festival. They symbolize family reunion and togetherness under the full moon."
                 }
             ],

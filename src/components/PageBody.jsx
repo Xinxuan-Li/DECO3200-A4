@@ -3,6 +3,7 @@ import HabitCardsContainer from "./HabitCardsContainer";
 import FestivalCardsContainer from "./FestivalCardsContainer";
 import EventCardsContainer from "./EventCardsContainer";
 import BodySidebar from "./BodySidebar";
+import "../css/countrytemplate.css";
 import React from "react";
 
 function PageBody({ country, isInCountryPage }) {

@@ -60,3 +60,55 @@
     gap: 83px;
     display: inline-flex;
 }
+
+.event-title-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    padding-left: 30px;
+}
+
+.event-page-title {
+    padding-left: 30px;
+}
+
+.a-event-card {
+    width: 40%;
+    height: auto;
+    margin: 15px 20px;
+    background-color: white;
+}
+
+.event-cards-container {
+    width: 90%;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    overflow-y: scroll;
+    margin-bottom: 50px;
+}
+
+#event-img {
+    object-fit: cover;
+    width: 100%;
+}
+
+.event-title {
+    padding: 20px;
+}
+
+.event-description {
+    padding: 20px;
+}
+
+.jump-to-external-event {
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #595959;
+}

@@ -12,6 +12,7 @@ function DishCardsContainer({ dishes, currentDish, onDishCardClick, onBackButton
                 onClick={onBackButtonClick}
             >
                 Traditional Dishes
+            <div className="back-to-dishes-button-hover"></div>
             </button>
             <div className="cards-container">
                 {currentDish === null ? (
