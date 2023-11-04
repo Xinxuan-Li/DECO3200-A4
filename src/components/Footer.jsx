@@ -13,6 +13,7 @@ function Footer({ onWorldMapClick, onRandomCountryClick, isInCountryPage }) {
                 />
                 <img className="map-card-icon" src="./img/icon/world-map.png" alt="map card icon" />
                 <p className="button-text">{isInCountryPage ? "Back to world map": "Discover via world map"}</p>
+                <div className="button-decor-highlight"></div>
             </div>
             <div className="footer-button" onClick={onRandomCountryClick}>
                 <img className="map-card-icon" src="./img/icon/random-country.png" alt="map card icon" />
@@ -22,6 +23,7 @@ function Footer({ onWorldMapClick, onRandomCountryClick, isInCountryPage }) {
                     src="./img/icon/button-arrow.svg"
                     alt="map card arrow"
                 />
+                <div className="button-decor-highlight"></div>
             </div>
         </section>
     );

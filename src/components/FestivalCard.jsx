@@ -5,6 +5,21 @@ import React from "react";
 function FestivalCard({ festival }) {
     const [isExpanded, setIsExpanded] = React.useState();
 
+    const dayMonthDict = {
+        '1': 'January',
+        '2': 'February',
+        '3': 'March',
+        '4': 'April',
+        '5': 'May',
+        '6': 'June',
+        '7': 'July',
+        '8': 'August',
+        '9': 'September',
+        '10': 'October',
+        '11': 'November',
+        '12': 'December',
+    };
+
     function toggle() {
         setIsExpanded(!isExpanded);
     }
@@ -19,10 +34,10 @@ function FestivalCard({ festival }) {
                     <div className="festival-bar-left">
                         <div className="festival-month-and-date">
                             <h1 className="festival-date">
-                                {`${festival.festivalDate} Date`}
+                                {festival.festivalDate}
                             </h1>
                             <h1 className="festival-month">
-                                {`${festival.festivalMonth} Month`}
+                                {dayMonthDict[festival.festivalMonth]}
                             </h1>
                         </div>
                         <h2 className="festival-name">{festival.festivalName}</h2>
@@ -69,7 +84,6 @@ function FestivalCard({ festival }) {
                             );
                         })}
                     </div>
-
                     <div className="festival-description-container">
                         <h2>Description: </h2>
                         <p className="festival-description">
