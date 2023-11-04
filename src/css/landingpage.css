@@ -1,7 +1,134 @@
 /* landing page */
-.map-cards {
+@font-face {
+    font-family: "Syncopate";
+    src: url("../../public/fonts/Syncopate-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
+
+.landing-page {
     display: flex;
-    flex-wrap: wrap;
+    height: 100%;
+}
+
+.left-part {
+    width: 100%;
+    border: 1px solid #773f1f;
+    background-color: #fdf4c9;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 4rem;
+}
+
+.hero h1 {
+    font-family: Segoe UI;
+    font-size: 3rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background: linear-gradient(180deg, #050202 0%, rgba(9, 7, 7, 0.56) 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 2rem;
+}
+
+.hero h3 {
+    color: var(--grey-500, #413e3e);
+
+    font-family: Segoe UI;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 130%;
+}
+
+.today-dishes {
+    display: flex;
+    justify-content: space-between;
+    border-radius: 1rem;
+    border: 4px dashed #697d73;
+    background-color: #fffdf1;
+    padding: 1rem;
+}
+
+.switch-random-dish {
+    animation: blink 1.5s infinite;
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    outline: none;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.switch-random-dish:hover {
+    box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.1);
+    transform: translateY(-2px);
+    background: linear-gradient(to right, #db694c, #ecdd57);
+
+    color: #ffffff;
+}
+
+.switch-random-dish:active {
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    transform: translateY(1px);
+}
+
+@keyframes blink {
+    0%,
+    100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.8;
+    }
+}
+
+.today-dish-card-container {
+    display: flex;
+    align-items: center;
+}
+
+.today-dish-card-container button {background: transparent;
+    color: #54321F;
+    border: none;
+    border-bottom: 2px solid #e58e67;
+    font-size: 2rem;
+    font-weight: 600;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.2s, box-shadow 0.2s, color 0.2s;
+}
+
+.map-cards-section {
+    height: calc(100vh - 150px);
+    overflow-y: scroll;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.map-cards {
+    width: 40rem;
+    border: 1px solid #773f1f;
+    border-left: none;
+    background-color: #f5cfb9;
+}
+
+.map-card-instruction {
+    font-family: Syncopate;
+    font-size: 1.5rem;
+    font-style: bold;
+    font-weight: 700;
+    line-height: normal;
+    margin: 2rem 2rem 0rem 2rem;
 }
 
 div.map-card-container {
@@ -13,6 +140,7 @@ div.map-card-container {
     position: relative;
     overflow: hidden;
     cursor: pointer;
+    margin: 2rem;
 }
 
 img.map-card-img {
