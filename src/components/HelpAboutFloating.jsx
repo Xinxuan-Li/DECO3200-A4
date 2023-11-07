@@ -10,7 +10,7 @@ function HelpAboutFloating({ type, closeWindow }) {
                     {type === "help" ? "Instruction" : "About Us:"}
                 </h3>
                 <p className="help-and-about-floating-window-text">
-                    {type === "help" ? "help texthelpp texthelp texthelp texthelp texthelp p texthelp texthelp texthelp texthelp p texthelp texthelp texthelp texthelp p texthelp texthelp texthelp texthelp p texthelp texthelp texthelp texthelp p texthelp texthelp texthelp texthelp  texthelp texthelp texthelp texthelp text" : "about text"}
+                    {type === "help" ? "Contact: Erica Hu - lyhuxinyi@gmail.com; Xinxuan Li - @; Gabin Hong - @." : "Link to the report:"}
                 </p>
             </div>
         </div>

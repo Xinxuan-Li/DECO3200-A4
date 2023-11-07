@@ -16,10 +16,17 @@ function LandingPage({
                 <div className="hero">
                     <h1>Sustaining Culinary Traditions Around Our World</h1>
                     <h3>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore Lorem ipsum
-                        dolor sit amet, consectetur adipiscing elit, sed do
-                        eiusmod tempor incididunt ut labore{" "}
+                        This culinary journey delves into the delectable
+                        tapestry of tastes, ingredients, and traditions passed
+                        down through generations.
+                        <br />
+                        The mission is to explore the heart of culinary
+                        traditions, from the bustling streets of Asia to the
+                        charming kitchens of Europe, from the vibrant markets of
+                        South America to the cozy homes of North America. <br />
+                        <br />
+                        Welcome to a world of flavors, where traditions are
+                        sustained, and culinary wonders are shared.
                     </h3>
                 </div>
                 <div className="today-dishes">
@@ -46,8 +53,7 @@ function LandingPage({
                             image={"./img/world-map.png"}
                             icon={"./img/icon/world-map.png"}
                             text="Discover via world map"
-                            description="Elit, sed do eiusmod tempor incididunt ut labore 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"
+                            description="Click to explore our interactive world map, where you can search for your hometown or any countries that pique your interest."
                         />
                     </div>
                     <div className="map-card-div">
@@ -56,8 +62,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"
                             image={"./img/random-country.png"}
                             icon={"./img/icon/random-country.png"}
                             text="Explore a Random Country"
-                            description="Elit, sed do eiusmod tempor incididunt ut labore 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"
+                            description="Not sure which country to explore? Give our exciting random country feature a try! It's like drawing a card and embarking on an adventure!"
                         />
                     </div>
                 </section>
