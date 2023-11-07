@@ -19,7 +19,7 @@ function Navbar({
                     Events<div className="nav-button-deco-line"></div>
                 </button>
                 <button onClick={onHelpClick}>
-                    Help<div className="nav-button-deco-line"></div>
+                    Contact<div className="nav-button-deco-line"></div>
                 </button>
                 <button onClick={onAboutClick}>
                     About<div className="nav-button-deco-line"></div>
