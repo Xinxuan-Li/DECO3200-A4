@@ -7,9 +7,19 @@ section.footer {
     width: 100%;
     position: absolute;
     bottom: 0px;
-    background-color: #FDF4C9;
-    border: 1px solid #773F1F;
+    background-color: #fdf4c9;
+    border: 1px solid #773f1f;
+}
 
+.footer-text {
+    color: var(--grey-500, #413e3e);
+    font-family: Segoe UI;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 100%; /* 20px */
+    width: 9rem;
+    text-align: center;
 }
 
 div.footer-button {
@@ -21,4 +31,21 @@ div.footer-button {
     height: 5rem;
     top: 12rem;
     cursor: pointer;
+}
+
+.footer-button:hover img {
+    transform: scale(1.1);
+    transform: translateY(-4px);
+    transition: transform 0.3s ease;
+}
+
+.footer-button:hover p {
+    color: #ffffff;
+    transition: color 0.5s ease, transform 0.3s ease;
+    transform: translateY(-6px);
+}
+
+.footer-button:hover {
+    background-color: #dba382;
+    transition: background-color 0.7s;
 }
