@@ -20,7 +20,7 @@
 
 .sideBar {
     width: 40%;
-    height: 300px;
+    height: calc(100vh - 243px);
     /* position: relative; */
     display: flex;
     background: #f5cfb9;
