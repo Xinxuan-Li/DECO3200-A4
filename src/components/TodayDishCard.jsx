@@ -15,7 +15,7 @@ function TodayDishCard({ dish, onRandomDishClick }) {
                         {dish[0].toUpperCase()}
                     </>
                 ) : (
-                    "Press the button to get a random dish"
+                    "Press the button to randomly generate a dish"
                 )}
             </button>
         </div>
