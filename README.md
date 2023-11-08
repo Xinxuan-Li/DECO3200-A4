@@ -2,7 +2,7 @@
 
 ## Project Introduction
 
-[![FoodTour Video Demonstration](./readmeimg/landing-page.png)](https://www.youtube.com/watch?v=yImAENw3tb4)
+![FoodTour Video Demonstration](https://www.youtube.com/watch?v=yImAENw3tb4)
 
 ### Overview
 
@@ -14,13 +14,12 @@ Key highlights include:
 -   Diving into the customs and stories surrounding culinary traditions.
 -   Strengthening the link between individuals and their cultural roots through food.
 
-
-
 ### Functionalities
 
 -   **Random Country and Dish Selection:** Discover a traditional dish from a randomly selected country, or jump to a suprising country.
 
     ![Random](./readmeimg/random.png)
+
 -   **Interactive World Map:** Select a country to explore, either by searching or interacting with the world map.
 
     ![World map](./readmeimg/world-map.png)
@@ -28,6 +27,7 @@ Key highlights include:
 -   **Food Information of Countries:** Discover eating habits, traditional dishes, and festivals of different countries.
 
     ![Country page](./readmeimg/country-page.png)
+
 -   **Events:** Explore food-related events happening in the Sydney area.
 
     ![Event page](./readmeimg/event-page.png)
