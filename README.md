@@ -2,7 +2,7 @@
 
 ## Project Introduction
 
-[![FoodTour Video Demonstration](https://img.youtube.com/vi/yImAENw3tb4/0.jpg)](https://www.youtube.com/watch?v=yImAENw3tb4)
+[FoodTour Video Demonstration](https://www.youtube.com/watch?v=yImAENw3tb4)
 
 ### Overview
 
