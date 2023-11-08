@@ -29,6 +29,8 @@ Key highlights include:
     ![Country page](./readmeimg/country-page.png)
 -   **Events:** Explore food-related events happening in the Sydney area.
 
+    ![Event page](./readmeimg/event-page.png)
+
 ## Hardware and Software Requirements
 
 ### Hardware
