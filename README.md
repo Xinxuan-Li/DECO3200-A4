@@ -2,6 +2,8 @@
 
 ## Project Introduction
 
+[![FoodTour Video Demonstration](./readmeimg/landing-page.png)](https://www.youtube.com/watch?v=yImAENw3tb4)
+
 ### Overview
 
 FoodTour is a digital guide designed to rekindle connections with cultural culinary traditions around the world. It explores traditional dishes, customs, and stories, celebrating the cultural significance of cuisine.
@@ -12,8 +14,7 @@ Key highlights include:
 -   Diving into the customs and stories surrounding culinary traditions.
 -   Strengthening the link between individuals and their cultural roots through food.
 
-    ![Landing page](./readmeimg/landing-page.png)
-    Landing page of FoodTour
+
 
 ### Functionalities
 
