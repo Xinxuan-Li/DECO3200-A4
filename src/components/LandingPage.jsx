@@ -61,7 +61,7 @@ function LandingPage({
                             onClick={onRandomCountryClick}
                             image={"./img/random-country.png"}
                             icon={"./img/icon/random-country.png"}
-                            text="Explore a Random Country"
+                            text="Explore My First Country"
                             description="Not sure which country to explore? Give our exciting random country feature a try! It's like drawing a card and embarking on an adventure!"
                         />
                     </div>
