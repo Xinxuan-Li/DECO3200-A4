@@ -1,8 +1,10 @@
 # FoodTour: Reconnecting with Culinary Traditions
 
 ## Project Introduction
-
+FoodTour Video Demonstration:
 [FoodTour Video Demonstration](https://www.youtube.com/watch?v=yImAENw3tb4)
+
+[FoodTour Final Report](https://www.figma.com/proto/xxrfltCfMM6zyZxmsqdCWF/DECO3200-Final-Report?page-id=0%3A1&type=design&node-id=1-2&viewport=403%2C571%2C0.21&t=Bteyo9U1A0irA1rr-1&scaling=contain&mode=design)
 
 ### Overview
 
