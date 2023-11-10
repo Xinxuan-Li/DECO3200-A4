@@ -8,7 +8,7 @@ function BodySidebar({
     onFestivalButtonClick,
 }) {
     const eventDescription =
-        "Introdunction to this countryLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore ";
+        "Sydney's food events serve as a passport to the world's kitchens, presenting a rich tapestry of traditional cuisines. Attendees are invited to embark on a culinary voyage, sampling authentic dishes that tell the stories of their origins. From the hearty, spice-infused aromas of Chinatown's street markets to the ceremonial elegance of tea traditions, each offering is a chapter from a different country's recipe book. These events are gateways to global cultures, meticulously prepared by those who hold the heritage of their homeland's flavors. Delight in the traditional tastes that have traveled across oceans to find a home in the heart of Sydney.";
 
     return (
         <section className="sideBar">

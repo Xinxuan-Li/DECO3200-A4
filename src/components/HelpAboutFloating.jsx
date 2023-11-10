@@ -16,7 +16,7 @@ function HelpAboutFloating({ type, closeWindow }) {
                             <br />
                             <strong>Xinxuan Li</strong> - xinxuanli1030@gmail.com
                             <br />
-                            <strong>Gabin Hong</strong> - ghon0206@uni.sydney.edu.au.
+                            <strong>Gabin Hong</strong> - ghon0206@uni.sydney.edu.au
                         </span>
                     ) : (
                         "Link to the report:"
